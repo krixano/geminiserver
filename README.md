@@ -23,4 +23,4 @@ This capsule is currently licensed as MIT, with exceptions given below. Below is
 * Google Golang Standard Library - [BSD-3 Clause](https://opensource.org/licenses/BSD-3-Clause)
 
 ### Exceptions
-* [odin-lang.org](https://github.com/odin-lang/odin-lang.org) - Proprietary, used with permission from [gingerBill](https://github.com/gingerBill). Includes everything under `odin` directory. Copyright: 2016–2021 Ginger Bill
+* [odin-lang.org](https://github.com/odin-lang/odin-lang.org) - Proprietary, used with permission from [gingerBill](https://github.com/gingerBill). Includes everything under `odin` directory unless otherwise specified. Copyright: 2016–2021 Ginger Bill
