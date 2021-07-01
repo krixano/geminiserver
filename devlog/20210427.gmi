@@ -1,0 +1,10 @@
+# April 27, 2021 - Odin Mirror Launch
+I have created a mirror capsule for the Odin website (with permission from the creator). It is not perfect quite yet, so some things like images and the downloads and blog posts are missing. I will fix these things in the future. There is also issues with links inside lists.
+
+P.S. I have also added an Atom feed for this devlog, for anyone who uses that over Gemini Subscriptions.
+
+=> https://odin-lang.org Odin Website
+=> /odin Odin Mirror
+=> /devlog/atom.xml Atom Feed
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210427.gmi Backlinks

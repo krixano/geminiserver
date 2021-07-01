@@ -1,0 +1,4192 @@
+{
+	"feeds": {
+		"gemini://astrobotany.mozz.us/news": {
+			"title": "Astrobotany - News",
+			"link": "gemini://astrobotany.mozz.us/news",
+			"feedlink": "gemini://astrobotany.mozz.us/news",
+			"updated": "2021-07-01T20:41:10.282745146Z",
+			"items": [
+				{
+					"link": "gemini://astrobotany.mozz.us/static/changes/2021-06-15.gmi",
+					"updated": "2021-06-15T00:00:00Z"
+				},
+				{
+					"link": "gemini://astrobotany.mozz.us/static/changes/2021-05-24.gmi",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"link": "gemini://astrobotany.mozz.us/static/changes/2021-05-22.gmi",
+					"updated": "2021-05-22T00:00:00Z"
+				},
+				{
+					"link": "gemini://astrobotany.mozz.us/static/changes/2021-03-26.gmi",
+					"updated": "2021-03-26T00:00:00Z"
+				}
+			]
+		},
+		"gemini://calcuode.com/gemlog/": {
+			"title": "Callum's Gemlog",
+			"link": "gemini://calcuode.com/gemlog/",
+			"feedlink": "gemini://calcuode.com/gemlog/",
+			"updated": "2021-07-01T20:41:07.680931775Z",
+			"items": [
+				{
+					"title": "Running gmni on a Kobo e-reader",
+					"link": "gemini://calcuode.com/gemlog/2021-06-21_gmni-kobo.gmi",
+					"updated": "2021-06-21T00:00:00Z"
+				},
+				{
+					"title": "The E-Reader",
+					"link": "gemini://calcuode.com/gemlog/2021-06-05_ereader.gmi",
+					"updated": "2021-06-05T00:00:00Z"
+				},
+				{
+					"title": "A gmnisrv bug has been fixed",
+					"link": "gemini://calcuode.com/gemlog/2021-05-16_gmnisrv-bug-fixed.gmi",
+					"updated": "2021-05-16T00:00:00Z"
+				},
+				{
+					"title": "The Cheese Sandwich",
+					"link": "gemini://calcuode.com/gemlog/2021-05-07_cheese-sandwich.gmi",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "The Old Drift by Namwali Serpell",
+					"link": "gemini://calcuode.com/gemlog/2021-04-22_the-old-drift.gmi",
+					"updated": "2021-04-22T00:00:00Z"
+				},
+				{
+					"title": "gmisub updates",
+					"link": "gemini://calcuode.com/gemlog/2021-03-30_gmisub-updates.gmi",
+					"updated": "2021-03-30T00:00:00Z"
+				},
+				{
+					"title": "Nina Simone Sings the Blues",
+					"link": "gemini://calcuode.com/gemlog/2021-02-23_simone-sings-blues.gmi",
+					"updated": "2021-02-23T00:00:00Z"
+				},
+				{
+					"title": "Celeste (the video game)",
+					"link": "gemini://calcuode.com/gemlog/2021-02-09_celeste-game.gmi",
+					"updated": "2021-02-09T00:00:00Z"
+				},
+				{
+					"title": "PipeWire",
+					"link": "gemini://calcuode.com/gemlog/2021-02-01_pipewire.gmi",
+					"updated": "2021-02-01T00:00:00Z"
+				},
+				{
+					"title": "Rocannon's World by Ursula K. Le Guin",
+					"link": "gemini://calcuode.com/gemlog/2021-01-19_rocannons-world.gmi",
+					"updated": "2021-01-19T00:00:00Z"
+				},
+				{
+					"title": "The Record Player",
+					"link": "gemini://calcuode.com/gemlog/2020-12-30_record-player.gmi",
+					"updated": "2020-12-30T00:00:00Z"
+				},
+				{
+					"title": "His Dark Materials on the BBC",
+					"link": "gemini://calcuode.com/gemlog/2020-12-24_his-dark-materials.gmi",
+					"updated": "2020-12-24T00:00:00Z"
+				},
+				{
+					"title": "Ancillary Justice by Ann Leckie",
+					"link": "gemini://calcuode.com/gemlog/2020-12-17_ancillary-justice.gmi",
+					"updated": "2020-12-17T00:00:00Z"
+				},
+				{
+					"title": "Reading not working",
+					"link": "gemini://calcuode.com/gemlog/2020-12-08_reading-not-working.gmi",
+					"updated": "2020-12-08T00:00:00Z"
+				},
+				{
+					"title": "gmisub - Subscribe to Gemini pages",
+					"link": "gemini://calcuode.com/gemlog/2020-12-05_gmisub.gmi",
+					"updated": "2020-12-05T00:00:00Z"
+				},
+				{
+					"title": "How I found out about FOSS",
+					"link": "gemini://calcuode.com/gemlog/2020-11-21_how-i-found-out-about-foss.gmi",
+					"updated": "2020-11-21T00:00:00Z"
+				}
+			]
+		},
+		"gemini://carcosa.net/journal": {
+			"title": "An Inhabitant of Carcosa",
+			"link": "gemini://carcosa.net/journal",
+			"feedlink": "gemini://carcosa.net/journal",
+			"updated": "2021-07-01T20:41:05.62072315Z",
+			"items": [
+				{
+					"title": "A tiny bit of Lisp hacking",
+					"link": "gemini://carcosa.net/journal/20210621-lisp-hacking.gmi",
+					"updated": "2021-06-21T00:00:00Z"
+				},
+				{
+					"title": "Warp Drive Roundup",
+					"link": "gemini://carcosa.net/journal/20210607-warp-drive-roundup.gmi",
+					"updated": "2021-06-07T00:00:00Z"
+				},
+				{
+					"title": "A couple notes on headphones",
+					"link": "gemini://carcosa.net/journal/20210520-notes-on-headphones.gmi",
+					"updated": "2021-05-20T00:00:00Z"
+				},
+				{
+					"title": "alt.sysadmin.recovery",
+					"link": "gemini://carcosa.net/journal/20210519-sysadmin-recovery.gmi",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "Zack Snyder’s Justice League",
+					"link": "gemini://carcosa.net/journal/20210430-justiceleague.gmi",
+					"updated": "2021-04-30T00:00:00Z"
+				},
+				{
+					"title": "Weekend Nerdery",
+					"link": "gemini://carcosa.net/journal/20210425-weekend-nerdery.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "Re: comments and pingbacks (reply to ~ew and iveqy)",
+					"link": "gemini://carcosa.net/journal/20210421-comments-and-pingbacks.gmi",
+					"updated": "2021-04-21T00:00:00Z"
+				},
+				{
+					"title": "Gemini Quickstart",
+					"link": "gemini://carcosa.net/journal/20210419-gemini-quickstart.gmi",
+					"updated": "2021-04-19T00:00:00Z"
+				},
+				{
+					"title": "Re: Deliberate Usability Obstacles",
+					"link": "gemini://carcosa.net/journal/20210416-usability-obstacles.gmi",
+					"updated": "2021-04-16T00:00:00Z"
+				},
+				{
+					"title": "Re: Interlingua",
+					"link": "gemini://carcosa.net/journal/20210409-interlingua.gmi",
+					"updated": "2021-04-08T00:00:00Z"
+				},
+				{
+					"title": "The Next Chat App",
+					"link": "gemini://carcosa.net/journal/20210408-the-next-chat-app.gmi",
+					"updated": "2021-04-08T00:00:00Z"
+				},
+				{
+					"title": "Remembering my visit to Mystery Flesh Pit National Park",
+					"link": "gemini://carcosa.net/journal/20210404-mysteryfleshpit.gmi",
+					"updated": "2021-04-04T00:00:00Z"
+				},
+				{
+					"title": "Rags and Candy; a drabble",
+					"link": "gemini://carcosa.net/journal/20210330-raggedy-ann.gmi",
+					"updated": "2021-03-21T00:00:00Z"
+				},
+				{
+					"title": "Re: Throne culture and cancel culture",
+					"link": "gemini://carcosa.net/journal/20210328-re-throne-culture.gmi",
+					"updated": "2021-03-28T00:00:00Z"
+				},
+				{
+					"title": "Nerd-sniped myself",
+					"link": "gemini://carcosa.net/journal/20210321-nerd-sniped.gmi",
+					"updated": "2021-03-16T00:00:00Z"
+				},
+				{
+					"title": "Azathoth and False Vacuum Decay ",
+					"link": "gemini://carcosa.net/journal/20210316-azathoth.gmi",
+					"updated": "2021-03-16T00:00:00Z"
+				},
+				{
+					"title": "Germinal 1.0.0 Release",
+					"link": "gemini://carcosa.net/journal/20210312-germinal-release.gmi",
+					"updated": "2021-03-12T00:00:00Z"
+				},
+				{
+					"title": "Catching up; mostly technical",
+					"link": "gemini://carcosa.net/journal/20210215-catchup-tech.gmi",
+					"updated": "2021-02-15T00:00:00Z"
+				},
+				{
+					"title": "Proposal: a user-friendly interface for the Gemiverse",
+					"link": "gemini://carcosa.net/journal/20210126-user-friendly-interface.gmi",
+					"updated": "2021-01-25T00:00:00Z"
+				},
+				{
+					"title": "Update to gemini-mode.el",
+					"link": "gemini://carcosa.net/journal/20210124-gemini-el-update.gmi",
+					"updated": "2021-01-24T00:00:00Z"
+				},
+				{
+					"title": "Maybe I'll write an aggregator.",
+					"link": "gemini://carcosa.net/journal/20210122-maybe-an-aggregator.gmi",
+					"updated": "2021-01-22T00:00:00Z"
+				},
+				{
+					"title": "Hacker Class Consciousness",
+					"link": "gemini://carcosa.net/journal/20210115-hacker-class-consciousness.gmi",
+					"updated": "2021-01-15T00:00:00Z"
+				},
+				{
+					"title": "I'm behind on my reading",
+					"link": "gemini://carcosa.net/journal/20210108-behind-on-reading.gmi",
+					"updated": "2021-01-08T00:00:00Z"
+				},
+				{
+					"title": "A \"Mundane SF\" Star Trek?",
+					"link": "gemini://carcosa.net/journal/20210104-mundane-trek.gmi",
+					"updated": "2021-01-04T00:00:00Z"
+				},
+				{
+					"title": "A successor protocol to NNTP?",
+					"link": "gemini://carcosa.net/journal/20201228-nntp-successor.gmi",
+					"updated": "2020-12-23T00:00:00Z"
+				},
+				{
+					"title": "A joke in my fortune",
+					"link": "gemini://carcosa.net/journal/20201218-a-joke.gmi",
+					"updated": "2020-12-18T00:00:00Z"
+				},
+				{
+					"title": "No writing: capitalism is a fsck",
+					"link": "gemini://carcosa.net/journal/20201117-no-writing.gmi",
+					"updated": "2020-11-17T00:00:00Z"
+				},
+				{
+					"title": "Too much for a commonplace book entry, too little for a journal entry",
+					"link": "gemini://carcosa.net/journal/20201109-too-much-too-little.gmi",
+					"updated": "2020-11-09T00:00:00Z"
+				},
+				{
+					"title": "Strategy for writing drafts in a gemlog?",
+					"link": "gemini://carcosa.net/journal/20201025-drafts-branching.gmi",
+					"updated": "2020-10-25T00:00:00Z"
+				},
+				{
+					"title": "Finally some recreational computering",
+					"link": "gemini://carcosa.net/journal/20200929-some-computering.gmi",
+					"updated": "2020-09-29T00:00:00Z"
+				},
+				{
+					"title": "ROOPHLOCH 2020",
+					"link": "gemini://carcosa.net/journal/20200916-roophloch.gmi",
+					"updated": "2020-09-16T00:00:00Z"
+				},
+				{
+					"title": "Dungeon Crawl Stone Soup",
+					"link": "gemini://carcosa.net/journal/20200912-dcss.gmi",
+					"updated": "2020-09-12T00:00:00Z"
+				},
+				{
+					"title": "Answers to August's 5Q ",
+					"link": "gemini://carcosa.net/journal/20200829-five-questions.gmi",
+					"updated": "2020-08-29T00:00:00Z"
+				},
+				{
+					"title": "Colemak (reply to Cadey)",
+					"link": "gemini://carcosa.net/journal/20200813-colemak.gmi",
+					"updated": "2020-08-13T00:00:00Z"
+				},
+				{
+					"title": "Haha, router go 'bzzt'!",
+					"link": "gemini://carcosa.net/journal/20200812-haha-router-go-bzzt.gmi",
+					"updated": "2020-08-12T00:00:00Z"
+				},
+				{
+					"title": "What am I doing instead of writing?",
+					"link": "gemini://carcosa.net/journal/20200801-what-am-i-doing.gmi",
+					"updated": "2020-08-01T00:00:00Z"
+				},
+				{
+					"title": "Pens (reply to acdw)",
+					"link": "gemini://carcosa.net/journal/20200716-fountain-pens.gmi",
+					"updated": "2020-07-16T00:00:00Z"
+				},
+				{
+					"title": "The Smol Internet – Mostly Replies",
+					"link": "gemini://carcosa.net/journal/20200713-smolinternet.gmi",
+					"updated": "2020-07-13T00:00:00Z"
+				}
+			]
+		},
+		"gemini://drewdevault.com/": {
+			"title": "Drew DeVault's geminispace",
+			"link": "gemini://drewdevault.com/",
+			"feedlink": "gemini://drewdevault.com/",
+			"updated": "2021-07-01T20:41:05.660167749Z",
+			"items": [
+				{
+					"title": "A finger client",
+					"link": "gemini://drewdevault.com/2021/06/24/finger-client.gmi",
+					"updated": "2021-06-24T00:00:00Z"
+				},
+				{
+					"title": "I will be moving to the Netherlands",
+					"link": "gemini://drewdevault.com/2021/06/07/The-Netherlands.gmi",
+					"updated": "2021-06-07T00:00:00Z"
+				},
+				{
+					"title": "Build your project in our new language",
+					"link": "gemini://drewdevault.com/2021/05/30/Come-build-your-project.gmi",
+					"updated": "2021-05-30T00:00:00Z"
+				},
+				{
+					"title": "Using io_uring to make a high-performance... finger server",
+					"link": "gemini://drewdevault.com/2021/05/24/io_uring-finger-server.gmi",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"title": "How I choose a license",
+					"link": "gemini://drewdevault.com/2021/05/20/How-I-choose-a-license.gmi",
+					"updated": "2021-05-20T00:00:00Z"
+				},
+				{
+					"title": "How to write release notes",
+					"link": "gemini://drewdevault.com/2021/05/19/How-to-write-release-notes.gmi",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "Status update, May 2021",
+					"link": "gemini://drewdevault.com/2021/05/16/Status-update-May-2021.gmi",
+					"updated": "2021-05-16T00:00:00Z"
+				},
+				{
+					"title": "Pinebook Pro review",
+					"link": "gemini://drewdevault.com/2021/05/14/Pinebook-Pro-review.gmi",
+					"updated": "2021-05-14T00:00:00Z"
+				},
+				{
+					"title": "godocs.io six months later",
+					"link": "gemini://drewdevault.com/2021/05/07/godocs.io-six-months-later.gmi",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "Praise for Alpine Linux",
+					"link": "gemini://drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "awk is the coolest tool you don't know",
+					"link": "gemini://drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi",
+					"updated": "2021-05-03T00:00:00Z"
+				},
+				{
+					"title": "Cryptocurrency is an abject disaster",
+					"link": "gemini://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.gmi",
+					"updated": "2021-04-26T00:00:00Z"
+				},
+				{
+					"title": "Recommended read: Why Lichess will always be free",
+					"link": "gemini://drewdevault.com/2021/04/23/Lichess.gmi",
+					"updated": "2021-04-23T00:00:00Z"
+				},
+				{
+					"title": "Parsers all the way down: writing a self-hosting parser",
+					"link": "gemini://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.gmi",
+					"updated": "2021-04-22T00:00:00Z"
+				},
+				{
+					"title": "Status update, April 2021",
+					"link": "gemini://drewdevault.com/2021/04/15/Status-update-April-2021.gmi",
+					"updated": "2021-04-15T00:00:00Z"
+				},
+				{
+					"title": "The Developer Certificate of Origin is a great alternative to a CLA",
+					"link": "gemini://drewdevault.com/2021/04/12/DCO.gmi",
+					"updated": "2021-04-12T00:00:00Z"
+				},
+				{
+					"title": "What should the next chat app look like?",
+					"link": "gemini://drewdevault.com/2021/04/07/The-next-chat-app.gmi",
+					"updated": "2021-04-07T00:00:00Z"
+				},
+				{
+					"title": "Go is a great programming language",
+					"link": "gemini://drewdevault.com/2021/04/02/Go-is-a-great-language.gmi",
+					"updated": "2021-04-02T00:00:00Z"
+				},
+				{
+					"title": "The world's stupidest IRC bot",
+					"link": "gemini://drewdevault.com/2021/03/29/The-worlds-dumbest-IRC-bot.gmi",
+					"updated": "2021-03-29T00:00:00Z"
+				},
+				{
+					"title": "Anime recommendation: *Monogatari",
+					"link": "gemini://drewdevault.com/2021/03/17/Anime-recommendation-gatari.gmi",
+					"updated": "2021-03-17T00:00:00Z"
+				},
+				{
+					"title": "Status update, March 2021",
+					"link": "gemini://drewdevault.com/2021/03/15/Status-update-March-2021.gmi",
+					"updated": "2021-03-15T00:00:00Z"
+				},
+				{
+					"title": "The corporate surveillance machine is killing people",
+					"link": "gemini://drewdevault.com/2021/03/06/Corporate-surveillance-murder.gmi",
+					"updated": "2021-03-06T00:00:00Z"
+				},
+				{
+					"title": "Gemreader, a feed reader for Geminispace",
+					"link": "gemini://drewdevault.com/2021/03/05/Gemreader.gmi",
+					"updated": "2021-03-05T00:00:00Z"
+				},
+				{
+					"title": "To make money in FOSS, build a business first",
+					"link": "gemini://drewdevault.com/2021/03/03/To-make-money-in-FOSS-build-a-business.gmi",
+					"updated": "2021-03-03T00:00:00Z"
+				},
+				{
+					"title": "Celeste",
+					"link": "gemini://drewdevault.com/2021/03/01/Celeste.gmi",
+					"updated": "2021-03-01T00:00:00Z"
+				},
+				{
+					"title": "Gmail is a huge source of spam",
+					"link": "gemini://drewdevault.com/2021/02/25/Gmail-is-a-huge-source-of-spam.gmi",
+					"updated": "2021-02-25T00:00:00Z"
+				},
+				{
+					"title": "Free gemini hosting on sourcehut",
+					"link": "gemini://drewdevault.com/2021/02/20/Free-gemini-hosting.gmi",
+					"updated": "2021-02-20T00:00:00Z"
+				},
+				{
+					"title": "Status update, February 2021",
+					"link": "gemini://drewdevault.com/2021/02/15/Status-update-February-2021.gmi",
+					"updated": "2021-02-15T00:00:00Z"
+				},
+				{
+					"title": "Use open platforms — or else",
+					"link": "gemini://drewdevault.com/2021/01/28/Use-open-platforms-or-else.gmi",
+					"updated": "2021-01-28T00:00:00Z"
+				},
+				{
+					"title": "Open source means surrendering your monopoly over commercial exploitation",
+					"link": "gemini://drewdevault.com/2021/01/20/FOSS-is-to-surrender-your-monopoly.gmi",
+					"updated": "2021-01-20T00:00:00Z"
+				},
+				{
+					"title": "Spooky action at a distance",
+					"link": "gemini://drewdevault.com/2021/01/19/Spooky-code-at-a-distance.gmi",
+					"updated": "2021-01-19T00:00:00Z"
+				},
+				{
+					"title": "Status update, January 2021",
+					"link": "gemini://drewdevault.com/2021/01/15/Status-update-January-2021.gmi",
+					"updated": "2021-01-15T00:00:00Z"
+				},
+				{
+					"title": "History will not remember us fondly",
+					"link": "gemini://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.gmi",
+					"updated": "2021-01-07T00:00:00Z"
+				},
+				{
+					"title": "Fostering a culture that values stability and reliability",
+					"link": "gemini://drewdevault.com/2021/01/04/A-culture-of-stability-and-reliability.gmi",
+					"updated": "2021-01-04T00:00:00Z"
+				},
+				{
+					"title": "Every commit should be a perfect, atomic unit of change",
+					"link": "gemini://drewdevault.com/2021/01/02/2021-01-02-Every-commit-should-be-perfect.gmi",
+					"updated": "2021-01-02T00:00:00Z"
+				},
+				{
+					"title": "A megacorp is not your dream job",
+					"link": "gemini://drewdevault.com/2021/01/01/Megacorps-are-not-your-dream-job.gmi",
+					"updated": "2021-01-01T00:00:00Z"
+				},
+				{
+					"title": "H0 H0 H0",
+					"link": "gemini://drewdevault.com/2020/12/25/H0-H0-H0.gmi",
+					"updated": "2020-12-25T00:00:00Z"
+				},
+				{
+					"title": "How to design a new programming language from scratch",
+					"link": "gemini://drewdevault.com/2020/12/25/How-to-design-a-new-programming-language.gmi",
+					"updated": "2020-12-25T00:00:00Z"
+				},
+				{
+					"title": "Status update, December 2020",
+					"link": "gemini://drewdevault.com/2020/12/15/Status-update-December-2020.gmi",
+					"updated": "2020-12-15T00:00:00Z"
+				},
+				{
+					"title": "Become shell literate",
+					"link": "gemini://drewdevault.com/2020/12/12/Shell-literacy.gmi",
+					"updated": "2020-12-12T00:00:00Z"
+				},
+				{
+					"title": "Web analytics should at least meet the standards of informed consent",
+					"link": "gemini://drewdevault.com/2020/12/04/Analytics-and-informed-consent.gmi",
+					"updated": "2020-12-04T00:00:00Z"
+				},
+				{
+					"title": "俺のスカイツリー旅行",
+					"link": "gemini://drewdevault.com/2020/11/29/skytree.gmi",
+					"updated": "2020-11-29T00:00:00Z"
+				},
+				{
+					"title": "A few ways to make money in FOSS",
+					"link": "gemini://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.gmi",
+					"updated": "2020-11-20T00:00:00Z"
+				},
+				{
+					"title": "We can do better than DuckDuckGo",
+					"link": "gemini://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.gmi",
+					"updated": "2020-11-17T00:00:00Z"
+				},
+				{
+					"title": "RE: Is This Aggregator Idea Good?",
+					"link": "gemini://drewdevault.com/2020/11/15/RE-Is-this-aggregator-idea-good.gmi",
+					"updated": "2020-11-15T00:00:00Z"
+				},
+				{
+					"title": "Status update, November 2020",
+					"link": "gemini://drewdevault.com/2020/11/15/Status-update-November-2020.gmi",
+					"updated": "2020-11-15T00:00:00Z"
+				},
+				{
+					"title": "Copying ain't stealing",
+					"link": "gemini://drewdevault.com/2020/11/12/Copying-aint-stealing.gmi",
+					"updated": "2020-11-12T00:00:00Z"
+				},
+				{
+					"title": "My experience as a poll worker in Pennsylvania",
+					"link": "gemini://drewdevault.com/2020/11/10/2020-Election-worker.gmi",
+					"updated": "2020-11-10T00:00:00Z"
+				},
+				{
+					"title": "Hacker News over Gemini",
+					"link": "gemini://drewdevault.com/2020/11/08/HN-over-Gemini.gmi",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": "Utility vs usability",
+					"link": "gemini://drewdevault.com/2020/11/06/Utility-vs-usability.gmi",
+					"updated": "2020-11-06T00:00:00Z"
+				},
+				{
+					"title": "What is this Gemini thing anyway, and why am I excited about it?",
+					"link": "gemini://drewdevault.com/2020/11/01/What-is-Gemini-anyway.gmi",
+					"updated": "2020-11-01T00:00:00Z"
+				},
+				{
+					"title": "I'm handing over maintenance of wlroots and sway to Simon Ser",
+					"link": "gemini://drewdevault.com/2020/10/23/Im-handing-wlroots-and-sway-to-Simon.gmi",
+					"updated": "2020-10-23T00:00:00Z"
+				},
+				{
+					"title": "Firefox: The Jewel^WEmbarassment of Open Source",
+					"link": "gemini://drewdevault.com/2020/10/22/Firefox-the-embarassment-of-FOSS.gmi",
+					"updated": "2020-10-22T00:00:00Z"
+				},
+				{
+					"title": "New workstation",
+					"link": "gemini://drewdevault.com/2020/10/18/New-workstation.gmi",
+					"updated": "2020-10-18T00:00:00Z"
+				},
+				{
+					"title": "Status update, October 2020",
+					"link": "gemini://drewdevault.com/2020/10/15/Status-update-October-2020.gmi",
+					"updated": "2020-10-15T00:00:00Z"
+				},
+				{
+					"title": "Kineto: An HTTP to Gemini proxy",
+					"link": "gemini://drewdevault.com/2020/10/11/Kineto-a-gemini-proxy.gmi",
+					"updated": "2020-10-11T00:00:00Z"
+				},
+				{
+					"title": "Four principles of software engineering",
+					"link": "gemini://drewdevault.com/2020/10/09/Four-principles-of-software-engineering.gmi",
+					"updated": "2020-10-09T00:00:00Z"
+				},
+				{
+					"title": "Spamtoberfest",
+					"link": "gemini://drewdevault.com/2020/10/01/Spamtoberfest.gmi",
+					"updated": "2020-10-01T00:00:00Z"
+				},
+				{
+					"title": "Gemini and Hugo",
+					"link": "gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi",
+					"updated": "2020-09-27T00:00:00Z"
+				},
+				{
+					"title": "A tale of two libcs",
+					"link": "gemini://drewdevault.com/2020/09/25/A-story-of-two-libcs.gmi",
+					"updated": "2020-09-25T00:00:00Z"
+				},
+				{
+					"title": "TOFU recommendations for Gemini",
+					"link": "gemini://drewdevault.com/2020/09/21/Gemini-TOFU.gmi",
+					"updated": "2020-09-21T00:00:00Z"
+				}
+			]
+		},
+		"gemini://friendo.monster/": {
+			"title": "Friendo dot monster",
+			"link": "gemini://friendo.monster/",
+			"feedlink": "gemini://friendo.monster/",
+			"updated": "2021-07-01T20:41:11.027063172Z",
+			"items": [
+				{
+					"title": "‒ Added RSS to my .gmi to .html script",
+					"link": "gemini://friendo.monster/log/added_rss_to_script.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "‒ Generating my website from my Gemmini pod",
+					"link": "gemini://friendo.monster/log/gemini_first.gmi",
+					"updated": "2021-04-15T00:00:00Z"
+				},
+				{
+					"title": "‒ A script to interleave tiny Gemini logs",
+					"link": "gemini://friendo.monster/log/lace.gmi",
+					"updated": "2021-02-18T00:00:00Z"
+				},
+				{
+					"title": "‒ There is no right Linux distro",
+					"link": "gemini://friendo.monster/log/there_is_no_right_linux_distro.gmi",
+					"updated": "2021-02-03T00:00:00Z"
+				},
+				{
+					"title": "‒ Potentially usefuil script: pop",
+					"link": "gemini://friendo.monster/log/pop.gmi",
+					"updated": "2021-01-26T00:00:00Z"
+				},
+				{
+					"title": "‒ Easier ssh with ~/.ssh/config",
+					"link": "gemini://friendo.monster/log/ssh_config.gmi",
+					"updated": "2021-01-21T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gem.acdw.net/do/more/100": {
+			"title": "acdw's Blog",
+			"link": "gemini://gem.acdw.net/do/more/100",
+			"feedlink": "gemini://gem.acdw.net/do/more/100",
+			"updated": "2021-07-01T20:41:05.853343888Z",
+			"items": [
+				{
+					"title": ". lunch lines",
+					"link": "gemini://gem.acdw.net:1965/page/2021-06-14.%20lunch%20lines",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": ". re: html \u0026 gemini status",
+					"link": "gemini://gem.acdw.net:1965/page/2021-05-25.%20re%3A%20html%20%26%20gemini%20status",
+					"updated": "2021-05-25T00:00:00Z"
+				},
+				{
+					"title": ". going-away party",
+					"link": "gemini://gem.acdw.net:1965/page/2021-05-24.%20going-away%20party",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"title": ". Base N Ball",
+					"link": "gemini://gem.acdw.net:1965/page/2021-05-22.%20Base%20N%20Ball",
+					"updated": "2021-05-22T00:00:00Z"
+				},
+				{
+					"title": ". a new start",
+					"link": "gemini://gem.acdw.net:1965/page/2021-05-21.%20a%20new%20start",
+					"updated": "2021-05-21T00:00:00Z"
+				},
+				{
+					"link": "gemini://gem.acdw.net:1965/page/2021-05-20",
+					"updated": "2021-05-20T00:00:00Z"
+				},
+				{
+					"title": ". today has been weird.",
+					"link": "gemini://gem.acdw.net:1965/page/2021-02-12.%20today%20has%20been%20weird.",
+					"updated": "2021-02-12T00:00:00Z"
+				},
+				{
+					"title": "still here",
+					"link": "gemini://gem.acdw.net:1965/page/2021-02-08%20still%20here",
+					"updated": "2021-02-08T00:00:00Z"
+				},
+				{
+					"title": ". Hyperion - Dan Simmons",
+					"link": "gemini://gem.acdw.net:1965/page/2021-01-06.%20Hyperion%20-%20Dan%20Simmons",
+					"updated": "2021-01-06T00:00:00Z"
+				},
+				{
+					"title": ". Cans for Fines drive",
+					"link": "gemini://gem.acdw.net:1965/page/2020-12-02.%20Cans%20for%20Fines%20drive",
+					"updated": "2020-12-02T00:00:00Z"
+				},
+				{
+					"title": ". leftover",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-27.%20leftover",
+					"updated": "2020-11-27T00:00:00Z"
+				},
+				{
+					"title": ". RE: Christina, 5Q November 2020",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-26.%20RE%3A%20Christina%2C%205Q%20November%202020",
+					"updated": "2020-11-26T00:00:00Z"
+				},
+				{
+					"title": ". been a while",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-25.%20been%20a%20while",
+					"updated": "2020-11-25T00:00:00Z"
+				},
+				{
+					"title": ". RE perplexing.space, \"1000 Numerals\"",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-13.%20RE%20perplexing.space%2C%20%221000%20Numerals%22",
+					"updated": "2020-11-13T00:00:00Z"
+				},
+				{
+					"title": ". one thousand words",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-12.%20one%20thousand%20words",
+					"updated": "2020-11-12T00:00:00Z"
+				},
+				{
+					"title": ". RE: solderpunk, browsers",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-11.%20RE%3A%20solderpunk%2C%20browsers",
+					"updated": "2020-11-11T00:00:00Z"
+				},
+				{
+					"title": ". ren faire; synchronicity",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-08.%20ren%20faire%3B%20synchronicity",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": ". work and worry on the weekend",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-07.%20work%20and%20worry%20on%20the%20weekend",
+					"updated": "2020-11-07T00:00:00Z"
+				},
+				{
+					"title": ". Edwin, a Gemini server",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-06.%20Edwin%2C%20a%20Gemini%20server",
+					"updated": "2020-11-06T00:00:00Z"
+				},
+				{
+					"title": ". On Unix and literature",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-05.%20On%20Unix%20and%20literature",
+					"updated": "2020-11-05T00:00:00Z"
+				},
+				{
+					"title": ". holding",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-04.%20holding",
+					"updated": "2020-11-04T00:00:00Z"
+				},
+				{
+					"title": ". birds outside a stairwell",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-03.%20birds%20outside%20a%20stairwell",
+					"updated": "2020-11-03T00:00:00Z"
+				},
+				{
+					"title": ". Vocational Awe",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-02.%20Vocational%20Awe",
+					"updated": "2020-11-02T00:00:00Z"
+				},
+				{
+					"title": "commence-1kaday",
+					"link": "gemini://gem.acdw.net:1965/page/2020-11-01-commence-1kaday",
+					"updated": "2020-11-01T00:00:00Z"
+				},
+				{
+					"title": "100.gmi",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-29-100.gmi",
+					"updated": "2020-10-29T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-22-two-for-today",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-22-Paint-tober-2020-22-two-for-today",
+					"updated": "2020-10-22T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-20-21-beach",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-21-Paint-tober-20-21-beach",
+					"updated": "2020-10-21T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-15-buffallo",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-15-Paint-tober-2020-15-buffallo",
+					"updated": "2020-10-15T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-14",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-14-Paint-tober-2020-14",
+					"updated": "2020-10-14T00:00:00Z"
+				},
+				{
+					"title": "Themable-months",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-13-Themable-months",
+					"updated": "2020-10-13T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-13-knot",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-13-Paint-tober-2020-13-knot",
+					"updated": "2020-10-13T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-weekend",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-12-Paint-tober-weekend",
+					"updated": "2020-10-12T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-09",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-10-Paint-tober-2020-09",
+					"updated": "2020-10-10T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-08-guy-on-a-board",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-08-Paint-tober-2020-08-guy-on-a-board",
+					"updated": "2020-10-08T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-07-EXIT",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-07-Paint-tober-2020-07-EXIT",
+					"updated": "2020-10-07T00:00:00Z"
+				},
+				{
+					"title": "What-I-deal-with-at-work",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-06-What-I-deal-with-at-work",
+					"updated": "2020-10-06T00:00:00Z"
+				},
+				{
+					"title": "Are-you-sure-you-re-not-dreaming-paint-tober-2020-06",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-06-Are-you-sure-you-re-not-dreaming-paint-tober-2020-06",
+					"updated": "2020-10-06T00:00:00Z"
+				},
+				{
+					"title": "RE_October-2020-5Q-Bronzie-edition",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-05-RE_October-2020-5Q-Bronzie-edition",
+					"updated": "2020-10-05T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-05-twofer",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-05-Paint-tober-2020-05-twofer",
+					"updated": "2020-10-05T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-04",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-05-Paint-tober-2020-04",
+					"updated": "2020-10-05T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-2020-03-The-funeral",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-04-Paint-tober-2020-03-The-funeral",
+					"updated": "2020-10-04T00:00:00Z"
+				},
+				{
+					"title": "Paint-tober-san-antonio",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-03-Paint-tober-san-antonio",
+					"updated": "2020-10-03T00:00:00Z"
+				},
+				{
+					"title": ". Vocational Awe",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-02.%20Vocational%20Awe",
+					"updated": "2020-10-02T00:00:00Z"
+				},
+				{
+					"title": "PAINT-TOBER-2020",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-01-PAINT-TOBER-2020",
+					"updated": "2020-10-01T00:00:00Z"
+				},
+				{
+					"title": "A-poem",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-01-A-poem",
+					"updated": "2020-10-01T00:00:00Z"
+				},
+				{
+					"title": "5-answers-Spooktober-edition",
+					"link": "gemini://gem.acdw.net:1965/page/2020-10-01-5-answers-Spooktober-edition",
+					"updated": "2020-10-01T00:00:00Z"
+				},
+				{
+					"title": "Userstyle-for-Practical-Common-Lisp",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-30-Userstyle-for-Practical-Common-Lisp",
+					"updated": "2020-09-30T00:00:00Z"
+				},
+				{
+					"title": "RE_to-a-couple-gemini-related-articles",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-30-RE_to-a-couple-gemini-related-articles",
+					"updated": "2020-09-30T00:00:00Z"
+				},
+				{
+					"title": "Recreational-computering-dreams",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-29-Recreational-computering-dreams",
+					"updated": "2020-09-29T00:00:00Z"
+				},
+				{
+					"title": "RE_So-Dark",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-29-RE_So-Dark",
+					"updated": "2020-09-29T00:00:00Z"
+				},
+				{
+					"title": "No-such-thing-as-bad-weather",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-28-No-such-thing-as-bad-weather",
+					"updated": "2020-09-28T00:00:00Z"
+				},
+				{
+					"title": "British-road-markings-in-gemini",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-25-British-road-markings-in-gemini",
+					"updated": "2020-09-25T00:00:00Z"
+				},
+				{
+					"title": "The-Art-of-Writing-Textfiles",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-23-The-Art-of-Writing-Textfiles",
+					"updated": "2020-09-23T00:00:00Z"
+				},
+				{
+					"title": "Still-another-dream",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-18-Still-another-dream",
+					"updated": "2020-09-18T00:00:00Z"
+				},
+				{
+					"title": "The-last-fifteen-minutes-of-work",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-17-The-last-fifteen-minutes-of-work",
+					"updated": "2020-09-17T00:00:00Z"
+				},
+				{
+					"title": "Keyboard-only",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-17-Keyboard-only",
+					"updated": "2020-09-17T00:00:00Z"
+				},
+				{
+					"title": "Another-dream",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-16-Another-dream",
+					"updated": "2020-09-16T00:00:00Z"
+				},
+				{
+					"title": "A-modest-gemini-proposal",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-16-A-modest-gemini-proposal",
+					"updated": "2020-09-16T00:00:00Z"
+				},
+				{
+					"title": "Postscript-missing-mountains",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-14-Postscript-missing-mountains",
+					"updated": "2020-09-14T00:00:00Z"
+				},
+				{
+					"title": "Missing-the-mountains",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-09-Missing-the-mountains",
+					"updated": "2020-09-09T00:00:00Z"
+				},
+				{
+					"title": "Hand-holding-Linux-and-me",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-07-Hand-holding-Linux-and-me",
+					"updated": "2020-09-07T00:00:00Z"
+				},
+				{
+					"title": "Working-for-the-weekend",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-05-Working-for-the-weekend",
+					"updated": "2020-09-05T00:00:00Z"
+				},
+				{
+					"title": "Emacsposting-to-gemlog-blue",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-03-Emacsposting-to-gemlog-blue",
+					"updated": "2020-09-03T00:00:00Z"
+				},
+				{
+					"title": "September-answers-to-2x5-questions",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-02-September-answers-to-2x5-questions",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "RE_Mastodons-inefficient-tooling",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-02-RE_Mastodons-inefficient-tooling",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "Quick-ascii-sketch",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-02-Quick-ascii-sketch",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "Dreams",
+					"link": "gemini://gem.acdw.net:1965/page/2020-09-01-Dreams",
+					"updated": "2020-09-01T00:00:00Z"
+				},
+				{
+					"title": "Update-2020-08-31",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-31-Update-2020-08-31",
+					"updated": "2020-08-31T00:00:00Z"
+				},
+				{
+					"title": "5Q-Answers-to-Bronzies-5-Questions",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-21-5Q-Answers-to-Bronzies-5-Questions",
+					"updated": "2020-08-21T00:00:00Z"
+				},
+				{
+					"title": "Chatting-with-email",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-20-Chatting-with-email",
+					"updated": "2020-08-20T00:00:00Z"
+				},
+				{
+					"title": "Making-the-web-usable-again",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-18-Making-the-web-usable-again",
+					"updated": "2020-08-18T00:00:00Z"
+				},
+				{
+					"title": "Minesweeper",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-17-Minesweeper",
+					"updated": "2020-08-17T00:00:00Z"
+				},
+				{
+					"title": "More-gemini-integration-into-Emacs",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-14-More-gemini-integration-into-Emacs",
+					"updated": "2020-08-14T00:00:00Z"
+				},
+				{
+					"title": "Teaching-Emacs-about-Gemini",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-13-Teaching-Emacs-about-Gemini",
+					"updated": "2020-08-13T00:00:00Z"
+				},
+				{
+					"title": "Old-versions-of-acdw-net",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-13-Old-versions-of-acdw-net",
+					"updated": "2020-08-13T00:00:00Z"
+				},
+				{
+					"title": "Whats-in-my-pockets",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-11-Whats-in-my-pockets",
+					"updated": "2020-08-11T00:00:00Z"
+				},
+				{
+					"title": "One-more-thing-for-today",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-11-One-more-thing-for-today",
+					"updated": "2020-08-11T00:00:00Z"
+				},
+				{
+					"title": "Holy-moly-my-neck-hurts",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-11-Holy-moly-my-neck-hurts",
+					"updated": "2020-08-11T00:00:00Z"
+				},
+				{
+					"title": "Long-weekend-and-many-replies",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-10-Long-weekend-and-many-replies",
+					"updated": "2020-08-10T00:00:00Z"
+				},
+				{
+					"title": "On-cooking-and-mistakes",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-06-On-cooking-and-mistakes",
+					"updated": "2020-08-06T00:00:00Z"
+				},
+				{
+					"title": "Typesetting-verse",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-05-Typesetting-verse",
+					"updated": "2020-08-05T00:00:00Z"
+				},
+				{
+					"title": "RE_sloum",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-04-RE_sloum",
+					"updated": "2020-08-04T00:00:00Z"
+				},
+				{
+					"title": "10-years-an-online-pastor",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-04-10-years-an-online-pastor",
+					"updated": "2020-08-04T00:00:00Z"
+				},
+				{
+					"title": "Stayed-home-from-work-today",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-03-Stayed-home-from-work-today",
+					"updated": "2020-08-03T00:00:00Z"
+				},
+				{
+					"title": "Thoughts-on-social-media",
+					"link": "gemini://gem.acdw.net:1965/page/2020-08-01-Thoughts-on-social-media",
+					"updated": "2020-08-01T00:00:00Z"
+				},
+				{
+					"title": "Poover",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-31-Poover",
+					"updated": "2020-07-31T00:00:00Z"
+				},
+				{
+					"title": "Tall-venting-latte",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-30-Tall-venting-latte",
+					"updated": "2020-07-30T00:00:00Z"
+				},
+				{
+					"title": "Synchronicity",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-30-Synchronicity",
+					"updated": "2020-07-30T00:00:00Z"
+				},
+				{
+					"title": "Content-vs-Presentation",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-29-Content-vs-Presentation",
+					"updated": "2020-07-29T00:00:00Z"
+				},
+				{
+					"title": "Computer-display-weirdness",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-28-Computer-display-weirdness",
+					"updated": "2020-07-28T00:00:00Z"
+				},
+				{
+					"title": "LaTeX-is-complicated-needlessly-so",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-27-LaTeX-is-complicated-needlessly-so",
+					"updated": "2020-07-27T00:00:00Z"
+				},
+				{
+					"title": "My-dream-for-a-personal-website",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-25-My-dream-for-a-personal-website",
+					"updated": "2020-07-25T00:00:00Z"
+				},
+				{
+					"title": "Trying-to-explain-Gemini-to-someone",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-24-Trying-to-explain-Gemini-to-someone",
+					"updated": "2020-07-24T00:00:00Z"
+				},
+				{
+					"title": "The-last-day-of-my-twenties",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-24-The-last-day-of-my-twenties",
+					"updated": "2020-07-24T00:00:00Z"
+				},
+				{
+					"title": "Spaces-after-a-period",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-23-Spaces-after-a-period",
+					"updated": "2020-07-23T00:00:00Z"
+				},
+				{
+					"title": "Microblogging-HOO",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-22-Microblogging-HOO",
+					"updated": "2020-07-22T00:00:00Z"
+				},
+				{
+					"title": "Meaning-community",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-22-Meaning-community",
+					"updated": "2020-07-22T00:00:00Z"
+				},
+				{
+					"title": "Superiority-Burgers-Crispy-Fried-Tofu-Sandwich",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-21-Superiority-Burgers-Crispy-Fried-Tofu-Sandwich",
+					"updated": "2020-07-21T00:00:00Z"
+				},
+				{
+					"title": "Beans",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-21-Beans",
+					"updated": "2020-07-21T00:00:00Z"
+				},
+				{
+					"title": "Parents-weekend",
+					"link": "gemini://gem.acdw.net:1965/page/2020-07-17-Parents-weekend",
+					"updated": "2020-07-17T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gem.chriswere.uk/aprilcast/": {
+			"title": "Aprilcast",
+			"link": "gemini://gem.chriswere.uk/aprilcast/",
+			"feedlink": "gemini://gem.chriswere.uk/aprilcast/",
+			"updated": "2021-07-01T20:41:08.827287576Z",
+			"items": [
+				{
+					"title": "Why I'm still on Linux Mint Debian Edition and the future of Aprilcast",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-05-06.ogg",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Is technology making life too easy?",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-18.ogg",
+					"updated": "2021-04-18T00:00:00Z"
+				},
+				{
+					"title": "RSS and feeds on gemini and the web",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-17.ogg",
+					"updated": "2021-04-17T00:00:00Z"
+				},
+				{
+					"title": "More thoughts on gemini and self hosting",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-15.ogg",
+					"updated": "2021-04-15T00:00:00Z"
+				},
+				{
+					"title": "Free software and social networks",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-14.ogg",
+					"updated": "2021-04-14T00:00:00Z"
+				},
+				{
+					"title": "The importance of decentralised communications",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-09.ogg",
+					"updated": "2021-04-09T00:00:00Z"
+				},
+				{
+					"title": "The problem with Signal",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-08.ogg",
+					"updated": "2021-04-08T00:00:00Z"
+				},
+				{
+					"title": "The question of technological convenience",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-07.ogg",
+					"updated": "2021-04-07T00:00:00Z"
+				},
+				{
+					"title": "Thoughts on free software gaming",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-04.ogg",
+					"updated": "2021-04-04T00:00:00Z"
+				},
+				{
+					"title": "What would we do if YouTube disappeared tomorrow?",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-03.ogg",
+					"updated": "2021-04-03T00:00:00Z"
+				},
+				{
+					"title": "MP3 vs OGG vorbis, thoughts on freedom respecting audio formats",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-02.ogg",
+					"updated": "2021-04-02T00:00:00Z"
+				},
+				{
+					"title": "Introducing Aprilcast and a ramble about the current state of free software",
+					"link": "gemini://gem.chriswere.uk/aprilcast/ac-2021-04-01.ogg",
+					"updated": "2021-04-01T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gem.chriswere.uk/trendytalk/": {
+			"title": "Welcome to the Trendy Talk podcast",
+			"link": "gemini://gem.chriswere.uk/trendytalk/",
+			"feedlink": "gemini://gem.chriswere.uk/trendytalk/",
+			"updated": "2021-07-01T20:41:07.362728539Z",
+			"items": [
+				{
+					"title": "Freenode, Python is easy, too much gaming talk, Chris is missing",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-05-30.ogg",
+					"updated": "2021-05-30T00:00:00Z"
+				},
+				{
+					"title": "Self hosting: Gitea, Owncast, FreshRSS, Pleroma and more",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-05-14.ogg",
+					"updated": "2021-05-14T00:00:00Z"
+				},
+				{
+					"title": "Self-hosting, keyboards, Linux distros and parasocial relationships",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-05-08.ogg",
+					"updated": "2021-05-08T00:00:00Z"
+				},
+				{
+					"title": "Microsoft Edge: the best browser for Linux? C is great, Parc Alto was awesome and more",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-05-01.ogg",
+					"updated": "2021-05-01T00:00:00Z"
+				},
+				{
+					"title": "What's wrong with Ubuntu, free software licences and accidental Morrowind",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-04-23.ogg",
+					"updated": "2021-04-23T00:00:00Z"
+				},
+				{
+					"title": "Radio, e-mail, self hosting, leaving Steam behind and reaching out",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-04-14.ogg",
+					"updated": "2021-04-14T00:00:00Z"
+				},
+				{
+					"title": "Is surveillance a problem? Is YouTube on the way out?",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-04-05.ogg",
+					"updated": "2021-04-05T00:00:00Z"
+				},
+				{
+					"title": "Best desktop environments, #Linux works great on new hardware",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-03-27.ogg",
+					"updated": "2021-03-27T00:00:00Z"
+				},
+				{
+					"title": "The merits of BBC and is email still relevant?",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-03-17.ogg",
+					"updated": "2021-03-17T00:00:00Z"
+				},
+				{
+					"title": "All your culture are belong to us",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-03-07.ogg",
+					"updated": "2021-03-07T00:00:00Z"
+				},
+				{
+					"title": "No server Twitter and creating a standard because we said so",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-02-18.ogg",
+					"updated": "2021-02-18T00:00:00Z"
+				},
+				{
+					"title": "Gemini, the broken web and Nertz",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-02-15.ogg",
+					"updated": "2021-02-15T00:00:00Z"
+				},
+				{
+					"title": "Trendy Talk: The Prequel",
+					"link": "gemini://gem.chriswere.uk/trendytalk/tt-2021-02-03.ogg",
+					"updated": "2021-02-03T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gem.pwarren.id.au/gemlog/": {
+			"title": "A Lack Of Entropy",
+			"link": "gemini://gem.pwarren.id.au/gemlog/",
+			"feedlink": "gemini://gem.pwarren.id.au/gemlog/",
+			"updated": "2021-07-01T20:41:08.418116555Z"
+		},
+		"gemini://gemini.circumlunar.space/users/solderpunk/gemlog/": {
+			"title": "Solderpunk versus the windmills: a Gemlog",
+			"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/",
+			"feedlink": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/",
+			"updated": "2021-07-01T20:41:07.751758043Z",
+			"items": [
+				{
+					"title": "Been a long time",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/been-a-long-time.gmi",
+					"updated": "2021-05-02T00:00:00Z"
+				},
+				{
+					"title": "Micro album reviews 02",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/micro-album-reviews-02.gmi",
+					"updated": "2021-03-07T00:00:00Z"
+				},
+				{
+					"title": "2021 resolutions",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/2021-resolutions.gmi",
+					"updated": "2021-01-02T00:00:00Z"
+				},
+				{
+					"title": "Gemini client navigation (resp. to mozz.us)",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gemini-client-navigation.gmi",
+					"updated": "2021-01-02T00:00:00Z"
+				},
+				{
+					"title": "CAPCOM changes",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/capcom-changes.gmi",
+					"updated": "2020-12-26T00:00:00Z"
+				},
+				{
+					"title": "SSH apps and accessible Gemini publishing",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/ssh-apps-and-accessible-gemini-publishing.gmi",
+					"updated": "2020-12-26T00:00:00Z"
+				},
+				{
+					"title": "A new circumlunar colony",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/a-new-circumlunar-colony.gmi",
+					"updated": "2020-12-20T00:00:00Z"
+				},
+				{
+					"title": "Mac mouse madness",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/mac-mouse-madness.gmi",
+					"updated": "2020-11-28T00:00:00Z"
+				},
+				{
+					"title": "The short-lived browser",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/the-short-lived-browser.gmi",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": "Permacomputing",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/permacomputing.gmi",
+					"updated": "2020-11-01T00:00:00Z"
+				},
+				{
+					"title": "Micro album reviews 01",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/micro-album-reviews-01.gmi",
+					"updated": "2020-10-30T00:00:00Z"
+				},
+				{
+					"title": "Digital audio on tape",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/digital-audio-on-tape.gmi",
+					"updated": "2020-10-21T00:00:00Z"
+				},
+				{
+					"title": "Video tapes and helical scan",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/video-tapes-and-helical-scan.gmi",
+					"updated": "2020-10-07T00:00:00Z"
+				},
+				{
+					"title": "2020 gardening wrap-up",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/2020-gardening-wrap-up.gmi",
+					"updated": "2020-10-04T00:00:00Z"
+				},
+				{
+					"title": "Progress toward \"offline first\"",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/progress-toward-offline-first.gmi",
+					"updated": "2020-08-16T00:00:00Z"
+				},
+				{
+					"title": "Album review: Kikagaku Moyo's \"House in the Tall Grass\"",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/album-review-kikagaku-moyos-house-in-the-tall-grass.gmi",
+					"updated": "2020-08-14T00:00:00Z"
+				},
+				{
+					"title": "Books and pockets (resp. to bouncepaw and rmgr)",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/books-and-pockets.gmi",
+					"updated": "2020-08-12T00:00:00Z"
+				},
+				{
+					"title": "Computing less, but with more focus",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/computing-less-but-with-more-focus.gmi",
+					"updated": "2020-08-09T00:00:00Z"
+				},
+				{
+					"title": "Keyboard hegemony",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/keyboard-hegemony.gmi",
+					"updated": "2020-08-08T00:00:00Z"
+				},
+				{
+					"title": "The standard salvaged computing platform",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/the-standard-salvaged-computing-platform.gmi",
+					"updated": "2020-08-02T00:00:00Z"
+				},
+				{
+					"title": "Gemini aggregation, curation, etc.",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gemini-aggregation-curation-etc.gmi",
+					"updated": "2020-08-01T00:00:00Z"
+				},
+				{
+					"title": "Discussions toward radically sustainable computing",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/discussions-toward-radically-sustainable-computing.gmi",
+					"updated": "2020-07-26T00:00:00Z"
+				},
+				{
+					"title": "Resisting, and not resisting, photographic purchases",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/resisting-and-not-resisting-photographic-purchases.gmi",
+					"updated": "2020-07-15T00:00:00Z"
+				},
+				{
+					"title": "Gardening update",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gardening-update.gmi",
+					"updated": "2020-07-15T00:00:00Z"
+				},
+				{
+					"title": "Hostnaming schemes (resp. to dctrud)",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/hostnaming-schemes.gmi",
+					"updated": "2020-07-14T00:00:00Z"
+				},
+				{
+					"title": "Reimagining the internet",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/reimagining-the-internet.gmi",
+					"updated": "2020-07-13T00:00:00Z"
+				},
+				{
+					"title": "My second S24O",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/my-second-s24o.gmi",
+					"updated": "2020-07-11T00:00:00Z"
+				},
+				{
+					"title": "Unification progress",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/unification-progress.gmi",
+					"updated": "2020-07-07T00:00:00Z"
+				},
+				{
+					"title": "July 2020's music purchases",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/purchases-2020-07.gmi",
+					"updated": "2020-07-06T00:00:00Z"
+				},
+				{
+					"title": "Album review: Sungod's \"Sungod\"",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/sungods-sungod.gmi",
+					"updated": "2020-07-06T00:00:00Z"
+				},
+				{
+					"title": "Identity crisis",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/identity-crisis.gmi",
+					"updated": "2020-07-05T00:00:00Z"
+				},
+				{
+					"title": "Album review: Scattered Purgatory's \"Lost Ethnography of the Miscanthus Ocean\"",
+					"link": "gemini://gemini.circumlunar.space/users/solderpunk/gemlog/scattered-purgatorys-lost-ethnography-of-the-miscanthus-ocean.gmi",
+					"updated": "2020-07-02T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gemini.marmaladefoo.com/blog/": {
+			"title": "Luke's Gemlog",
+			"link": "gemini://gemini.marmaladefoo.com/blog/",
+			"feedlink": "gemini://gemini.marmaladefoo.com/blog/",
+			"updated": "2021-07-01T20:41:10.407434953Z",
+			"items": [
+				{
+					"title": "Some building blocks for a Gemini client and a new Gemini console app, Romulus",
+					"link": "gemini://gemini.marmaladefoo.com/blog/26-May-2021_Romulus_Gemini_client.gmi",
+					"updated": "2021-05-27T00:00:00Z"
+				},
+				{
+					"title": "GemiNaut ♥ screen readers and client certificates - a new release 0.8.11",
+					"link": "gemini://gemini.marmaladefoo.com/blog/5-Apr-2021_GemiNaut_v0_8_11_release.gmi",
+					"updated": "2021-04-05T00:00:00Z"
+				},
+				{
+					"title": "GemiNaut 0.8.9 is available",
+					"link": "gemini://gemini.marmaladefoo.com/blog/18-Dec-2020_GemiNaut_v0_8_9_release.gmi",
+					"updated": "2020-12-18T00:00:00Z"
+				},
+				{
+					"title": "SmolNetSharp - a C# client library for Gemini and Gopher",
+					"link": "gemini://gemini.marmaladefoo.com/blog/14-Dec-2020_SmolNetSharp_client_library.gmi",
+					"updated": "2020-12-14T00:00:00Z"
+				},
+				{
+					"title": "I name this ship...",
+					"link": "gemini://gemini.marmaladefoo.com/blog/10-Oct-2020_I_name_this_ship.gmi",
+					"updated": "2020-10-10T00:00:00Z"
+				},
+				{
+					"title": "An improved scheme to convey ironic intent in Gemini",
+					"link": "gemini://gemini.marmaladefoo.com/blog/20-Sep-2020_An_improved_scheme_ironic_intent.gmi",
+					"updated": "2020-09-20T00:00:00Z"
+				},
+				{
+					"title": "A proposed scheme for parsing preformatted alt text",
+					"link": "gemini://gemini.marmaladefoo.com/blog/7-Sep-2020_Parsing_preformatted_alt_text.gmi",
+					"updated": "2020-09-07T00:00:00Z"
+				},
+				{
+					"title": "The Duckling Proxy",
+					"link": "gemini://gemini.marmaladefoo.com/blog/1-Sep-2020_The_Duckling_Proxy.gmi",
+					"updated": "2020-09-01T00:00:00Z"
+				},
+				{
+					"title": "Web client autonomy - sailing the Small Web",
+					"link": "gemini://gemini.marmaladefoo.com/blog/27-Aug-2020_Web_client_autonomy.gmi",
+					"updated": "2020-08-27T00:00:00Z"
+				},
+				{
+					"title": "GemiNaut 0.8.7 release announcement",
+					"link": "gemini://gemini.marmaladefoo.com/blog/8-Aug-2020_GemiNaut_v0_8_7_release.gmi",
+					"updated": "2020-08-08T00:00:00Z"
+				},
+				{
+					"title": "Html2Gemini conversion library and app",
+					"link": "gemini://gemini.marmaladefoo.com/blog/31-Jul-2020_Html2Gemini_converters.gmi",
+					"updated": "2020-07-31T00:00:00Z"
+				},
+				{
+					"title": "Oblique strategies and other divinations",
+					"link": "gemini://gemini.marmaladefoo.com/blog/16-Jul-2020_Oblique_strategies.gmi",
+					"updated": "2020-07-16T00:00:00Z"
+				},
+				{
+					"title": "GemiNaut ♥ Gopher - a new release of GemiNaut",
+					"link": "gemini://gemini.marmaladefoo.com/blog/7-Jul-2020_GemiNaut_v0_8_6_release.gmi",
+					"updated": "2020-07-07T00:00:00Z"
+				},
+				{
+					"title": "Automatically generating Atom feeds from your GMI blog index  ",
+					"link": "gemini://gemini.marmaladefoo.com/blog/2-Jul-2020_GMI_based_feed_generator.gmi",
+					"updated": "2020-07-02T00:00:00Z"
+				},
+				{
+					"title": "New release of GemiNaut with bookmarks and a gorgeous new dark theme",
+					"link": "gemini://gemini.marmaladefoo.com/geminaut/index.gmi",
+					"updated": "2020-07-21T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gemlog.blue/users/left_adjoint/": {
+			"title": "left_adjoint's gemlog",
+			"link": "gemini://gemlog.blue/users/left_adjoint/",
+			"feedlink": "gemini://gemlog.blue/users/left_adjoint/",
+			"updated": "2021-07-01T20:41:07.501762703Z",
+			"items": [
+				{
+					"title": "A New Year",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1608960006.gmi",
+					"updated": "2020-12-26T00:00:00Z"
+				},
+				{
+					"title": "Living with darkness: chronic suicidality",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1607210852.gmi",
+					"updated": "2020-12-05T00:00:00Z"
+				},
+				{
+					"title": "More musings on the poetry of delusion",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1606355367.gmi",
+					"updated": "2020-11-26T00:00:00Z"
+				},
+				{
+					"title": "Crisis on Infinite Phenomenologists ",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1606184751.gmi",
+					"updated": "2020-11-24T00:00:00Z"
+				},
+				{
+					"title": "Phenomenology musings: what mindfulness, stoicism, and husserl have in common",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1606097007.gmi",
+					"updated": "2020-11-23T00:00:00Z"
+				},
+				{
+					"title": "Endings and Beginnings ",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1605747518.gmi",
+					"updated": "2020-11-19T00:00:00Z"
+				},
+				{
+					"title": "More random phenomenology thoughts",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1605292179.gmi",
+					"updated": "2020-11-13T00:00:00Z"
+				},
+				{
+					"title": "Random thoughts on the intuition of essences",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1605214099.gmi",
+					"updated": "2020-11-12T00:00:00Z"
+				},
+				{
+					"title": "Making art when you're not sure why",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1604957283.gmi",
+					"updated": "2020-11-09T00:00:00Z"
+				},
+				{
+					"title": "I didn't even know",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1604805289.gmi",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": "More catchup",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1604082484.gmi",
+					"updated": "2020-10-30T00:00:00Z"
+				},
+				{
+					"title": "On the other side",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1601707409.gmi",
+					"updated": "2020-10-03T00:00:00Z"
+				},
+				{
+					"title": "What's been up",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1600225747.gmi",
+					"updated": "2020-09-16T00:00:00Z"
+				},
+				{
+					"title": "The longest days",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1598594260.gmi",
+					"updated": "2020-08-28T00:00:00Z"
+				},
+				{
+					"title": "re: 5q for August 2020",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1598165335.gmi",
+					"updated": "2020-08-23T00:00:00Z"
+				},
+				{
+					"title": "Confluence",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1597374936.gmi",
+					"updated": "2020-08-14T00:00:00Z"
+				},
+				{
+					"title": "Busy days, exhausting nights",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1597357011.gmi",
+					"updated": "2020-08-13T00:00:00Z"
+				},
+				{
+					"title": "I live",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1596676712.gmi",
+					"updated": "2020-08-06T00:00:00Z"
+				},
+				{
+					"title": "Hard to keep posting: depression, heat, and exhaustion",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1595908889.gmi",
+					"updated": "2020-07-28T00:00:00Z"
+				},
+				{
+					"title": "Overly strong feelings about typography \u0026 typsetting (re: Spaces after a period)",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1595553417.gmi",
+					"updated": "2020-07-24T00:00:00Z"
+				},
+				{
+					"title": "July 18--21 : theorem provers, portland police, and conviviality",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1595438342.gmi",
+					"updated": "2020-07-22T00:00:00Z"
+				},
+				{
+					"title": "Witchcraft, Chaos, and being a Post-Pentacostal",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1595004095.gmi",
+					"updated": "2020-07-17T00:00:00Z"
+				},
+				{
+					"title": "Memetic viruses \u0026 self-destructive impulses",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594949129.gmi",
+					"updated": "2020-07-17T00:00:00Z"
+				},
+				{
+					"title": "Executive dysfunction, hyperfocus, and game jams",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594926748.gmi",
+					"updated": "2020-07-16T00:00:00Z"
+				},
+				{
+					"title": "Summary of the last two days",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594790490.gmi",
+					"updated": "2020-07-15T00:00:00Z"
+				},
+				{
+					"title": "Thoughts on today",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594611307.gmi",
+					"updated": "2020-07-13T00:00:00Z"
+				},
+				{
+					"title": "Self as object, self as subject",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594588958.gmi",
+					"updated": "2020-07-12T00:00:00Z"
+				},
+				{
+					"title": "Tired and contemplative",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594533261.gmi",
+					"updated": "2020-07-12T00:00:00Z"
+				},
+				{
+					"title": "Hope: a practiced skill, and other thoughts",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594425187.gmi",
+					"updated": "2020-07-10T00:00:00Z"
+				},
+				{
+					"title": "How do you put your work down?",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594349361.gmi",
+					"updated": "2020-07-10T00:00:00Z"
+				},
+				{
+					"title": "Thoughts on the day",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594268356.gmi",
+					"updated": "2020-07-09T00:00:00Z"
+				},
+				{
+					"title": "Hey ",
+					"link": "gemini://gemlog.blue/users/left_adjoint/1594261857.gmi",
+					"updated": "2020-07-09T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gemlog.blue/users/sloum/": {
+			"link": "gemini://gemlog.blue/users/sloum/",
+			"feedlink": "gemini://gemlog.blue/users/sloum/",
+			"updated": "2021-07-01T20:41:07.986661321Z",
+			"items": [
+				{
+					"title": "Firefox new \"floating tabs\" UI",
+					"link": "gemini://gemlog.blue/users/sloum/1624914178.gmi",
+					"updated": "2021-06-28T00:00:00Z"
+				},
+				{
+					"title": "GEMLOG.BLUE DNS OUTAGE",
+					"link": "gemini://gemlog.blue/users/sloum/1624898839.gmi",
+					"updated": "2021-06-28T00:00:00Z"
+				},
+				{
+					"title": "Music",
+					"link": "gemini://gemlog.blue/users/sloum/1624898548.gmi",
+					"updated": "2021-06-28T00:00:00Z"
+				},
+				{
+					"title": "Second dose",
+					"link": "gemini://gemlog.blue/users/sloum/1621695492.gmi",
+					"updated": "2021-05-22T00:00:00Z"
+				},
+				{
+					"title": "It has been awhile",
+					"link": "gemini://gemlog.blue/users/sloum/1619762260.gmi",
+					"updated": "2021-04-30T00:00:00Z"
+				},
+				{
+					"title": "Music",
+					"link": "gemini://gemlog.blue/users/sloum/1611554214.gmi",
+					"updated": "2021-01-25T00:00:00Z"
+				},
+				{
+					"title": "Snow / Reading",
+					"link": "gemini://gemlog.blue/users/sloum/1611373582.gmi",
+					"updated": "2021-01-23T00:00:00Z"
+				},
+				{
+					"title": "OJ",
+					"link": "gemini://gemlog.blue/users/sloum/1609397245.gmi",
+					"updated": "2020-12-31T00:00:00Z"
+				},
+				{
+					"title": "Recent fun projects for geminispace",
+					"link": "gemini://gemlog.blue/users/sloum/1607657698.gmi",
+					"updated": "2020-12-11T00:00:00Z"
+				},
+				{
+					"title": "Weather over gemini",
+					"link": "gemini://gemlog.blue/users/sloum/1605768203.gmi",
+					"updated": "2020-11-19T00:00:00Z"
+				},
+				{
+					"title": "terminal fun",
+					"link": "gemini://gemlog.blue/users/sloum/1605235018.gmi",
+					"updated": "2020-11-13T00:00:00Z"
+				},
+				{
+					"title": "Evacuation",
+					"link": "gemini://gemlog.blue/users/sloum/1603775020.gmi",
+					"updated": "2020-10-27T00:00:00Z"
+				},
+				{
+					"title": "Cooking cooking cooking",
+					"link": "gemini://gemlog.blue/users/sloum/1601150903.gmi",
+					"updated": "2020-09-26T00:00:00Z"
+				},
+				{
+					"title": "RE: The Art of Writing Textfiles (acdw)",
+					"link": "gemini://gemlog.blue/users/sloum/1600914924.gmi",
+					"updated": "2020-09-24T00:00:00Z"
+				},
+				{
+					"title": "Sad news",
+					"link": "gemini://gemlog.blue/users/sloum/1600529364.gmi",
+					"updated": "2020-09-19T00:00:00Z"
+				},
+				{
+					"title": "Pancakes",
+					"link": "gemini://gemlog.blue/users/sloum/1600480381.gmi",
+					"updated": "2020-09-19T00:00:00Z"
+				},
+				{
+					"title": "Dune",
+					"link": "gemini://gemlog.blue/users/sloum/1600310524.gmi",
+					"updated": "2020-09-17T00:00:00Z"
+				},
+				{
+					"title": "Bombadillo, Gemini, and Markup formats",
+					"link": "gemini://gemlog.blue/users/sloum/1600231791.gmi",
+					"updated": "2020-09-16T00:00:00Z"
+				},
+				{
+					"title": "Vim terminal",
+					"link": "gemini://gemlog.blue/users/sloum/1599541487.gmi",
+					"updated": "2020-09-08T00:00:00Z"
+				},
+				{
+					"title": "more nimf-wasm, slices of breadpunk, etc",
+					"link": "gemini://gemlog.blue/users/sloum/1598938251.gmi",
+					"updated": "2020-09-01T00:00:00Z"
+				},
+				{
+					"title": "Golang + wasm ?",
+					"link": "gemini://gemlog.blue/users/sloum/1598592551.gmi",
+					"updated": "2020-08-28T00:00:00Z"
+				},
+				{
+					"title": "Five Questions For August",
+					"link": "gemini://gemlog.blue/users/sloum/1598040261.gmi",
+					"updated": "2020-08-21T00:00:00Z"
+				},
+				{
+					"title": "Finally tried 9Front",
+					"link": "gemini://gemlog.blue/users/sloum/1597722284.gmi",
+					"updated": "2020-08-18T00:00:00Z"
+				},
+				{
+					"title": "The closing fist of the market - or, why the small internet can be a model for other things",
+					"link": "gemini://gemlog.blue/users/sloum/1597525953.gmi",
+					"updated": "2020-08-15T00:00:00Z"
+				},
+				{
+					"title": "RE: Stayed home from work today   ( acdw )",
+					"link": "gemini://gemlog.blue/users/sloum/1596522415.gmi",
+					"updated": "2020-08-04T00:00:00Z"
+				},
+				{
+					"title": "Simpsons",
+					"link": "gemini://gemlog.blue/users/sloum/1596434936.gmi",
+					"updated": "2020-08-03T00:00:00Z"
+				},
+				{
+					"title": "Nimf",
+					"link": "gemini://gemlog.blue/users/sloum/1595814554.gmi",
+					"updated": "2020-07-27T00:00:00Z"
+				},
+				{
+					"title": "Chalk Walkthrough / Forth-style interpreter",
+					"link": "gemini://gemlog.blue/users/sloum/1595221160.gmi",
+					"updated": "2020-07-20T00:00:00Z"
+				},
+				{
+					"title": "Othello (the board game) over Gemini",
+					"link": "gemini://gemlog.blue/users/sloum/1594956690.gmi",
+					"updated": "2020-07-17T00:00:00Z"
+				},
+				{
+					"title": "Dhalgren",
+					"link": "gemini://gemlog.blue/users/sloum/1594770108.gmi",
+					"updated": "2020-07-14T00:00:00Z"
+				},
+				{
+					"title": "Vegan Fried Chx (Seitan)",
+					"link": "gemini://gemlog.blue/users/sloum/1594267550.gmi",
+					"updated": "2020-07-09T00:00:00Z"
+				},
+				{
+					"title": "RE: 5 Questions (christina)",
+					"link": "gemini://gemlog.blue/users/sloum/1594186073.gmi",
+					"updated": "2020-07-08T00:00:00Z"
+				},
+				{
+					"title": "Kristall",
+					"link": "gemini://gemlog.blue/users/sloum/1594184706.gmi",
+					"updated": "2020-07-08T00:00:00Z"
+				},
+				{
+					"title": "Fyne GUI Toolkit",
+					"link": "gemini://gemlog.blue/users/sloum/1594013994.gmi",
+					"updated": "2020-07-06T00:00:00Z"
+				},
+				{
+					"title": "Responses to acdw and maleza",
+					"link": "gemini://gemlog.blue/users/sloum/1593747674.gmi",
+					"updated": "2020-07-03T00:00:00Z"
+				}
+			]
+		},
+		"gemini://gemlog.medusae.space/posts/": {
+			"link": "gemini://gemlog.medusae.space/posts/",
+			"feedlink": "gemini://gemlog.medusae.space/posts/",
+			"updated": "2021-07-01T20:41:09.159293921Z",
+			"items": [
+				{
+					"title": "Statistics",
+					"link": "gemini://gemlog.medusae.space/posts/2021-04-01_statistics.gmi",
+					"updated": "2021-04-01T00:00:00Z"
+				},
+				{
+					"title": "Search feature",
+					"link": "gemini://gemlog.medusae.space/posts/2021-02-24_search.gmi",
+					"updated": "2021-02-24T00:00:00Z"
+				},
+				{
+					"title": "Statistics",
+					"link": "gemini://gemlog.medusae.space/posts/2021-02-15_statistics.gmi",
+					"updated": "2021-02-15T00:00:00Z"
+				}
+			]
+		},
+		"gemini://hexdsl.co.uk/log_archive.gmi": {
+			"title": "HexDSL's Gemlog",
+			"link": "gemini://hexdsl.co.uk/log_archive.gmi",
+			"feedlink": "gemini://hexdsl.co.uk/log_archive.gmi",
+			"updated": "2021-07-01T20:41:05.796376302Z",
+			"items": [
+				{
+					"title": "A Hunter's Garden part 6. The Final part.",
+					"link": "gemini://hexdsl.co.uk/log/HuntersGardenPart6-20210626.gmi",
+					"updated": "2021-06-26T00:00:00Z"
+				},
+				{
+					"title": "BIOMUTANT",
+					"link": "gemini://hexdsl.co.uk/log/biomutantnew-20210614.gmi",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": "Tales of Berseria.",
+					"link": "gemini://hexdsl.co.uk/log/talesofberseria-20210610.gmi",
+					"updated": "2021-06-10T00:00:00Z"
+				},
+				{
+					"title": "A Hunter's Garden part 5.",
+					"link": "gemini://hexdsl.co.uk/log/huntersgarden5-20210606.gmi",
+					"updated": "2021-06-06T00:00:00Z"
+				},
+				{
+					"title": "I made a Discord bot in Python.",
+					"link": "gemini://hexdsl.co.uk/log/iMadeAbot-20210531.gmi",
+					"updated": "2021-05-31T00:00:00Z"
+				},
+				{
+					"title": "A Hunters Garden. Progress report.",
+					"link": "gemini://hexdsl.co.uk/log/Hunters_Garden_update1-20210530.gmi",
+					"updated": "2021-05-30T00:00:00Z"
+				},
+				{
+					"title": "A Hunter's Garden Part 4",
+					"link": "gemini://hexdsl.co.uk/log/huntersgarden4-20210524.gmi",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"title": "My Car Stereos Bluetooth Defaults.",
+					"link": "gemini://hexdsl.co.uk/log/bluetoothcar-20210518.gmi",
+					"updated": "2021-05-18T00:00:00Z"
+				},
+				{
+					"title": "I have not played enough PC games recently.",
+					"link": "gemini://hexdsl.co.uk/log/NotPlayedEnough-20210517.gmi",
+					"updated": "2021-05-17T00:00:00Z"
+				},
+				{
+					"title": "Last test, I promise.",
+					"link": "gemini://hexdsl.co.uk/log/last_test-20210515.gmi",
+					"updated": "2021-05-15T00:00:00Z"
+				},
+				{
+					"title": "I'm Finished tinkering with RSS.",
+					"link": "gemini://hexdsl.co.uk/log/sorry-20210515.gmi",
+					"updated": "2021-05-15T00:00:00Z"
+				},
+				{
+					"title": "Self Hosting: Gitea.",
+					"link": "gemini://hexdsl.co.uk/log/20210512-gitea.gmi",
+					"updated": "2021-05-12T00:00:00Z"
+				},
+				{
+					"title": "Unicomp - A few days later.",
+					"link": "gemini://hexdsl.co.uk/log/20210511-unicomp_days.gmi",
+					"updated": "2021-05-11T00:00:00Z"
+				},
+				{
+					"title": "Self Hosting Adventures",
+					"link": "gemini://hexdsl.co.uk/log/20210510-SelfHost1.gmi",
+					"updated": "2021-05-10T00:00:00Z"
+				},
+				{
+					"title": "social.hexdsl.co.uk exists!",
+					"link": "gemini://hexdsl.co.uk/log/20210509-Pleroma.gmi",
+					"updated": "2021-05-09T00:00:00Z"
+				},
+				{
+					"title": "A test post to test a bot",
+					"link": "gemini://hexdsl.co.uk/log/20210509-a_test.gmi",
+					"updated": "2021-05-09T00:00:00Z"
+				},
+				{
+					"title": "OwnCast",
+					"link": "gemini://hexdsl.co.uk/log/20210507-owncast.gmi",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "Distro thought's: Endeavour.",
+					"link": "gemini://hexdsl.co.uk/log/20210506-endevos.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "10,000 is a big number.",
+					"link": "gemini://hexdsl.co.uk/log/20210505-10l.gmi",
+					"updated": "2021-05-05T00:00:00Z"
+				},
+				{
+					"title": "Time to Leave Arch?",
+					"link": "gemini://hexdsl.co.uk/log/20210504-time_to_leave_arch.gmi",
+					"updated": "2021-05-04T00:00:00Z"
+				},
+				{
+					"title": "Motor Cycle in the Milkyway and other such hits",
+					"link": "gemini://hexdsl.co.uk/log/20210503-primtmilkyway.gmi",
+					"updated": "2021-05-03T00:00:00Z"
+				},
+				{
+					"title": "gemini and website updates",
+					"link": "gemini://hexdsl.co.uk/log/20210425-siteupdates.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "The Hunters Garden, Part 3.",
+					"link": "gemini://hexdsl.co.uk/log/20210416-HuntersGarden3.gmi",
+					"updated": "2021-04-16T00:00:00Z"
+				},
+				{
+					"title": "New website joy!",
+					"link": "gemini://hexdsl.co.uk/log/20210415-New_Site.gmi",
+					"updated": "2021-04-15T00:00:00Z"
+				},
+				{
+					"title": "Tweaking is joy",
+					"link": "gemini://hexdsl.co.uk/log/20210411-Tweaking_is_Joy.gmi",
+					"updated": "2021-04-11T00:00:00Z"
+				},
+				{
+					"title": "I Setup MPD Streaming (With inernet access)",
+					"link": "gemini://hexdsl.co.uk/log/20210406-I_setup_MPD_Streaming.gmi",
+					"updated": "2021-04-06T00:00:00Z"
+				},
+				{
+					"title": "Streaming Games Thoughts.",
+					"link": "gemini://hexdsl.co.uk/log/20210404-Streaming_games_thoughts.gmi",
+					"updated": "2021-04-04T00:00:00Z"
+				},
+				{
+					"title": "Revenue, Influence, advertisers and other terrible things.",
+					"link": "gemini://hexdsl.co.uk/log/20210329-Revenue.gmi",
+					"updated": "2021-03-29T00:00:00Z"
+				},
+				{
+					"title": "Pine Thoughts (1)",
+					"link": "gemini://hexdsl.co.uk/log/20210324-Phine1.gmi",
+					"updated": "2021-03-24T00:00:00Z"
+				},
+				{
+					"title": "Discord by Microsoft.",
+					"link": "gemini://hexdsl.co.uk/log/20210323-Discord_Microsoft.gmi",
+					"updated": "2021-03-23T00:00:00Z"
+				},
+				{
+					"title": "Applications I Like",
+					"link": "gemini://hexdsl.co.uk/log/20210320-Software_I_life.gmi",
+					"updated": "2021-03-20T00:00:00Z"
+				},
+				{
+					"title": "Microsoft Word",
+					"link": "gemini://hexdsl.co.uk/log/20210318-MSWORD.gmi",
+					"updated": "2021-03-18T00:00:00Z"
+				},
+				{
+					"title": "Punkiest Audience ever. A Trendy Talk update.",
+					"link": "gemini://hexdsl.co.uk/log/20210317-Punkiest_audience.gmi",
+					"updated": "2021-03-17T00:00:00Z"
+				},
+				{
+					"title": "Wholesome Camping Anime.",
+					"link": "gemini://hexdsl.co.uk/log/20210315-wholesome_camping_anime.gmi",
+					"updated": "2021-03-15T00:00:00Z"
+				},
+				{
+					"title": "The Invisible Audience",
+					"link": "gemini://hexdsl.co.uk/log/20210312-The_Invisible_Audience.gmi",
+					"updated": "2021-03-12T00:00:00Z"
+				},
+				{
+					"title": "Burn The Web",
+					"link": "gemini://hexdsl.co.uk/log/20210311-burn_the_web.gmi",
+					"updated": "2021-03-11T00:00:00Z"
+				},
+				{
+					"title": "Loop Hero. So Damned Good.",
+					"link": "gemini://hexdsl.co.uk/log/20210310-Loop_hero.gmi",
+					"updated": "2021-03-10T00:00:00Z"
+				},
+				{
+					"title": "Keeping a Beat",
+					"link": "gemini://hexdsl.co.uk/log/20210309-Keeping_A_Beat.gmi",
+					"updated": "2021-03-09T00:00:00Z"
+				},
+				{
+					"title": "Time, value and the legend of waste.",
+					"link": "gemini://hexdsl.co.uk/log/20210228-Time_Value_Waste.gmi",
+					"updated": "2021-02-28T00:00:00Z"
+				},
+				{
+					"title": "A Test Post for a Video",
+					"link": "gemini://hexdsl.co.uk/log/20210226-Test_for_a_Video.gmi",
+					"updated": "2021-02-26T00:00:00Z"
+				},
+				{
+					"title": "Audio, Controllers and Confusion. Linux things.",
+					"link": "gemini://hexdsl.co.uk/log/20210225-Audio_controllers_and_cohnfusion.gmi",
+					"updated": "2021-02-25T00:00:00Z"
+				},
+				{
+					"title": "A HexShard",
+					"link": "gemini://hexdsl.co.uk/log/20210225-A_Hexshard.gmi",
+					"updated": "2021-02-25T00:00:00Z"
+				},
+				{
+					"title": "A Script to Post to Gemini",
+					"link": "gemini://hexdsl.co.uk/log/20210219-script2gem.gmi",
+					"updated": "2021-02-19T00:00:00Z"
+				},
+				{
+					"title": "A test, you dont need to read this.",
+					"link": "gemini://hexdsl.co.uk/log/20210219-pointless_test.gmi",
+					"updated": "2021-02-19T00:00:00Z"
+				},
+				{
+					"title": "The accidental pod-cast and the greatest intro known to man.",
+					"link": "gemini://hexdsl.co.uk/log/Trendy_talk.gmi",
+					"updated": "2021-02-18T00:00:00Z"
+				},
+				{
+					"title": "Andromeda is not Good",
+					"link": "gemini://hexdsl.co.uk/log/Andromeda_is_not_Good.gmi",
+					"updated": "2021-02-12T00:00:00Z"
+				},
+				{
+					"title": "Spelk knows shit!",
+					"link": "gemini://hexdsl.co.uk/log/Found_A_Cool_Cyberpunk_List.gmi",
+					"updated": "2021-02-02T00:00:00Z"
+				},
+				{
+					"title": "The web needs to fuck off already.",
+					"link": "gemini://hexdsl.co.uk/log/gemini_only_log_.gmi",
+					"updated": "2021-01-31T00:00:00Z"
+				},
+				{
+					"title": "Compilation's of definition.",
+					"link": "gemini://hexdsl.co.uk/log/Neuromancer_and_the_dubious_perentage_of_Cyberpunk.gmi",
+					"updated": "2021-01-19T00:00:00Z"
+				},
+				{
+					"title": "Critique",
+					"link": "gemini://hexdsl.co.uk/log/Why_I_Dont_talk_about_things_I_dont_like.gmi",
+					"updated": "2020-12-11T00:00:00Z"
+				},
+				{
+					"title": "Motivation and an Id",
+					"link": "gemini://hexdsl.co.uk/log/Motivation_and_an_Id.gmi",
+					"updated": "2020-08-27T00:00:00Z"
+				},
+				{
+					"title": "The Hunters Garden. Part 2",
+					"link": "gemini://hexdsl.co.uk/log/The_Hunters_Garden_PART_2.gmi",
+					"updated": "2020-07-25T00:00:00Z"
+				}
+			]
+		},
+		"gemini://kwiecien.us/gemcast/index.gmi": {
+			"title": "Gemini Radio",
+			"link": "gemini://kwiecien.us/gemcast/index.gmi",
+			"feedlink": "gemini://kwiecien.us/gemcast/index.gmi",
+			"updated": "2021-07-01T20:41:08.331315313Z",
+			"items": [
+				{
+					"title": "Episode 31",
+					"link": "gemini://kwiecien.us/gemcast/20210614.gmi",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": "Episode 30",
+					"link": "gemini://kwiecien.us/gemcast/20210605.gmi",
+					"updated": "2021-06-05T00:00:00Z"
+				},
+				{
+					"title": "Episode 28",
+					"link": "gemini://kwiecien.us/gemcast/20210508.gmi",
+					"updated": "2021-05-08T00:00:00Z"
+				},
+				{
+					"title": "Episode 27",
+					"link": "gemini://kwiecien.us/gemcast/20210430.gmi",
+					"updated": "2021-04-30T00:00:00Z"
+				},
+				{
+					"title": "Episode 26",
+					"link": "gemini://kwiecien.us/gemcast/20210428.gmi",
+					"updated": "2021-04-28T00:00:00Z"
+				},
+				{
+					"title": "Episode 25",
+					"link": "gemini://kwiecien.us/gemcast/20210425.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "Episode 24",
+					"link": "gemini://kwiecien.us/gemcast/20210420.gmi",
+					"updated": "2021-04-20T00:00:00Z"
+				},
+				{
+					"title": "Episode 23",
+					"link": "gemini://kwiecien.us/gemcast/20210418.gmi",
+					"updated": "2021-04-18T00:00:00Z"
+				},
+				{
+					"title": "Episode 22",
+					"link": "gemini://kwiecien.us/gemcast/20210416.gmi",
+					"updated": "2021-04-16T00:00:00Z"
+				},
+				{
+					"title": "Episode 21",
+					"link": "gemini://kwiecien.us/gemcast/20210125.gmi",
+					"updated": "2021-01-25T00:00:00Z"
+				},
+				{
+					"title": "Episode 20",
+					"link": "gemini://kwiecien.us/gemcast/20201216.gmi",
+					"updated": "2020-12-16T00:00:00Z"
+				},
+				{
+					"title": "Episode 19",
+					"link": "gemini://kwiecien.us/gemcast/20201215.gmi",
+					"updated": "2020-12-15T00:00:00Z"
+				},
+				{
+					"title": "Episode 18",
+					"link": "gemini://kwiecien.us/gemcast/20201211.gmi",
+					"updated": "2020-12-11T00:00:00Z"
+				},
+				{
+					"title": "Episode 17",
+					"link": "gemini://kwiecien.us/gemcast/20201210.gmi",
+					"updated": "2020-12-10T00:00:00Z"
+				},
+				{
+					"title": "Episode 16",
+					"link": "gemini://kwiecien.us/gemcast/20201114.gmi",
+					"updated": "2020-11-14T00:00:00Z"
+				},
+				{
+					"title": "Episode 15",
+					"link": "gemini://kwiecien.us/gemcast/20201028.gmi",
+					"updated": "2020-10-28T00:00:00Z"
+				},
+				{
+					"title": "Episode 14",
+					"link": "gemini://kwiecien.us/gemcast/20201012.gmi",
+					"updated": "2020-10-12T00:00:00Z"
+				},
+				{
+					"title": "Episode 13",
+					"link": "gemini://kwiecien.us/gemcast/20200927.gmi",
+					"updated": "2020-09-27T00:00:00Z"
+				},
+				{
+					"title": "Episode 12",
+					"link": "gemini://kwiecien.us/gemcast/20200924.gmi",
+					"updated": "2020-09-24T00:00:00Z"
+				},
+				{
+					"title": "Episode 11",
+					"link": "gemini://kwiecien.us/gemcast/20200905.gmi",
+					"updated": "2020-09-05T00:00:00Z"
+				},
+				{
+					"title": "Episode 10",
+					"link": "gemini://kwiecien.us/gemcast/20200901.gmi",
+					"updated": "2020-09-01T00:00:00Z"
+				},
+				{
+					"title": "Episode 9",
+					"link": "gemini://kwiecien.us/gemcast/20200831.gmi",
+					"updated": "2020-08-31T00:00:00Z"
+				},
+				{
+					"title": "Episode 8",
+					"link": "gemini://kwiecien.us/gemcast/20200828.gmi",
+					"updated": "2020-08-28T00:00:00Z"
+				},
+				{
+					"title": "Episode 7",
+					"link": "gemini://kwiecien.us/gemcast/20200826.gmi",
+					"updated": "2020-08-26T00:00:00Z"
+				},
+				{
+					"title": "Episode 6",
+					"link": "gemini://kwiecien.us/gemcast/20200825.gmi",
+					"updated": "2020-08-25T00:00:00Z"
+				},
+				{
+					"title": "Episode 5",
+					"link": "gemini://kwiecien.us/gemcast/20200824.gmi",
+					"updated": "2020-08-24T00:00:00Z"
+				},
+				{
+					"title": "Episode 4",
+					"link": "gemini://kwiecien.us/gemcast/20200818.gmi",
+					"updated": "2020-08-18T00:00:00Z"
+				},
+				{
+					"title": "Episode 3",
+					"link": "gemini://kwiecien.us/gemcast/20200817.gmi",
+					"updated": "2020-08-17T00:00:00Z"
+				},
+				{
+					"title": "Episode 2",
+					"link": "gemini://kwiecien.us/gemcast/20200806.gmi",
+					"updated": "2020-08-06T00:00:00Z"
+				},
+				{
+					"title": "Episode 1",
+					"link": "gemini://kwiecien.us/gemcast/20200804.gmi",
+					"updated": "2020-08-04T00:00:00Z"
+				}
+			]
+		},
+		"gemini://kwiecien.us/gemlog/": {
+			"title": "Ben's Gemlog ☪",
+			"link": "gemini://kwiecien.us/gemlog/",
+			"feedlink": "gemini://kwiecien.us/gemlog/",
+			"updated": "2021-07-01T20:41:08.36166829Z",
+			"items": [
+				{
+					"title": "It's Been a While",
+					"link": "gemini://kwiecien.us/gemlog/202106260631.gmi",
+					"updated": "2021-06-26T00:00:00Z"
+				},
+				{
+					"title": "Static Page Philosophy",
+					"link": "gemini://kwiecien.us/gemlog/202106142157.gmi",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": "Oops",
+					"link": "gemini://kwiecien.us/gemlog/202106142109.gmi",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": "Self-Signed Cert",
+					"link": "gemini://kwiecien.us/gemlog/self-signed-cert.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "Gemcast Restructuring",
+					"link": "gemini://kwiecien.us/gemlog/gemcast-restructuring.gmi",
+					"updated": "2021-04-19T00:00:00Z"
+				},
+				{
+					"title": "The Classicist",
+					"link": "gemini://kwiecien.us/gemlog/the-classicist.gmi",
+					"updated": "2021-04-19T00:00:00Z"
+				},
+				{
+					"title": "Geminauts XMPP Chat",
+					"link": "gemini://kwiecien.us/gemlog/geminauts-xmpp-chat.gmi",
+					"updated": "2021-04-17T00:00:00Z"
+				},
+				{
+					"title": "Shattered Pixel Dungeon",
+					"link": "gemini://kwiecien.us/gemlog/shattered-pixel-dungeon.gmi",
+					"updated": "2021-03-30T00:00:00Z"
+				},
+				{
+					"title": "Tangledeep",
+					"link": "gemini://kwiecien.us/gemlog/tangledeep.gmi",
+					"updated": "2021-03-29T00:00:00Z"
+				},
+				{
+					"title": "diohsc improved",
+					"link": "gemini://kwiecien.us/gemlog/diohsc-improved.gmi",
+					"updated": "2021-03-28T00:00:00Z"
+				},
+				{
+					"title": "My Favorite Clients Revisited",
+					"link": "gemini://kwiecien.us/gemlog/my-favorite-clients-revisited.gmi",
+					"updated": "2021-03-22T00:00:00Z"
+				},
+				{
+					"title": "Spring Cleaning",
+					"link": "gemini://kwiecien.us/gemlog/spring-cleaning.gmi",
+					"updated": "2021-03-22T00:00:00Z"
+				},
+				{
+					"title": "Valheim",
+					"link": "gemini://kwiecien.us/gemlog/valheim.gmi",
+					"updated": "2021-03-11T00:00:00Z"
+				},
+				{
+					"title": "Logarion Updates",
+					"link": "gemini://kwiecien.us/gemlog/logarion-updates.gmi",
+					"updated": "2021-03-08T00:00:00Z"
+				}
+			]
+		},
+		"gemini://lapacz-kornel.dev/log/": {
+			"title": "Kornel's gemlog",
+			"link": "gemini://lapacz-kornel.dev/log/",
+			"feedlink": "gemini://lapacz-kornel.dev/log/",
+			"updated": "2021-06-15T14:49:22.57791745Z",
+			"items": [
+				{
+					"title": "emmet-cli",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-22-emmet-cli.gmi",
+					"updated": "2021-04-22T00:00:00Z"
+				},
+				{
+					"title": "irssi notifications",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-13-irssi-notifications.gmi",
+					"updated": "2021-04-13T00:00:00Z"
+				},
+				{
+					"title": "Cow",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-12-cow-of-wisdom.gmi",
+					"updated": "2021-04-12T00:00:00Z"
+				},
+				{
+					"title": "Git send-mail",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-08-git-send-mail.gmi",
+					"updated": "2021-04-08T00:00:00Z"
+				},
+				{
+					"title": "Static git over gemini",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-07-static-git.gmi",
+					"updated": "2021-04-07T00:00:00Z"
+				},
+				{
+					"title": "Bollux setup",
+					"link": "gemini://lapacz-kornel.dev/log/2021-04-03-bollux-setup.gmi",
+					"updated": "2021-04-03T00:00:00Z"
+				},
+				{
+					"title": "Initial log",
+					"link": "gemini://lapacz-kornel.dev/log/2021-03-29-init.gmi",
+					"updated": "2021-03-29T00:00:00Z"
+				}
+			]
+		},
+		"gemini://makeworld.space/gemlog/": {
+			"title": "makeworld's gemlog",
+			"link": "gemini://makeworld.space/gemlog/",
+			"feedlink": "gemini://makeworld.space/gemlog/",
+			"updated": "2021-07-01T20:41:10.570034782Z",
+			"items": [
+				{
+					"title": "NFTs",
+					"link": "gemini://makeworld.space/gemlog/2021-03-19-nfts.gmi",
+					"updated": "2021-03-19T00:00:00Z"
+				},
+				{
+					"title": "Ditherpunk 2 — beyond 1-bit",
+					"link": "gemini://makeworld.space/gemlog/2021-02-12-dithering.gmi",
+					"updated": "2021-02-12T00:00:00Z"
+				},
+				{
+					"title": "Don't use the LGPL for Go code",
+					"link": "gemini://makeworld.space/gemlog/2021-01-29-lgpl_go.gmi",
+					"updated": "2021-01-29T00:00:00Z"
+				},
+				{
+					"title": "Amfora v1.7.0 released, with subscriptions!",
+					"link": "gemini://makeworld.space/gemlog/2020-12-20-amfora_v1-7-0.gmi",
+					"updated": "2020-12-20T00:00:00Z"
+				},
+				{
+					"title": "RE: Is This Aggregator Idea Good?",
+					"link": "gemini://makeworld.space/gemlog/2020-11-16-re_aggregator_idea.gmi",
+					"updated": "2020-11-16T00:00:00Z"
+				},
+				{
+					"title": "Introduction to Go Modules",
+					"link": "gemini://makeworld.space/gemlog/2020-11-13-go_modules.gmi",
+					"updated": "2020-11-13T00:00:00Z"
+				},
+				{
+					"title": "Emojis for favicons (response to Hannu)",
+					"link": "gemini://makeworld.space/gemlog/2020-08-09-favicons.gmi",
+					"updated": "2020-08-09T00:00:00Z"
+				},
+				{
+					"title": "Personal Feeds (response to Solderpunk)",
+					"link": "gemini://makeworld.space/gemlog/2020-08-02-personal-feeds.gmi",
+					"updated": "2020-08-02T00:00:00Z"
+				},
+				{
+					"title": "OpenSSL commands for Gemini",
+					"link": "gemini://makeworld.space/gemlog/2020-07-06-openssl.gmi",
+					"updated": "2020-07-06T00:00:00Z"
+				},
+				{
+					"title": "Another idea for TOFU",
+					"link": "gemini://makeworld.space/gemlog/2020-07-05-tofu-2.gmi",
+					"updated": "2020-07-05T00:00:00Z"
+				},
+				{
+					"title": "TOFU Recommendations",
+					"link": "gemini://makeworld.space/gemlog/2020-07-03-tofu-rec.gmi",
+					"updated": "2020-07-03T00:00:00Z"
+				}
+			]
+		},
+		"gemini://mieum.smol.pub/": {
+			"title": "pass with care",
+			"link": "gemini://mieum.smol.pub/",
+			"feedlink": "gemini://mieum.smol.pub/",
+			"updated": "2021-07-01T20:41:10.245499338Z",
+			"items": [
+				{
+					"title": "For the Love of Gemini",
+					"link": "gemini://mieum.smol.pub/for-the-love-of-gemini",
+					"updated": "2021-06-13T00:00:00Z"
+				},
+				{
+					"title": "New (to me) Bike Day",
+					"link": "gemini://mieum.smol.pub/new-bike-day",
+					"updated": "2021-06-07T00:00:00Z"
+				},
+				{
+					"title": "RE: stamping the slug",
+					"link": "gemini://mieum.smol.pub/1622004352",
+					"updated": "2021-05-26T00:00:00Z"
+				},
+				{
+					"title": "RE: of course it handles hangul",
+					"link": "gemini://mieum.smol.pub/re_handles-hangul",
+					"updated": "2021-05-26T00:00:00Z"
+				},
+				{
+					"title": "안녕하세요",
+					"link": "gemini://mieum.smol.pub/hello-world",
+					"updated": "2021-05-25T00:00:00Z"
+				}
+			]
+		},
+		"gemini://miso.town/": {
+			"title": "m15o",
+			"link": "gemini://miso.town/",
+			"feedlink": "gemini://miso.town/",
+			"updated": "2021-07-01T20:41:06.186911736Z",
+			"items": [
+				{
+					"title": "Smol updates",
+					"link": "gemini://miso.town/1624558505",
+					"updated": "2021-06-24T00:00:00Z"
+				},
+				{
+					"title": "Commute log: New Project",
+					"link": "gemini://miso.town/1623592522",
+					"updated": "2021-06-13T00:00:00Z"
+				},
+				{
+					"title": "From 9pm to 11pm",
+					"link": "gemini://miso.town/1623215905",
+					"updated": "2021-06-09T00:00:00Z"
+				},
+				{
+					"title": "Decisions",
+					"link": "gemini://miso.town/decisions",
+					"updated": "2021-06-08T00:00:00Z"
+				},
+				{
+					"title": "Web, JavaScript and Bookmarklets",
+					"link": "gemini://miso.town/javascript-bookmarklets",
+					"updated": "2021-06-07T00:00:00Z"
+				},
+				{
+					"title": "Feeds feeds feeds",
+					"link": "gemini://miso.town/feeds-feeds-feeds",
+					"updated": "2021-06-06T00:00:00Z"
+				},
+				{
+					"title": "Commute log",
+					"link": "gemini://miso.town/1622804460",
+					"updated": "2021-06-04T00:00:00Z"
+				},
+				{
+					"title": "Rain, coffee, welcome, games.",
+					"link": "gemini://miso.town/rain-coffee-games",
+					"updated": "2021-06-04T00:00:00Z"
+				},
+				{
+					"title": "Video games",
+					"link": "gemini://miso.town/1622697260",
+					"updated": "2021-06-03T00:00:00Z"
+				},
+				{
+					"title": "It starts with a title",
+					"link": "gemini://miso.town/1622294531",
+					"updated": "2021-05-29T00:00:00Z"
+				},
+				{
+					"title": "Commute log",
+					"link": "gemini://miso.town/1622223787",
+					"updated": "2021-05-28T00:00:00Z"
+				},
+				{
+					"title": "Commute log",
+					"link": "gemini://miso.town/1622010232",
+					"updated": "2021-05-26T00:00:00Z"
+				},
+				{
+					"title": "Stamping the slug",
+					"link": "gemini://miso.town/1622003208",
+					"updated": "2021-05-26T00:00:00Z"
+				},
+				{
+					"title": "Web Dogma Certified",
+					"link": "gemini://miso.town/1622002880",
+					"updated": "2021-05-26T00:00:00Z"
+				},
+				{
+					"title": "Zines",
+					"link": "gemini://miso.town/zines",
+					"updated": "2021-05-25T00:00:00Z"
+				},
+				{
+					"title": "Inline images on the web",
+					"link": "gemini://miso.town/inline-images",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"title": "Feeding the (smol) pub",
+					"link": "gemini://miso.town/feeding-the-smol-pub",
+					"updated": "2021-05-23T00:00:00Z"
+				},
+				{
+					"title": "Midnight Pub on libera chat",
+					"link": "gemini://miso.town/midnight-pub-on-libera-chat",
+					"updated": "2021-05-23T00:00:00Z"
+				},
+				{
+					"title": "URL as a place",
+					"link": "gemini://miso.town/url-as-a-place",
+					"updated": "2021-05-22T00:00:00Z"
+				},
+				{
+					"title": "IRC",
+					"link": "gemini://miso.town/irc",
+					"updated": "2021-05-20T00:00:00Z"
+				},
+				{
+					"title": "Are we defined by the software we use?",
+					"link": "gemini://miso.town/defined-by-software",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "Smol Pub is now free and open source",
+					"link": "gemini://miso.town/smol-pub-open-source",
+					"updated": "2021-05-18T00:00:00Z"
+				},
+				{
+					"title": "Online constellation",
+					"link": "gemini://miso.town/online-constellation",
+					"updated": "2021-05-18T00:00:00Z"
+				},
+				{
+					"title": "Going out past 7pm",
+					"link": "gemini://miso.town/going-out-past-7pm",
+					"updated": "2021-05-17T00:00:00Z"
+				},
+				{
+					"title": "The healthy web",
+					"link": "gemini://miso.town/the-healthy-web",
+					"updated": "2021-05-17T00:00:00Z"
+				},
+				{
+					"title": "The Mercury protocol",
+					"link": "gemini://miso.town/mercury",
+					"updated": "2021-05-16T00:00:00Z"
+				},
+				{
+					"title": "Building up vocabulary",
+					"link": "gemini://miso.town/building-vocabulary",
+					"updated": "2021-05-15T00:00:00Z"
+				},
+				{
+					"title": "Reading \"The return of fancy tools\"",
+					"link": "gemini://miso.town/return-of-fancy-tools",
+					"updated": "2021-05-15T00:00:00Z"
+				},
+				{
+					"title": "Journal of a day without phone or computer",
+					"link": "gemini://miso.town/journal-of-a-day-without-phone-or-computer",
+					"updated": "2021-05-14T00:00:00Z"
+				},
+				{
+					"title": "A day without phone or computer",
+					"link": "gemini://miso.town/a-day-without-phone-or-computer",
+					"updated": "2021-05-12T00:00:00Z"
+				},
+				{
+					"title": "First workout in 4 month",
+					"link": "gemini://miso.town/first-workout-in-4-month",
+					"updated": "2021-05-09T00:00:00Z"
+				},
+				{
+					"title": "Just show me the text",
+					"link": "gemini://miso.town/just-show-me-the-text",
+					"updated": "2021-05-09T00:00:00Z"
+				},
+				{
+					"title": "A productive saturday",
+					"link": "gemini://miso.town/a-productive-saturday",
+					"updated": "2021-05-08T00:00:00Z"
+				},
+				{
+					"title": "Circumlunar Transmissions",
+					"link": "gemini://miso.town/circumlunar-transmissions",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "The only app I run is a web browser",
+					"link": "gemini://miso.town/web-browser",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Crazy Ideas",
+					"link": "gemini://miso.town/crazy-ideas",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Re: Will I burn out?",
+					"link": "gemini://miso.town/re-burn-out",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Random morning thoughts",
+					"link": "gemini://miso.town/random-morning-thoughts",
+					"updated": "2021-05-04T00:00:00Z"
+				},
+				{
+					"title": "Typing in, typing away",
+					"link": "gemini://miso.town/typing",
+					"updated": "2021-05-03T00:00:00Z"
+				},
+				{
+					"title": "Things I wish I could be doing right now but I can't because it's 2021",
+					"link": "gemini://miso.town/things-i-wish-i-could-be-doing",
+					"updated": "2021-05-02T00:00:00Z"
+				},
+				{
+					"title": "Online places",
+					"link": "gemini://miso.town/online-places",
+					"updated": "2021-04-27T00:00:00Z"
+				},
+				{
+					"title": "Visual Aeropress Technique",
+					"link": "gemini://miso.town/aeropress",
+					"updated": "2021-04-26T00:00:00Z"
+				},
+				{
+					"title": "Hello world!",
+					"link": "gemini://miso.town/hello-world",
+					"updated": "2021-04-24T00:00:00Z"
+				}
+			]
+		},
+		"gemini://mozz.us/journal/": {
+			"title": "Mozz.us Gemlog",
+			"link": "gemini://mozz.us/journal/",
+			"feedlink": "gemini://mozz.us/journal/",
+			"updated": "2021-07-01T20:41:10.032082934Z",
+			"items": [
+				{
+					"title": "The History of Gopher's \"i\" Type",
+					"link": "gemini://mozz.us/journal/2021-05-27.gmi",
+					"updated": "2021-05-27T00:00:00Z"
+				},
+				{
+					"title": "💪 The Spartan Protocol",
+					"link": "gemini://mozz.us/journal/2021-03-25.gmi",
+					"updated": "2021-03-25T00:00:00Z"
+				},
+				{
+					"title": "Favicons In The Wild",
+					"link": "gemini://mozz.us/journal/2021-03-17.gmi",
+					"updated": "2021-03-17T00:00:00Z"
+				},
+				{
+					"title": "RE ew0k: Your Gemini Browser and Server are Probably Doing Certificates Wrong",
+					"link": "gemini://mozz.us/journal/2021-01-28.gmi",
+					"updated": "2021-01-28T00:00:00Z"
+				},
+				{
+					"title": "Astrobotany - Client Certificate Stats",
+					"link": "gemini://mozz.us/journal/2021-01-06_astrobotany_client_certificates.gmi",
+					"updated": "2021-01-06T00:00:00Z"
+				},
+				{
+					"title": "Gemini Client Design - Navigation",
+					"link": "gemini://mozz.us/journal/2021-01-01.gmi",
+					"updated": "2021-01-01T00:00:00Z"
+				},
+				{
+					"title": "portal.mozz.us source code",
+					"link": "gemini://mozz.us/journal/2020-12-11.gmi",
+					"updated": "2020-12-11T00:00:00Z"
+				},
+				{
+					"title": "Pygopherd and template languages",
+					"link": "gemini://mozz.us/journal/2020-12-01.gmi",
+					"updated": "2020-12-01T00:00:00Z"
+				},
+				{
+					"title": "Jetforce v0.5.0 release",
+					"link": "gemini://mozz.us/journal/2020-07-14.gmi",
+					"updated": "2020-07-14T00:00:00Z"
+				},
+				{
+					"title": "Re: Gemini on Tor (fox)",
+					"link": "gemini://mozz.us/journal/2020-07-07.gmi",
+					"updated": "2020-07-07T00:00:00Z"
+				}
+			]
+		},
+		"gemini://nytpu.com/gemlog/": {
+			"title": "Yet Another Tech Gemlog",
+			"link": "gemini://nytpu.com/gemlog/",
+			"feedlink": "gemini://nytpu.com/gemlog/",
+			"updated": "2021-07-01T20:41:08.781123478Z",
+			"items": [
+				{
+					"title": "Re: The Smartphone Camera",
+					"link": "gemini://nytpu.com/gemlog/2021-06-17.gmi",
+					"updated": "2021-06-17T00:00:00Z"
+				},
+				{
+					"title": "a tutorial on slightly advanced amoled wallpaper editing",
+					"link": "gemini://nytpu.com/gemlog/2021-06-01.gmi",
+					"updated": "2021-06-01T00:00:00Z"
+				},
+				{
+					"title": "recipe: biscotti",
+					"link": "gemini://nytpu.com/gemlog/2021-05-19.gmi",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "the smolzine",
+					"link": "gemini://nytpu.com/gemlog/2021-05-07.gmi",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "why gemini?",
+					"link": "gemini://nytpu.com/gemlog/2021-04-25.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "a comprehensive guide to setting up a pocketchip",
+					"link": "gemini://nytpu.com/gemlog/2021-04-15.gmi",
+					"updated": "2021-04-15T00:00:00Z"
+				},
+				{
+					"title": "rust sucks, edition 42069",
+					"link": "gemini://nytpu.com/gemlog/2021-04-13.gmi",
+					"updated": "2021-04-13T00:00:00Z"
+				},
+				{
+					"title": "the “better c's”",
+					"link": "gemini://nytpu.com/gemlog/2021-03-24.gmi",
+					"updated": "2021-03-24T00:00:00Z"
+				},
+				{
+					"title": "announcing comitium: a feed aggregator for gemini and more",
+					"link": "gemini://nytpu.com/gemlog/2021-03-20.gmi",
+					"updated": "2021-03-20T00:00:00Z"
+				},
+				{
+					"title": "self-hosting git; or, how git servers actually work, and how to keep yours secure",
+					"link": "gemini://nytpu.com/gemlog/2021-03-07.gmi",
+					"updated": "2021-03-07T00:00:00Z"
+				},
+				{
+					"title": "regarding: pet name system",
+					"link": "gemini://nytpu.com/gemlog/2021-03-04.gmi",
+					"updated": "2021-03-04T00:00:00Z"
+				},
+				{
+					"title": "learning shorthand “in 15 minutes”",
+					"link": "gemini://nytpu.com/gemlog/2021-02-28.gmi",
+					"updated": "2021-02-28T00:00:00Z"
+				},
+				{
+					"title": "comparing language documentation",
+					"link": "gemini://nytpu.com/gemlog/2021-02-18.gmi",
+					"updated": "2021-02-18T00:00:00Z"
+				},
+				{
+					"title": "gemini isn’t meant to do everything",
+					"link": "gemini://nytpu.com/gemlog/2021-02-14.gmi",
+					"updated": "2021-02-14T00:00:00Z"
+				},
+				{
+					"title": "recipe: chicken soup with vickleglazers",
+					"link": "gemini://nytpu.com/gemlog/2021-01-24.gmi",
+					"updated": "2021-01-24T00:00:00Z"
+				},
+				{
+					"title": "software i use daily",
+					"link": "gemini://nytpu.com/gemlog/2021-01-10.gmi",
+					"updated": "2021-01-10T00:00:00Z"
+				},
+				{
+					"title": "(trying to) finally get off social media + announcing my flight log",
+					"link": "gemini://nytpu.com/gemlog/2021-01-08.gmi",
+					"updated": "2021-01-08T00:00:00Z"
+				},
+				{
+					"title": "discovering and browsing on geminispace",
+					"link": "gemini://nytpu.com/gemlog/2021-01-05.gmi",
+					"updated": "2021-01-05T00:00:00Z"
+				},
+				{
+					"title": "how large is too large? regarding: megacorporations",
+					"link": "gemini://nytpu.com/gemlog/2021-01-02.gmi",
+					"updated": "2021-01-02T00:00:00Z"
+				},
+				{
+					"title": "the ti-99/4a",
+					"link": "gemini://nytpu.com/gemlog/2020-12-15.gmi",
+					"updated": "2020-12-15T00:00:00Z"
+				},
+				{
+					"title": "i hate dealing with proprietary software",
+					"link": "gemini://nytpu.com/gemlog/2020-11-22.gmi",
+					"updated": "2020-11-22T00:00:00Z"
+				},
+				{
+					"title": "miscellaneous mini posts",
+					"link": "gemini://nytpu.com/gemlog/2020-11-16.gmi",
+					"updated": "2020-11-16T00:00:00Z"
+				},
+				{
+					"title": "zoom has officially graduated to breaking my devices",
+					"link": "gemini://nytpu.com/gemlog/2020-11-11.gmi",
+					"updated": "2020-11-11T00:00:00Z"
+				},
+				{
+					"title": "[ANN] Project Gemini Gemini Archive",
+					"link": "gemini://nytpu.com/gemlog/2020-11-08.gmi",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": "spooky times movie recommendations",
+					"link": "gemini://nytpu.com/gemlog/2020-10-31.gmi",
+					"updated": "2020-10-31T00:00:00Z"
+				},
+				{
+					"title": "hello minidisc :)",
+					"link": "gemini://nytpu.com/gemlog/2020-10-29.gmi",
+					"updated": "2020-10-29T00:00:00Z"
+				},
+				{
+					"title": "WebP Revisited (a little more in-depth this time)",
+					"link": "gemini://nytpu.com/gemlog/2020-10-19.gmi",
+					"updated": "2020-10-19T00:00:00Z"
+				},
+				{
+					"title": "Re: I am the preëminent server of WebP in Geminispace",
+					"link": "gemini://nytpu.com/gemlog/2020-10-13.gmi",
+					"updated": "2020-10-13T00:00:00Z"
+				},
+				{
+					"title": "a history and description of tapes and a reply to “Video tapes and helical scan”",
+					"link": "gemini://nytpu.com/gemlog/2020-10-08.gmi",
+					"updated": "2020-10-08T00:00:00Z"
+				},
+				{
+					"title": "Re: Mass Produced Quality in the 21st Century",
+					"link": "gemini://nytpu.com/gemlog/2020-09-21.gmi",
+					"updated": "2020-09-21T00:00:00Z"
+				},
+				{
+					"title": "what gemtext is and isn't",
+					"link": "gemini://nytpu.com/gemlog/2020-09-18.gmi",
+					"updated": "2020-09-18T00:00:00Z"
+				},
+				{
+					"title": "experimenting with ways to format documents on gemini",
+					"link": "gemini://nytpu.com/gemlog/2020-09-05.gmi",
+					"updated": "2020-09-05T00:00:00Z"
+				},
+				{
+					"title": "re: so who/what is swiftmandolin?",
+					"link": "gemini://nytpu.com/gemlog/2020-09-02.gmi",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "i despise zoom",
+					"link": "gemini://nytpu.com/gemlog/2020-08-26.gmi",
+					"updated": "2020-08-26T00:00:00Z"
+				}
+			]
+		},
+		"gemini://pon.ix.tc/devlog": {
+			"title": "Ponix Devlog",
+			"link": "gemini://pon.ix.tc/devlog",
+			"feedlink": "gemini://pon.ix.tc/devlog",
+			"updated": "2021-07-01T20:41:05.763878335Z",
+			"items": [
+				{
+					"title": "New Star Wars Database: Progress",
+					"link": "gemini://pon.ix.tc/devlog/20210606.gmi",
+					"updated": "2021-06-06T00:00:00Z"
+				},
+				{
+					"title": "Weather",
+					"link": "gemini://pon.ix.tc/devlog/20210601.gmi",
+					"updated": "2021-06-01T00:00:00Z"
+				},
+				{
+					"title": "Star Wars Canon Lists",
+					"link": "gemini://pon.ix.tc/devlog/20210531.gmi",
+					"updated": "2021-05-31T00:00:00Z"
+				},
+				{
+					"title": "Youtube and Github Proxy Updates",
+					"link": "gemini://pon.ix.tc/devlog/20210525.gmi",
+					"updated": "2021-05-25T00:00:00Z"
+				},
+				{
+					"title": "Multics Pubnix Launch",
+					"link": "gemini://pon.ix.tc/devlog/20210514.gmi",
+					"updated": "2021-05-14T00:00:00Z"
+				},
+				{
+					"title": "GitHub Proxy Improvements",
+					"link": "gemini://pon.ix.tc/devlog/20210430.gmi",
+					"updated": "2021-04-30T00:00:00Z"
+				},
+				{
+					"title": "GitHub Proxy WIP",
+					"link": "gemini://pon.ix.tc/devlog/20210428.gmi",
+					"updated": "2021-04-28T00:00:00Z"
+				},
+				{
+					"title": "Odin Mirror Launch",
+					"link": "gemini://pon.ix.tc/devlog/20210427.gmi",
+					"updated": "2021-04-27T00:00:00Z"
+				},
+				{
+					"title": "YouTube Proxy Launch",
+					"link": "gemini://pon.ix.tc/devlog/20210424.gmi",
+					"updated": "2021-04-24T00:00:00Z"
+				}
+			]
+		},
+		"gemini://pon.ix.tc/~krixano/": {
+			"title": "Krixano's Gemlog",
+			"link": "gemini://pon.ix.tc/~krixano/",
+			"feedlink": "gemini://pon.ix.tc/~krixano/",
+			"updated": "2021-07-01T20:41:08.052783394Z",
+			"items": [
+				{
+					"title": "The Gemini CSV Document Format",
+					"link": "gemini://pon.ix.tc/~krixano/20210531.gmi",
+					"updated": "2021-05-31T00:00:00Z"
+				}
+			]
+		},
+		"gemini://random-projects.net/feed.atom": {
+			"title": "xq'stuff",
+			"updated": "2021-06-13T00:00:00Z",
+			"items": [
+				{
+					"title": "Rant: Gemini is not Gemini",
+					"link": "https://random-projects.net/blog/2021-06-13-gemini-rant.gemini",
+					"updated": "2021-06-13T00:00:00Z"
+				},
+				{
+					"title": "zig-gemtext - A new gemini text parser",
+					"link": "https://random-projects.net/blog/2021-03-05-gemtext-parser.gemini",
+					"updated": "2021-03-05T00:00:00Z"
+				},
+				{
+					"title": "ftz - A small file transfer tool",
+					"link": "https://random-projects.net/blog/2021-03-04-ftz.gemini",
+					"updated": "2021-03-04T00:00:00Z"
+				},
+				{
+					"title": "Beating gnu yes in throughput",
+					"link": "https://random-projects.net/blog/2021-04-20-beating-gnu-yes.gemini",
+					"updated": "2021-04-20T00:00:00Z"
+				},
+				{
+					"title": "Programming Android with Zig",
+					"link": "https://random-projects.net/blog/2021-02-17-zig-android.gemini",
+					"updated": "2021-02-17T00:00:00Z"
+				},
+				{
+					"title": "Resource Pooling for Games",
+					"link": "https://random-projects.net/blog/2020-10-11-resource-pooling-for-games.gemini",
+					"updated": "2020-10-11T00:00:00Z"
+				},
+				{
+					"title": "A distributed trust system for gemini",
+					"link": "https://random-projects.net/blog/2021-03-03-distributed-trust.gemini",
+					"updated": "2021-03-03T00:00:00Z"
+				}
+			]
+		},
+		"gemini://rawtext.club/~mieum/gemlog.gmi": {
+			"title": "mieum's rawtext gemlog",
+			"link": "gemini://rawtext.club/~mieum/gemlog.gmi",
+			"feedlink": "gemini://rawtext.club/~mieum/gemlog.gmi",
+			"updated": "2021-07-01T20:41:06.053081349Z",
+			"items": [
+				{
+					"title": "[散] Estuary",
+					"link": "gemini://rawtext.club/~mieum/prose/2021-06-15-estuary.gmi",
+					"updated": "2021-06-15T00:00:00Z"
+				},
+				{
+					"title": "[散] Living and Lurking",
+					"link": "gemini://rawtext.club/~mieum/prose/2021-05-18-living_and_lurking.gmi",
+					"updated": "2021-05-18T00:00:00Z"
+				},
+				{
+					"title": "[詩] Before the bloom",
+					"link": "gemini://rawtext.club/~mieum/poems/2021-04-05-before_the_bloom.gmi",
+					"updated": "2021-04-05T00:00:00Z"
+				},
+				{
+					"title": "[詩] Postcuspward",
+					"link": "gemini://rawtext.club/~mieum/poems/2021-04-04-postcuspward.gmi",
+					"updated": "2021-04-04T00:00:00Z"
+				},
+				{
+					"title": "[散] So Long Azaleas",
+					"link": "gemini://rawtext.club/~mieum/prose/2021-02-23-so_long_azaleas.gmi",
+					"updated": "2021-02-23T00:00:00Z"
+				},
+				{
+					"title": "[散] Grandma's Century of Gratitude",
+					"link": "gemini://rawtext.club/~mieum/prose/2021-02-05-grandmas_century.gmi",
+					"updated": "2021-02-05T00:00:00Z"
+				},
+				{
+					"title": "[樂] Mythos and Music",
+					"link": "gemini://rawtext.club/~mieum/music/2021-01-25-musical_mythos.gmi",
+					"updated": "2021-01-25T00:00:00Z"
+				},
+				{
+					"title": "[散] Preschool Woes",
+					"link": "gemini://rawtext.club/~mieum/prose/2021-01-19-preschool_woes.gmi",
+					"updated": "2021-01-19T00:00:00Z"
+				},
+				{
+					"title": "[詩] once you asked me",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-11-26-once_you_asked_me.gmi",
+					"updated": "2020-11-26T00:00:00Z"
+				},
+				{
+					"title": "[答] jfm::Strategy for writing drafts in a Gemlog",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-10-26-jfm-draft_strategy.gmi",
+					"updated": "2020-10-26T00:00:00Z"
+				},
+				{
+					"title": "[答] flexibeast::Witchcraft!",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-10-25-flexibeast-witchcraft.gmi",
+					"updated": "2020-10-25T00:00:00Z"
+				},
+				{
+					"title": "[答] sircmpwn::Firefox: The Jewel^WEmbarassment of Open Source",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-10-23-drewdevault-firefox.gmi",
+					"updated": "2020-10-23T00:00:00Z"
+				},
+				{
+					"title": "[散] Wholes in Time",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-10-20-wholes_in_time.gmi",
+					"updated": "2020-10-20T00:00:00Z"
+				},
+				{
+					"title": "[散] Sharing the Road",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-10-16-sharing_the_road.gmi",
+					"updated": "2020-10-16T00:00:00Z"
+				},
+				{
+					"title": "[散] Failure to Launch",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-10-12-failure_to_launch.gmi",
+					"updated": "2020-10-12T00:00:00Z"
+				},
+				{
+					"title": "[散] Hangul in Geminispace",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-10-03-hangul_on_gemini.gmi",
+					"updated": "2020-10-03T00:00:00Z"
+				},
+				{
+					"title": "[答] acdw::reply to \"Passage\"",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-09-17-acdw-reply_to_passage.gmi",
+					"updated": "2020-09-17T00:00:00Z"
+				},
+				{
+					"title": "[詩] Welcome",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-15-welcome.gmi",
+					"updated": "2020-09-15T00:00:00Z"
+				},
+				{
+					"title": "[詩] Full For Once",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-15-full_for_once.gmi",
+					"updated": "2020-09-15T00:00:00Z"
+				},
+				{
+					"title": "[詩] Fall Sickness",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-15-fall_sickness.gmi",
+					"updated": "2020-09-15T00:00:00Z"
+				},
+				{
+					"title": "[詩] Commuterhood",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-15-comuterhood.gmi",
+					"updated": "2020-09-15T00:00:00Z"
+				},
+				{
+					"title": "[詩] Alternatives",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-08-alternatives.gmi",
+					"updated": "2020-09-08T00:00:00Z"
+				},
+				{
+					"title": "[散] Passage",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-09-04-passage.gmi",
+					"updated": "2020-09-04T00:00:00Z"
+				},
+				{
+					"title": "[散] Wonderers",
+					"link": "gemini://rawtext.club/~mieum/prose/2020-09-04-wonderers.gmi",
+					"updated": "2020-09-04T00:00:00Z"
+				},
+				{
+					"title": "[詩] Lamb",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-03-lamb.gmi",
+					"updated": "2020-09-03T00:00:00Z"
+				},
+				{
+					"title": "[詩] lens",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-02-lens.gmi",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "[詩] rest stop spuds",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-02-rest_stop_spuds.gmi",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "[答] sloum::Surveillance Childcare",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-09-02-sloum-surveillance_childcare.gmi",
+					"updated": "2020-09-02T00:00:00Z"
+				},
+				{
+					"title": "[詩] September",
+					"link": "gemini://rawtext.club/~mieum/poems/2020-09-01-september.gmi",
+					"updated": "2020-09-01T00:00:00Z"
+				},
+				{
+					"title": "[答] bouncepaw::on hardwrap",
+					"link": "gemini://rawtext.club/~mieum/relog/2020-08-29-bouncepaw-on_hardwrap.gmi",
+					"updated": "2020-08-29T00:00:00Z"
+				}
+			]
+		},
+		"gemini://republic.circumlunar.space/users/flexibeast/gemlog/index.gmi": {
+			"title": "Trying To Be Constructive",
+			"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/index.gmi",
+			"feedlink": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/index.gmi",
+			"updated": "2021-07-01T20:41:09.26869349Z",
+			"items": [
+				{
+					"title": "Adventures with Realtek wifi on Linux",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-26.gmi",
+					"updated": "2021-06-26T00:00:00Z"
+				},
+				{
+					"title": "Re: Reformatting gemini text",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-25.gmi",
+					"updated": "2021-06-25T00:00:00Z"
+				},
+				{
+					"title": "MasterChef, men, and mental health",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-14.gmi",
+					"updated": "2021-06-14T00:00:00Z"
+				},
+				{
+					"title": "Re: RE: The bemoaning of people's smartphone usage",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-10.gmi",
+					"updated": "2021-06-10T00:00:00Z"
+				},
+				{
+					"title": "The bemoaning of people's smartphone usage",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-07.gmi",
+					"updated": "2021-06-07T00:00:00Z"
+				},
+				{
+					"title": "Approaching winter solstice",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-31.gmi",
+					"updated": "2021-05-31T00:00:00Z"
+				},
+				{
+					"title": "Being competitive vs. being a douche",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-28.gmi",
+					"updated": "2021-05-28T00:00:00Z"
+				},
+				{
+					"title": "When comments are accidentally left in academic articles",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-09.gmi",
+					"updated": "2021-05-09T00:00:00Z"
+				},
+				{
+					"title": "Some of the music i'm listening to - 3",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-06.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Wikipedia's definition of ‘category theory’",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-03.gmi",
+					"updated": "2021-05-03T00:00:00Z"
+				},
+				{
+					"title": "Kink aesthetics",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-24.gmi",
+					"updated": "2021-04-24T00:00:00Z"
+				},
+				{
+					"title": "Identifying as ‘a dominant’",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-18.gmi",
+					"updated": "2021-04-18T00:00:00Z"
+				},
+				{
+					"title": "Some of the music i'm listening to - 2",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-11.gmi",
+					"updated": "2021-04-11T00:00:00Z"
+				},
+				{
+					"title": "Monocausism",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-21.gmi",
+					"updated": "2021-03-21T00:00:00Z"
+				},
+				{
+					"title": "The Kobo Libra H₂O e-ink reader",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-16.gmi",
+					"updated": "2021-03-16T00:00:00Z"
+				},
+				{
+					"title": "Folklore and triviality in category theory",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-12.gmi",
+					"updated": "2021-03-12T00:00:00Z"
+				},
+				{
+					"title": "Some of the music i'm listening to - 1",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-09.gmi",
+					"updated": "2021-03-09T00:00:00Z"
+				},
+				{
+					"title": "s6/66 for init, service supervision and service management",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-02.gmi",
+					"updated": "2021-03-02T00:00:00Z"
+				},
+				{
+					"title": "Some common ungrammatical/unidiomatic uses of English",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-02-28.gmi",
+					"updated": "2021-02-28T00:00:00Z"
+				},
+				{
+					"title": "The purpose of Gemini, and ease-of-access to geminispace",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-02-17.gmi",
+					"updated": "2021-02-17T00:00:00Z"
+				},
+				{
+					"title": "\"Only the best bottoms make it to the top\": wut",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-31.gmi",
+					"updated": "2021-01-31T00:00:00Z"
+				},
+				{
+					"title": "Why i like mdoc(7) for man pages",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-19.gmi",
+					"updated": "2021-01-19T00:00:00Z"
+				},
+				{
+					"title": "\"Calm down!\"; or, unhelpful approaches to distress",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-13.gmi",
+					"updated": "2021-01-13T00:00:00Z"
+				},
+				{
+					"title": "Re: Geminispace vs. Beeblebroxians",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-06.gmi",
+					"updated": "2021-01-06T00:00:00Z"
+				},
+				{
+					"title": "Geminispace vs. Beeblebroxians",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-30.gmi",
+					"updated": "2020-12-30T00:00:00Z"
+				},
+				{
+					"title": "ZFC is _a_ foundation for maths, not _the_ foundation",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-27.gmi",
+					"updated": "2020-12-27T00:00:00Z"
+				},
+				{
+					"title": "Genderqueer demographics",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-24.gmi",
+					"updated": "2020-12-24T00:00:00Z"
+				},
+				{
+					"title": "Having cancer compared to having chronic fatigue",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-17.gmi",
+					"updated": "2020-12-17T00:00:00Z"
+				},
+				{
+					"title": "The 'feminine'/'masculine' division",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-03.gmi",
+					"updated": "2020-12-03T00:00:00Z"
+				},
+				{
+					"title": "Some annoyances in maths papers",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-29.gmi",
+					"updated": "2020-11-29T00:00:00Z"
+				},
+				{
+					"title": "Re: Narcissism",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-27.gmi",
+					"updated": "2020-11-27T00:00:00Z"
+				},
+				{
+					"title": "Beyond bivalence",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-08.gmi",
+					"updated": "2020-11-08T00:00:00Z"
+				},
+				{
+					"title": "Tops are human, too",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-02.gmi",
+					"updated": "2020-11-02T00:00:00Z"
+				},
+				{
+					"title": "The limits of modifying language",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-30.gmi",
+					"updated": "2020-10-30T00:00:00Z"
+				},
+				{
+					"title": "Oversimplified notions of 'fluidity'",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-26_2.gmi",
+					"updated": "2020-10-26T00:00:00Z"
+				},
+				{
+					"title": "On the word 'gender' and the phrase \"gender is a social construct\"",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-26_1.gmi",
+					"updated": "2020-10-26T00:00:00Z"
+				},
+				{
+					"title": "Witchcraft!",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-25.gmi",
+					"updated": "2020-10-25T00:00:00Z"
+				},
+				{
+					"title": "Dualism, polarities and cishetnormativity",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-20.gmi",
+					"updated": "2020-10-20T00:00:00Z"
+				},
+				{
+					"title": "tilde.town",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-18.gmi",
+					"updated": "2020-10-18T00:00:00Z"
+				},
+				{
+					"title": "Re: Does being queer and/or TGD contraindicate STEM? pt 2",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-06.gmi",
+					"updated": "2020-10-06T00:00:00Z"
+				},
+				{
+					"title": "Re: Does being queer and/or TGD contraindicate STEM?",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-05.gmi",
+					"updated": "2020-10-05T00:00:00Z"
+				},
+				{
+					"title": "Re: Does being queer and/or TGD contraindicate STEM?",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-04.gmi",
+					"updated": "2020-10-04T00:00:00Z"
+				},
+				{
+					"title": "Does being queer and/or TGD contraindicate STEM?",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-03.gmi",
+					"updated": "2020-10-03T00:00:00Z"
+				},
+				{
+					"title": "A convention for gemtext footnotes",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-30.gmi",
+					"updated": "2020-09-30T00:00:00Z"
+				},
+				{
+					"title": "\"[T]he irreducibility of rejection to negation\"",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-29.gmi",
+					"updated": "2020-09-29T00:00:00Z"
+				},
+				{
+					"title": "Re: Attack Vector for FOSS",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-26.gmi",
+					"updated": "2020-09-26T00:00:00Z"
+				},
+				{
+					"title": "Recent Linux kernel issues",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-18.gmi",
+					"updated": "2020-09-18T00:00:00Z"
+				},
+				{
+					"title": "You think _you_ have debugging problems?",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-15.gmi",
+					"updated": "2020-09-15T00:00:00Z"
+				},
+				{
+					"title": "Programming language evangelism",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-12.gmi",
+					"updated": "2020-09-12T00:00:00Z"
+				},
+				{
+					"title": "On 'bloat' and 'minimalism'",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-06.gmi",
+					"updated": "2020-09-06T00:00:00Z"
+				},
+				{
+					"title": "Arrival",
+					"link": "gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-04.gmi",
+					"updated": "2020-09-04T00:00:00Z"
+				}
+			]
+		},
+		"gemini://republic.circumlunar.space/users/joneworlds/": {
+			"title": "Joneworlds",
+			"link": "gemini://republic.circumlunar.space/users/joneworlds/",
+			"feedlink": "gemini://republic.circumlunar.space/users/joneworlds/",
+			"updated": "2021-07-01T20:41:10.722901847Z",
+			"items": [
+				{
+					"title": "Farewell.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-06-26-farewell.gmi",
+					"updated": "2021-06-26T00:00:00Z"
+				},
+				{
+					"title": "Tried to order some food.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-06-18-no-food.gmi",
+					"updated": "2021-06-18T00:00:00Z"
+				},
+				{
+					"title": "The goblins took everything.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-06-11-car-accident.gmi",
+					"updated": "2021-06-11T00:00:00Z"
+				},
+				{
+					"title": "Swung by the pub.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-06-05-swung-by-pub.gmi",
+					"updated": "2021-06-05T00:00:00Z"
+				},
+				{
+					"title": "Toys at school.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-05-31-toys-at-school.gmi",
+					"updated": "2021-05-31T00:00:00Z"
+				},
+				{
+					"title": "Can't afford these shots.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-05-27-shots.gmi",
+					"updated": "2021-05-27T00:00:00Z"
+				},
+				{
+					"title": "At the laundromat.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-05-19-laundromat.gmi",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "Garbage goblin.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-05-12-garbage-goblin.gmi",
+					"updated": "2021-05-12T00:00:00Z"
+				},
+				{
+					"title": "Circumlunar transmissions.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-05-05-ct-1.gmi",
+					"updated": "2021-05-05T00:00:00Z"
+				},
+				{
+					"title": "Mushroom shaped.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-04-24-mushroom-shaped.gmi",
+					"updated": "2021-04-24T00:00:00Z"
+				},
+				{
+					"title": "Now I'm a teacher too.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-04-17-teacher-now.gmi",
+					"updated": "2021-04-17T00:00:00Z"
+				},
+				{
+					"title": "No more fish.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-04-11-no-more-fish.gmi",
+					"updated": "2021-04-11T00:00:00Z"
+				},
+				{
+					"title": "They were running from something.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-04-04-running-from-something.gmi",
+					"updated": "2021-04-04T00:00:00Z"
+				},
+				{
+					"title": "Saw some moving mushrooms.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-03-27-mushrooms.gmi",
+					"updated": "2021-03-27T00:00:00Z"
+				},
+				{
+					"title": "Got a new job.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-03-22-new-job.gmi",
+					"updated": "2021-03-22T00:00:00Z"
+				},
+				{
+					"title": "Waffle motel.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/2021-03-15-waffle-motel.gmi",
+					"updated": "2021-03-15T00:00:00Z"
+				},
+				{
+					"title": "Check out smolZINE for more wordsearches.",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-05-24-smolzine.gmi",
+					"updated": "2021-05-24T00:00:00Z"
+				},
+				{
+					"title": "Wordsearch - A Stained Story by eli",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-29-stained-eli.gmi",
+					"updated": "2021-04-29T00:00:00Z"
+				},
+				{
+					"title": "Wordsearch - Home Sick by mieum",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-18-home-mieum.gmi",
+					"updated": "2021-04-18T00:00:00Z"
+				},
+				{
+					"title": "Wordsearch - Unreality by ew0k",
+					"link": "gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-07-unreality-ewok.gmi",
+					"updated": "2021-04-07T00:00:00Z"
+				}
+			]
+		},
+		"gemini://rwv.io/": {
+			"title": "RWV.io",
+			"link": "gemini://rwv.io/",
+			"feedlink": "gemini://rwv.io/",
+			"updated": "2021-07-01T20:41:06.827163501Z",
+			"items": [
+				{
+					"title": "| Not my WD Book Live",
+					"link": "gemini://rwv.io/2021-06-25-wd-book-live.gmi",
+					"updated": "2021-06-25T00:00:00Z"
+				},
+				{
+					"title": "| Guixing",
+					"link": "gemini://rwv.io/2021-06-25-guixing.gmi",
+					"updated": "2021-06-25T00:00:00Z"
+				},
+				{
+					"title": "| Dʒɛmɪni security announcement",
+					"link": "gemini://rwv.io/2021-05-13-dezhemini-security-announcement.gmi",
+					"updated": "2021-05-13T00:00:00Z"
+				},
+				{
+					"title": "| Scheme surprises for a clojurist",
+					"link": "gemini://rwv.io/2021-04-25-scheme-surprises-for-a-clojurist.gmi",
+					"updated": "2021-04-25T00:00:00Z"
+				},
+				{
+					"title": "| Gemini links in emacs",
+					"link": "gemini://rwv.io/2021-04-09-gemini-links-in-emacs.gmi",
+					"updated": "2021-04-09T00:00:00Z"
+				},
+				{
+					"title": "| Weird dʒɛmɪni bug fixed",
+					"link": "gemini://rwv.io/2021-03-22-ann-dezhemini-bugfix.gmi",
+					"updated": "2021-03-22T00:00:00Z"
+				},
+				{
+					"title": "| Procrastination yield",
+					"link": "gemini://rwv.io/2021-01-25.gmi",
+					"updated": "2021-01-25T00:00:00Z"
+				},
+				{
+					"title": "| Thunk",
+					"link": "gemini://rwv.io/2020-12-29.gmi",
+					"updated": "2020-12-29T00:00:00Z"
+				},
+				{
+					"title": "| Almost two weeks of racket",
+					"link": "gemini://rwv.io/2020-11-25.gmi",
+					"updated": "2020-11-25T00:00:00Z"
+				},
+				{
+					"title": "| [ANN] Dʒɛmɪni, a gemini server",
+					"link": "gemini://rwv.io/2020-11-17-ann-dezhemini.gmi",
+					"updated": "2020-11-17T00:00:00Z"
+				},
+				{
+					"title": "| Dʒɛmɪni, my own gemini server",
+					"link": "gemini://rwv.io/2020-11-15.gmi",
+					"updated": "2020-11-15T00:00:00Z"
+				},
+				{
+					"title": "| Racket and gemini are awesome together",
+					"link": "gemini://rwv.io/2020-11-13.gmi",
+					"updated": "2020-11-13T00:00:00Z"
+				},
+				{
+					"title": "| Autumn, work, and projects",
+					"link": "gemini://rwv.io/2020-11-11.gmi",
+					"updated": "2020-11-11T00:00:00Z"
+				},
+				{
+					"title": "| Sharing CGI source",
+					"link": "gemini://rwv.io/2020-11-04.gmi",
+					"updated": "2020-11-04T00:00:00Z"
+				},
+				{
+					"title": "| Doing some CGI",
+					"link": "gemini://rwv.io/2020-10-24.gmi",
+					"updated": "2020-10-24T00:00:00Z"
+				},
+				{
+					"title": "| My own gemini server!",
+					"link": "gemini://rwv.io/2020-10-23.gmi",
+					"updated": "2020-10-23T00:00:00Z"
+				}
+			]
+		},
+		"gemini://skyjake.fi/gemlog/": {
+			"title": "skyjake's Gemlog",
+			"link": "gemini://skyjake.fi/gemlog/",
+			"feedlink": "gemini://skyjake.fi/gemlog/",
+			"updated": "2021-07-01T20:41:12.003940218Z",
+			"items": [
+				{
+					"title": "TestFlight Build 1.4 (21.6.15)",
+					"link": "gemini://skyjake.fi/gemlog/2021-06_testflight.gmi",
+					"updated": "2021-06-15T00:00:00Z"
+				},
+				{
+					"title": "10-day Poster — Miscellany",
+					"link": "gemini://skyjake.fi/gemlog/2021-06_10-day-poster.gmi",
+					"updated": "2021-06-09T00:00:00Z"
+				},
+				{
+					"title": "Lagrange v1.5: UI Polish",
+					"link": "gemini://skyjake.fi/gemlog/2021-05_lagrange-1.5.gmi",
+					"updated": "2021-05-30T00:00:00Z"
+				},
+				{
+					"title": "Entropy and Technical Debt",
+					"link": "gemini://skyjake.fi/gemlog/2021-05_entropy-and-technical-debt.gmi",
+					"updated": "2021-05-19T00:00:00Z"
+				},
+				{
+					"title": "Browsing ZIPs",
+					"link": "gemini://skyjake.fi/gemlog/2021-05_browsing-zips.gmi",
+					"updated": "2021-05-08T00:00:00Z"
+				},
+				{
+					"title": "Lagrange v1.4: Split View and Gempub",
+					"link": "gemini://skyjake.fi/gemlog/2021-05_lagrange-1.4.gmi",
+					"updated": "2021-05-07T00:00:00Z"
+				},
+				{
+					"title": "Serendipity",
+					"link": "gemini://skyjake.fi/gemlog/2021-05_serendipity.gmi",
+					"updated": "2021-05-03T00:00:00Z"
+				},
+				{
+					"title": "Rendering Text",
+					"link": "gemini://skyjake.fi/gemlog/2021-04_rendering-text.gmi",
+					"updated": "2021-04-16T00:00:00Z"
+				},
+				{
+					"title": "Neglect and Guilt",
+					"link": "gemini://skyjake.fi/gemlog/2021-04_neglect-and-guilt.gmi",
+					"updated": "2021-04-12T00:00:00Z"
+				},
+				{
+					"title": "Lagrange v1.3",
+					"link": "gemini://skyjake.fi/gemlog/2021-04_lagrange-1.3.gmi",
+					"updated": "2021-04-02T00:00:00Z"
+				}
+			]
+		},
+		"gemini://tilde.team/~benk/": {
+			"title": "Generic Benlog",
+			"link": "gemini://tilde.team/~benk/",
+			"feedlink": "gemini://tilde.team/~benk/",
+			"updated": "2021-07-01T20:41:09.087942707Z",
+			"items": [
+				{
+					"title": "Re: Instant gratification",
+					"link": "gemini://tilde.team/~benk/re-instant-gratification.gmi",
+					"updated": "2021-06-18T00:00:00Z"
+				},
+				{
+					"title": "Scripting Tasks With Diohsc",
+					"link": "gemini://tilde.team/~benk/scripting-tasks-with-diohsc.gmi",
+					"updated": "2021-06-02T00:00:00Z"
+				},
+				{
+					"title": "Diohsc Tips #4 - @",
+					"link": "gemini://tilde.team/~benk/diohsc-tips-4--.gmi",
+					"updated": "2021-05-08T00:00:00Z"
+				},
+				{
+					"title": "Re: Praise for Alpine Linux",
+					"link": "gemini://tilde.team/~benk/re-praise-for-alpine-linux.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "OMEMO Fingerprints",
+					"link": "gemini://tilde.team/~benk/omemo-fingerprints.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "PGP Encryption",
+					"link": "gemini://tilde.team/~benk/pgp-encryption.gmi",
+					"updated": "2021-05-06T00:00:00Z"
+				},
+				{
+					"title": "Spacing in Gemdocs",
+					"link": "gemini://tilde.team/~benk/spacing-in-gemdocs.gmi",
+					"updated": "2021-05-04T00:00:00Z"
+				},
+				{
+					"title": "Re: awk is the coolest tool you don't know",
+					"link": "gemini://tilde.team/~benk/re-awk-is-the-coolest-tool-you-don-t-know.gmi",
+					"updated": "2021-05-04T00:00:00Z"
+				},
+				{
+					"title": "Extending Diohsc With Bash",
+					"link": "gemini://tilde.team/~benk/extending-diohsc-with-bash.gmi",
+					"updated": "2021-05-02T00:00:00Z"
+				},
+				{
+					"title": "Diohsc Tips #3 - Advanced Relative Navigation",
+					"link": "gemini://tilde.team/~benk/diohsc-tips-3--advanced-relative-navigation.gmi",
+					"updated": "2021-05-01T00:00:00Z"
+				}
+			]
+		},
+		"gemini://tilde.team/~tomasino/journal/": {
+			"link": "gemini://tilde.team/~tomasino/journal/",
+			"feedlink": "gemini://tilde.team/~tomasino/journal/",
+			"updated": "2021-07-01T20:41:07.857720442Z",
+			"items": [
+				{
+					"title": "Gemini on Tor",
+					"link": "gemini://tilde.team/~tomasino/journal/20200706-gemini-on-tor.gmi",
+					"updated": "2020-07-06T00:00:00Z"
+				},
+				{
+					"title": "Black on Samizdat",
+					"link": "gemini://tilde.team/~tomasino/journal/20200708-black-on-samizdat.gmi",
+					"updated": "2020-07-08T00:00:00Z"
+				},
+				{
+					"title": "I Ching",
+					"link": "gemini://tilde.team/~tomasino/journal/20200716-i-ching.gmi",
+					"updated": "2020-07-16T00:00:00Z"
+				},
+				{
+					"title": "Keyboard Layouts (Re: Cadey)",
+					"link": "gemini://tilde.team/~tomasino/journal/20200813-keyboard-layouts.gmi",
+					"updated": "2020-08-13T00:00:00Z"
+				},
+				{
+					"title": "Gnome Workspaces",
+					"link": "gemini://tilde.team/~tomasino/journal/20200816-gnome-workspaces.gmi",
+					"updated": "2020-08-16T00:00:00Z"
+				},
+				{
+					"title": "Alt Text",
+					"link": "gemini://tilde.team/~tomasino/journal/20210227-alt-text.gmi",
+					"updated": "2021-02-27T00:00:00Z"
+				},
+				{
+					"title": "SSHFP and the TOFU issue",
+					"link": "gemini://tilde.team/~tomasino/journal/20210331-sshfp-and-the-tofu-issue.gmi",
+					"updated": "2021-03-31T00:00:00Z"
+				}
+			]
+		},
+		"gemini://warmedal.se/~bjorn/atom.xml": {
+			"title": "ew0k is a Teddybear",
+			"link": "gemini://warmedal.se/~bjorn/",
+			"feedlink": "gemini://warmedal.se/~bjorn/atom.xml",
+			"updated": "2021-07-01T12:00:00Z",
+			"items": [
+				{
+					"title": "I Didn’t Know I’m Doing This Much",
+					"link": "gemini://warmedal.se/~bjorn/posts/i-didn-t-know-i-m-doing-this-much.gmi",
+					"updated": "2021-06-03T12:00:00Z"
+				},
+				{
+					"title": "Grottröj #34 Was Yesterday",
+					"link": "gemini://warmedal.se/~bjorn/posts/grottr-j-34-was-yesterday.gmi",
+					"updated": "2021-06-06T12:00:00Z"
+				},
+				{
+					"title": "Operation Trojan Shield",
+					"link": "gemini://warmedal.se/~bjorn/posts/operation-trojan-shield.gmi",
+					"updated": "2021-06-08T12:00:00Z"
+				},
+				{
+					"title": "I'm Probably at 90% Up Time 😆️",
+					"link": "gemini://warmedal.se/~bjorn/posts/i-m-probably-at-90-up-time.gmi",
+					"updated": "2021-06-14T12:00:00Z"
+				},
+				{
+					"title": "Charging Cat",
+					"link": "gemini://warmedal.se/~bjorn/posts/charging-cat.gmi",
+					"updated": "2021-06-16T12:00:00Z"
+				},
+				{
+					"title": "Re: Small request to Geminauts",
+					"link": "gemini://warmedal.se/~bjorn/posts/re-small-request-to-geminauts.gmi",
+					"updated": "2021-06-17T12:00:00Z"
+				},
+				{
+					"title": "Help Me Make Eddie Less Dumb",
+					"link": "gemini://warmedal.se/~bjorn/posts/help-me-make-eddie-less-dumb.gmi",
+					"updated": "2021-06-22T12:00:00Z"
+				},
+				{
+					"title": "Working on Antenna",
+					"link": "gemini://warmedal.se/~bjorn/posts/working-on-antenna.gmi",
+					"updated": "2021-06-29T12:00:00Z"
+				},
+				{
+					"title": "Announcing Antenna",
+					"link": "gemini://warmedal.se/~bjorn/posts/announcing-antenna.gmi",
+					"updated": "2021-06-30T12:00:00Z"
+				},
+				{
+					"title": "Antenna Improvements (Already)",
+					"link": "gemini://warmedal.se/~bjorn/posts/antenna-improvements-already.gmi",
+					"updated": "2021-07-01T12:00:00Z"
+				}
+			]
+		},
+		"https://standardebooks.org/rss/new-releases": {
+			"title": "Standard Ebooks - New Releases",
+			"link": "https://standardebooks.org",
+			"feedlink": "https://standardebooks.org/rss/new-releases",
+			"updated": "2021-07-01T16:34:20Z",
+			"items": [
+				{
+					"title": "Henry IV, Part I, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+					"updated": "2021-06-29T23:48:19Z"
+				},
+				{
+					"title": "Ticket No. 9672, by Jules Verne",
+					"link": "https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall",
+					"updated": "2021-06-29T23:29:48Z"
+				},
+				{
+					"title": "Richard II, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
+					"updated": "2021-06-22T17:39:00Z"
+				},
+				{
+					"title": "An American Tragedy, by Theodore Dreiser",
+					"link": "https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy",
+					"updated": "2021-06-16T19:08:29Z"
+				},
+				{
+					"title": "Winesburg, Ohio, by Sherwood Anderson",
+					"link": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
+					"updated": "2021-06-15T02:08:09Z"
+				},
+				{
+					"title": "King John, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
+					"updated": "2021-06-15T00:00:38Z"
+				},
+				{
+					"title": "The Theory of the Leisure Class, by Thorstein Veblen",
+					"link": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+					"updated": "2021-06-09T21:56:07Z"
+				},
+				{
+					"title": "Twelfth Night, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+					"updated": "2021-06-08T18:43:42Z"
+				},
+				{
+					"title": "As You Like It, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+					"updated": "2021-06-08T01:41:28Z"
+				},
+				{
+					"title": "Germinal, by Émile Zola",
+					"link": "https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis",
+					"updated": "2021-06-08T00:42:22Z"
+				},
+				{
+					"title": "Domnei, by James Branch Cabell",
+					"link": "https://standardebooks.org/ebooks/james-branch-cabell/domnei",
+					"updated": "2021-06-05T20:31:36Z"
+				},
+				{
+					"title": "The Humbugs of the World, by P. T. Barnum",
+					"link": "https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world",
+					"updated": "2021-06-04T23:27:04Z"
+				},
+				{
+					"title": "The Divine Comedy, by Dante Alighieri",
+					"link": "https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow",
+					"updated": "2021-05-31T02:32:46Z"
+				},
+				{
+					"title": "Hudibras, by Samuel Butler",
+					"link": "https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras",
+					"updated": "2021-05-26T18:41:32Z"
+				},
+				{
+					"title": "The Rainbow, by D. H. Lawrence",
+					"link": "https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow",
+					"updated": "2021-05-24T02:04:40Z"
+				},
+				{
+					"title": "The Eleventh Virgin, by Dorothy Day",
+					"link": "https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin",
+					"updated": "2021-05-18T15:05:20Z"
+				},
+				{
+					"title": "The Story of My Life, by Helen Keller",
+					"link": "https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life",
+					"updated": "2021-05-12T22:13:51Z"
+				},
+				{
+					"title": "Essays, by Henry David Thoreau",
+					"link": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+					"updated": "2021-05-11T21:19:01Z"
+				},
+				{
+					"title": "Macbeth, by William Shakespeare",
+					"link": "https://standardebooks.org/ebooks/william-shakespeare/macbeth",
+					"updated": "2021-05-07T18:13:33Z"
+				},
+				{
+					"title": "Hedda Gabler, by Henrik Ibsen",
+					"link": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse_william-archer",
+					"updated": "2021-05-04T01:52:59Z"
+				},
+				{
+					"title": "The Age of Reason, by Thomas Paine",
+					"link": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+					"updated": "2021-04-29T19:14:01Z"
+				},
+				{
+					"title": "The Interesting Narrative of the Life of Olaudah Equiano, by Olaudah Equiano",
+					"link": "https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano",
+					"updated": "2021-04-29T17:27:43Z"
+				},
+				{
+					"title": "Crome Yellow, by Aldous Huxley",
+					"link": "https://standardebooks.org/ebooks/aldous-huxley/crome-yellow",
+					"updated": "2021-04-28T18:50:02Z"
+				},
+				{
+					"title": "The Autobiography of Mark Twain, by Mark Twain",
+					"link": "https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain",
+					"updated": "2021-04-28T02:42:57Z"
+				},
+				{
+					"title": "Short Fiction, by Leo Tolstoy",
+					"link": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo",
+					"updated": "2021-04-27T00:44:58Z"
+				},
+				{
+					"title": "The American Crisis, by Thomas Paine",
+					"link": "https://standardebooks.org/ebooks/thomas-paine/the-american-crisis",
+					"updated": "2021-04-26T23:11:56Z"
+				},
+				{
+					"title": "The Rights of Man, by Thomas Paine",
+					"link": "https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man",
+					"updated": "2021-04-26T22:00:31Z"
+				},
+				{
+					"title": "Orthodoxy, by G. K. Chesterton",
+					"link": "https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy",
+					"updated": "2021-04-26T21:21:23Z"
+				},
+				{
+					"title": "Five Weeks in a Balloon, by Jules Verne",
+					"link": "https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland",
+					"updated": "2021-04-26T01:23:06Z"
+				},
+				{
+					"title": "Essays, by Thomas Paine",
+					"link": "https://standardebooks.org/ebooks/thomas-paine/essays",
+					"updated": "2021-04-22T21:39:19Z"
+				}
+			]
+		}
+	},
+	"pages": {
+		"gemini://gem.chriswere.uk/nano.gmi": {
+			"title": "Chris Were's nano log",
+			"link": "gemini://gem.chriswere.uk/nano.gmi",
+			"updated": "2021-05-30T05:12:36.829534877Z",
+			"hash": "e32efb07b5720bc84c7b8b42c706b8757a38f48f40c072d7838ce9ce6d48b76f"
+		},
+		"gemini://station.martinrue.com/updates": {
+			"title": "Station Recent Updates",
+			"link": "gemini://station.martinrue.com/updates",
+			"updated": "2021-05-30T04:53:34.706437667Z",
+			"hash": "7d046022efb521ba6bc87a257e7972101f748fb947bda89ac08833b41d988910"
+		},
+		"gopher://circumlunar.space:70/1/~sloum/phlog": {
+			"title": "Sloum's Phlog",
+			"link": "gopher://circumlunar.space:70/1/~sloum/phlog",
+			"updated": "2021-07-01T20:41:10.973567705Z",
+			"hash": "5fcbad4a89fe1c23de4342bf2a34e57c5b8ef1a6cca077ebf84c33ff206cc47c"
+		},
+		"gopher://colorfield.space:70/1/~sloum/phlog/": {
+			"title": "Sloum's Phlog (colorfield)",
+			"link": "gopher://colorfield.space:70/1/~sloum/phlog/",
+			"updated": "2021-05-30T05:03:30.617331985Z",
+			"hash": "a26c425404efccdccde2b01dd7ce266643ed7ffc0382ac028aa4bdc2375da7bb"
+		},
+		"gopher://gopher.black:70/1/moku-pona/": {
+			"title": "Phlogroll (tomasino)",
+			"link": "gopher://gopher.black:70/1/moku-pona/",
+			"updated": "2021-07-01T20:41:11.508364204Z",
+			"hash": "b83c9abf01e620a0561d2d183f92b005a1b25c02bb63087342773955e0709679"
+		},
+		"gopher://gopher.black:70/1/phlog": {
+			"title": "Tomasino's Phlog",
+			"link": "gopher://gopher.black:70/1/phlog",
+			"updated": "2021-07-01T20:41:11.540976284Z",
+			"hash": "a926e0b75b2de72ce74777cb8460663d651f5333a93423bac533f65b85df2e85"
+		},
+		"gopher://i-logout.cz:70/1/bongusta": {
+			"title": "Bongusta!",
+			"link": "gopher://i-logout.cz:70/1/bongusta",
+			"updated": "2021-07-01T20:41:12.158307953Z",
+			"hash": "e4bd96af492999df37e5e1633fa1b8187ff9965899c18369884fc449d0db65da"
+		},
+		"gopher://zaibatsu.circumlunar.space:70/1/~tfurrows/phlog/": {
+			"title": "Tfurrows' Phlog",
+			"link": "gopher://zaibatsu.circumlunar.space:70/1/~tfurrows/phlog/",
+			"updated": "2021-06-15T14:49:22.342480315Z",
+			"hash": "4316c217ed4e35cbdc54f81823c313dda6aefbd0ff133959bcd7e209509be986"
+		}
+	}
+}

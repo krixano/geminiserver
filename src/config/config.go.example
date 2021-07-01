@@ -1,0 +1,49 @@
+package config
+
+var GithubToken = ""
+var WeatherApiKey = ""
+var YoutubeApiKey = ""
+
+var MusicConfig = PonixConfig{
+	Env: Dev,
+	Firebird: FirebirdConfig{
+		User:     "GEMINI",
+		Password: "password",
+		Hostname: "localhost",
+		Port:     3050,
+		DbName:   "music",
+	},
+}
+
+var LifeKeptConfig = PonixConfig{
+	Env: Dev,
+	Firebird: FirebirdConfig{
+		User:     "GEMINI",
+		Password: "password",
+		Hostname: "localhost",
+		Port:     3050,
+		DbName:   "lifekept",
+	},
+}
+
+var StarWarsConfig = PonixConfig{
+	Env: Dev,
+	Firebird: FirebirdConfig{
+		User:     "GEMINI",
+		Password: "password",
+		Hostname: "localhost",
+		Port:     3050,
+		DbName:   "starwars",
+	},
+}
+
+var SearchConfig = PonixConfig{
+	Env: Dev,
+	Firebird: FirebirdConfig{
+		User:     "GEMINI",
+		Password: "password",
+		Hostname: "localhost",
+		Port:     3050,
+		DbName:   "search",
+	},
+}

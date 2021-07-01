@@ -1,0 +1,11 @@
+# Krixano's Gemlog
+Welcome to my gemlog!
+
+=> 20210531.gmi 2021-05-31 The Gemini CSV Document Format
+
+=> /starwars/ Canon Star Wars Lists
+=> /~krixano/ShellHistory-Unix.pdf Shell History: Unix (pdf)
+=> ../poetry.gpub My Poetry Gempub
+
+=> /~krixano/contact.gmi Contact Info
+=> / Ponix Home

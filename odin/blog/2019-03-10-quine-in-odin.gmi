@@ -1,0 +1,32 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+# A Quine in Odin
+
+A Quine[1] in Odin[2]:
+
+=> https://wikipedia.org/wiki/Quine_(computing) 1: https://wikipedia.org/wiki/Quine_(computing)
+=> gemini://pon.ix.tc/odin/ 2: /
+
+```odin
+package quine
+
+import "core:fmt"
+
+main :: proc() {
+    fmt.printf("%s%c%s%c;\n", s, 0x60, s, 0x60);
+}
+
+s := `package quine
+
+import "core:fmt"
+
+main :: proc() {
+    fmt.printf("%s%c%s%c;\n", s, 0x60, s, 0x60);
+}
+
+s := `;
+```

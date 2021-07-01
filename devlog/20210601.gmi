@@ -1,0 +1,5 @@
+# 2021-06-01 Weather
+
+I have added a new subsection to Ponix to get the weather from any location on the earth. It is powered by openweathermap.org. More will be added to this in the future.
+
+=> /weather/ Weather

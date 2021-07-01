@@ -1,0 +1,41 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+# Community
+
+## Hang Out
+
+### Odin Discord[1]
+
+Get live support and talk with other lovers of Odin on the Odin Discord.
+
+=> https://discord.gg/sVBPHEv 1: https://discord.gg/sVBPHEv
+
+## How you can help
+
+### Reporting issues
+
+If you find a bug, mistake, or an inconsistency in the Odin code or documentation, please let us know by filing a ticket[2] on our issue tracker[3].
+
+=> https://github.com/odin-lang/odin/issues/new 2: https://github.com/odin-lang/odin/issues/new
+=> https://github.com/odin-lang/odin/issues 3: https://github.com/odin-lang/odin/issues
+
+### Contributing code
+
+Check out the Odin source code.
+
+### Source Code[4]
+
+Odin is an open source project and we welcome contributions from the community.
+
+=> https://github.com/odin-lang/Odin 4: https://github.com/odin-lang/Odin
+
+Check the issue tracker[5] for open issues that may interest you. Those labelled help wanted[6] are particularly in need of help from the outside.
+
+=> https://github.com/odin-lang/odin/issues 5: https://github.com/odin-lang/odin/issues
+=> https://github.com/odin-lang/Odin/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22 6: https://github.com/odin-lang/Odin/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+
+### Financial Support

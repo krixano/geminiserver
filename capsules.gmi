@@ -1,0 +1,73 @@
+# Capsules
+=> gemini://rawtext.club/~mieum/zine/ Circumlunar Transmissions Zine
+
+### Portals and Capsule Lists
+=> gemini://gemini.circumlunar.space Project Gemini
+=> gemini://geminispace.info/ Search Engine
+=> gemini://geminiquickst.art/ Gemini Quickstart
+=> gemini://medusae.space/ Gemini Directory
+=> gemini://review.treeblue.space/ The Treeblue Review
+=> gemini://geddit.glv.one/ Geddit
+
+### Interactive Services
+=> gemini://astrobotany.mozz.us/ Astrobotany
+=> gemini://gardengnome.ml/ Garden Gnome Society
+=> gemini://station.martinrue.com/ Station - Gemini Mini Social Network
+=> gemini://weather.gluonspace.com/ Weather
+=> gemini://dictionary.gluonspace.com/ Dictionary
+=> gemini://gmi.wikdict.com Bilingual Dictionaries
+=> gemini://feeds.drewdevault.com/ Gemreader
+=> gemini://gemini.thegonz.net/gredig/ Gredig
+
+### Gemcasts
+=> gemini://kwiecien.us/gemcast/ Gemini Radio
+=> gemini://gem.chriswere.uk/aprilcast/ Chris Were's Aprilcasts
+
+### Feeds
+=> gemini://pon.ix.tc/feed.gmi Ponix Comitium Feed
+=> gemini://kwiecien.us/feed/geminauts/ Geminauts Comitium Feed
+=> gemini://nytpu.com/feed.gmi Nytpu's Comitium Feed
+=> gemini://zozoandsqueak.ca/feeds/capcom/index.gmi Zozoandsqueak CAPCOM Feed
+=> gemini://phreedom.club/gmisub/ Phreedom Gmisub Feed
+
+### Other
+=> gemini://konpeito.media/ Konpeito
+=> gemini://oppen.digital/gempub/ Gempub (Gemini eBooks)
+=> gemini://srht.site/ Sourcehut Pages
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/reimagining-the-internet.gmi  On Small Internet (by Solderpunk)
+=> gemini://rawtext.club/~sloum/geminilist/ Gemini Mailing List Archives
+
+=> /proxies.gmi Proxies and Mirrors List
+
+### Godocs.io Packages
+
+=> gemini://godocs.io/github.com/pitr/gig github.com/pitr/gig
+=> gemini://godocs.io/git.sr.ht/~adnano/go-gemini git.sr.ht/~adnano/go-gemini
+=> gemini://godocs.io/github.com/nakagami/firebirdsql github.com/nakagami/firebirdsql
+=> gemini://godocs.io/github.com/orcaman/concurrent-map github.com/orcaman/concurrent-map
+=> gemini://godocs.io/github.com/temoto/robotstxt github.com/temoto/robotstxt
+=> gemini://godocs.io/github.com/dhowden/tag github.com/dhowden/tag
+=> gemini://godocs.io/github.com/rivo/uniseg github.com/rivo/uniseg
+=> gemini://godocs.io/github.com/afjoseph/RAKE.Go github.com/afjoseph/RAKE.Go
+=> gemini://godocs.io/github.com/spf13/cobra github.com/spf13/cobra
+=> gemini://godocs.io/github.com/briandowns/openweathermap github.com/briandowns/openweathermap
+=> gemini://godocs.io/github.com/kkdai/youtube/v2 github.com/kkdai/youtube/v2
+=> gemini://godocs.io/google.golang.org/api/youtube/v3 google.golang.org/api/youtube/v3
+=> gemini://godocs.io/github.com/google/go-github/github github.com/google/go-github/github
+=> gemini://godocs.io/golang.org/x/oauth2 golang.org/x/oauth2
+
+=> gemini://godocs.io/fmt fmt
+=> gemini://godocs.io/database/sql database/sql
+=> gemini://godocs.io/strings strings
+=> gemini://godocs.io/strconv strconv
+=> gemini://godocs.io/mime mime
+=> gemini://godocs.io/io io
+=> gemini://godocs.io/io/ioutil io/ioutil
+=> gemini://godocs.io/os os
+=> gemini://godocs.io/time time
+=> gemini://godocs.io/crypto/sha256 crypto/sha256
+=> gemini://godocs.io/encoding/base64 encoding/base64
+=> gemini://godocs.io/regexp regexp
+=> gemini://godocs.io/net/url net/url
+
+=> gemini://godocs.io/git.sr.ht/~kornellapacz/gmnigit git.sr.ht/~kornellapacz/gmnigit

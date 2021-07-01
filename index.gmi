@@ -1,0 +1,60 @@
+# Ponix
+
+## Mental Health Info of the Week - Signs of Gaslighting
+1.) They tell blatant lies.
+2.) They deny they ever said something, even though you have proof.
+3.) They use what is near and dear to you as ammunition.
+4.) They wear you down over time.
+5.) Their actions do not match their words.
+6.) They throw in positive reinforcement to confuse you.
+7.) They know confusion weakens people.
+8.) They project.
+9.) They try to align people against you.
+10.) They tell you or others that you are crazy.
+11.) They tell you everyone else is a liar.
+
+Self-signs:
+12.) Avoiding giving information to friends or family members to avoid confrontation.
+13.) Finding it hard to make decisions.
+14.) Being more anxious and less confident than you used to be.
+15.) Often wondering if you're being too sensitive.
+16.) Always thinking it's your fault when things go wrong.
+17.) Apologizing often.
+18.) Often questioning whether your response was appropriate.
+
+Examples:
+19.) Trivializing how you feel.
+20.) Telling you that people are talking behind your back.
+21.) Saying thigns to you that they later deny having said.
+22.) Hiding objects from you, and then denying knowing anything about it.
+23.) Insisting you were or were not at a certain place, even though it's not true.
+
+=> https://github.com/pitr/gig Gig Gemini Framework
+=> ./poetry.gpub My Poetry Gempub
+
+## Menu
+=> /searchengine/ Search Engine (WIP)
+=> /weather/ Weather
+=> /starwars2/ Star Wars Database
+=> /ponics/ Ponics Multics Server
+=> /music/ Music Service (WIP)
+
+=> /youtube YouTube Proxy (WIP)
+=> /odin Odin Mirror
+=> /github Github Proxy (WIP)
+
+=> /usefulrepos.gmi Useful Repos
+=> /GeminiHistoryMustReads.gmi Gemini History Must-Reads
+=> /proxies.gmi Proxies and Mirrors List
+=> /capsules.gmi Capsules List
+
+=> /devlog Devlog
+=> /~krixano/ My Gemlog
+=> /~krixano/contact.gmi Contact Info
+=> /feed.gmi Comitium Feed
+
+## Leo Orbit
+=> gemini://tilde.team/~khuxkm/leo/ Leo Orbit
+=> gemini://tilde.team/~khuxkm/leo/next.cgi?gemini%3A%2F%2Fpon.ix.tc%2F Next Page
+=> gemini://tilde.team/~khuxkm/leo/prev.cgi?gemini%3A%2F%2Fpon.ix.tc%2F Last Page
+=> gemini://tilde.team/~khuxkm/leo/rand.cgi Random Page

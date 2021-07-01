@@ -1,0 +1,12 @@
+# April 24, 2021 - YouTube Proxy Launch
+I have been working a lot today on the YouTube interface. It is mostly complete, aside from being able to download videos. Downloading videos is turning out harder than I thought it would, but I have thoughts on some workarounds for it. Below is a list of things that have been implemented:
+
+* Search
+* Video Page
+* Channel Page
+* Playlist Page
+* Channel Uploads
+* Channel Playlists
+* [new] Downloading of Videos is now complete (although, only downloads fairly low-quality atm)
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210424.gmi Backlinks

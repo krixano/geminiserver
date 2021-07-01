@@ -1,0 +1,128 @@
+# C Programming Language on Multics
+The C compiler on multics uses K&R C, as outlined in both the System V R2.0 Programming Guide (1984) and "The C Programming Language", 1st edition (1978).
+
+The C compiler files are located in ">sl3p>c_compiler". Include directories are in ">sl3p>c_compiler>include".
+
+The "lint" and "make" programs are also provided.
+
+## Data Types
+The DPS-8/M processor is a 36-bit word processor. A byte is 9 bits, so a word is 4 bytes. A doubleword is 72 bits (or, 8 bytes).
+
+* char   - 9 bits (byte)
+* int    - 36 bits (4 bytes)
+* short  - 36 bits (4 bytes)
+* long   - 72 bits (8 bytes)
+* float  - 36 bits (4 bytes)
+* double - 72 bits (8 bytes)
+
+The C compiler performs sign extension on characters and unsigned characters on assignment.
+
+The compiler also converts a double-precision variable to a floating-point variable by truncation.
+
+When shifting right on a signed quantity, the sign is propagated. When shifting right on an unsigned quantity, the vacated bit positions are filled with zeroes.
+
+Structures and unions cannot be passed by value to or from functions.
+
+Pointer types are the same size as longs, not ints. Returning pointers in longs is allowed, but not recommended. Use pointer types instead. Pointers are not automatically initialized to NULL. NULL on multics is -1|1, not 0. Converting pointers to ints will move only the low-order bits of the pointer.
+
+To make it easier to remember and use the correct size of pointers, you can define a "uintptr_t" type as a long.
+
+## K&R C
+This section will describe some of the differences between K&R C and ANSI C.
+
+One of the first things to note is that structs and unions cannot be passed to or from functions. There are no wide characters. `const` and `volatile` are not in K&R C. And you have to dereference function pointers before calling them.
+
+### Functions
+Function arguments do not get types within the argument list, but instead after the argument list but before the opening curly bracket, like so:
+
+```K&R C
+int func(arg1, arg2)
+         int arg1;
+         int arg2;
+{
+    // Code
+}
+```
+
+Finally, there is also no function prototyping.
+
+## Differences from C99
+C99 is probably the most-used version of C there is atm, so it is helpful to know what the differences between it and previous versions are so that you know what's *not* supported with the Multics C Compiler.
+
+C99 added VLAs (Variable Length Arrays), restrict pointers, compound literals for structs and arrays, variable number of arguments for macros, single line comments with `//`, and IEEE 754 support for floating-points.
+
+It has also added many things to the standard library, including stdbool.h, stdint.h, types for different integer sizes, snprintf, and many other things.
+
+The biggest change is probably the ability to intermix variable declarations with code. With C99, you are no longer forced to keep variable declarations at the top of a block.
+
+## Headers
+
+### Most Used
+* stdio.h  - Standard I/O
+* string.h - String Manipulation
+* ctype.h  - Character Manipulation
+* math.h   - Math
+* memory.h - Memory: malloc, calloc, free, realloc, ... (Multics)
+* time.h   - Date and Time
+* curses.h - Curses
+
+### Relatively Used
+* varargs.h   - Varargs
+* types.h     - Various data types (POSIX)
+* stat.h      - File information (POSIX)
+* signal.h    - Signal handling (POSIX)
+* print.h     - min, max, todigit, tonumber, and other macros (??)
+* fcntl.h     - File opening, locking, and other operationg (POSIX)
+* errno.h     - Error Codes
+* termio.h    - Termio, used by curses (Unix)
+* term.h      - Terminal info, used by curses (Unix)
+
+### Others
+* setjmp.h - Stack environment declarations
+* nan.h
+* stdiom.h
+* values.h
+* utsname.h
+* times.h
+* curshdr.h - used by curses (Unix)
+* uparm.h - used by curses (Unix)
+* unctrl.h - used by curses (Unix)
+* ns_curses.h - used by curses (Unix)
+
+## Curses Functions
+Make sure to pass the argument "-lb >sl3p>cc>e>libcurses.archive" to the "cc" command. Curses will not work with the video system invoked. You can revoke the video system with the "wdc revoke" command.
+
+Get more information about how to use this on multics by typing "help introduction.gi"
+
+* addch(ch)
+* getch()
+* addstr(str)
+* getstr(str)
+* move(y, x)
+* clear()
+* erase()
+* clrtobot()
+* clrtoeol()
+* insertln()
+* deleteln()
+* refresh()
+* inch()
+* insch()
+* delch()
+* standout()
+* standend()
+* attron(at)
+* attroff(at)
+* attrset(at)
+* setscrreg(t, b)
+* wsetscrreg(win, t, b)
+
+* initscr()
+* newwin()
+* subwin()
+* newpad()
+* longname()
+* erasechar()
+* killchar()
+* wgetch()
+* newterm()

@@ -1,0 +1,10 @@
+# 2021-05-31 Star Wars Canon Lists
+I have added a new subsection to this capsule that contains Lists for Star Wars Canon Movies, Tv Shows, Comics, and Books. In the future I will make one for Legends media as well.
+
+I have also added a Comitium Feed to the site, as well as linked the site to the LEO Orbit.
+
+=> /starwars/ Star Wars Canon Lists
+=> /feed.gmi Comitium Feed
+=> gemini://tilde.team/~khuxkm/leo/ Leo Orbit
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210531.gmi Backlinks

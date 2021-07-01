@@ -1,0 +1,18 @@
+# Ponics Forum (pt. 2) - Creating a Meeting
+You can create a meeting by calling the "forum_create" (or "fc") command on the Multics command line.
+
+The first thing you are asked for is a directory. This will be the directory the forum file is stored, and the directory users would need to provide to add the meeting in order to participate. It is recommended to create your own private meetings in a "meetings" directory under your home directory.
+
+The next two things are the long name and short name. The short name is used when users "goto" the meeting.
+
+Next, you are asked if you want the meeting to be public. If so, this means anybody can read and add transactions to the meeting. If you specify "no", you will be asked for personids that are allowed to participate, and then asked for projects whose users are allowed to participate.
+
+The chairman message is a message shown just before a user enters a meeting. You will then be prompted to enter the first transaction, which is used to explain to users what the meeting is used for, its purpose, etc.
+
+Finally, you are asked if you want to announce the meeting. This will post a transaction to the public Meetings_Directory meeting telling others what the new meeting is and where it's located. This makes it easier for users to find out what meetings there are on the system if they are created in other directories besides the >site>forum_dir directory (which can only be modified by system admins).
+
+After specifying "yes", you are asked where the announcement should be made. The default is fine, so just press enter.
+
+You have now created a meeting! You are also now assigned the chairman of this new meeting. If you ever want to delete your meeting, use the "fdl" command at the Multics Command Line, passing it the path of the meeting to be deleted.
+
+=> index.gmi Back

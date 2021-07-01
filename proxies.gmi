@@ -1,0 +1,31 @@
+# Proxies and Mirrors List
+
+## Services
+=> gemini://pon.ix.tc/youtube YouTube (youtube.com)
+=> gemini://pon.ix.tc/github GitHub (github.com)
+=> gemini://dioskouroi.xyz/top Hacker News (news.ycombinator.com)
+=> gemini://wp.glv.one/ Wikipedia (wikipedia.org)
+=> gemini://vault.transjovian.org/ Wikipedia (wikipedia.org)
+=> gemini://wikipedia.geminet.org/ Wikipedia (wikipedia.org)
+=> gemini://gmi.wikdict.com/ Wikidict (wikidict.com)
+=> gemini://gemini.bunburya.eu/remini.gmi Reddit (reddit.org)
+=> gemini://typed-hole.org/lobsters/lobsters.gemini Lobsters (lobste.rs)
+=> gemini://translate.metalune.xyz/ Google Translate (translate.google.com)
+=> gemini://gemini.tunerapp.org/ Radio Browser
+=> gemini://b10m.net/cgi-bin/medium Medium (medium.com)
+
+## Mirrors and Archives
+=> gemini://pon.ix.tc/odin/ Odin Programming Language (odin-lang.org)
+=> gemini://tilde.team/~kiedtl/k1ss/ Kiss Linux (k1ss.org)
+=> gemini://gemini.bortzmeyer.org/rfc-mirror/ RFC (rfc-editor.org)
+=> gemini://drewdevault.com/cgi-bin/man.sh Lookup POSIX Man Pages
+
+## News
+=> gemini://typed-hole.org/tilde_news/index.gmi Tilde News (tilde.news)
+=> gemini://gemini.techrights.org/ Techrights (techrights.org)
+=> gemini://guardian.shit.cx/ The Guardian (theguardian.com)
+=> gemini://rawtext.club/~sloum/geminews/npr/ NPR (npr.org)
+=> gemini://rawtext.club/~sloum/geminews/cnn/ CNN (cnn.com)
+=> gemini://tobykurien.com/maverick/ Daily Maverick (dailymaverick.co.za)
+=> gemini://rawtext.club/~sloum/geminews/csm/ CSM (csmonitor.com)
+

@@ -1,0 +1,70 @@
+# Multics Manuals Downloads
+
+## Guides and Manuals
+These have introductory material and are primarily used for learning, unlike reference material (which is provided in the next section).
+
+### User Basics
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CH24-0_multicsIntrPt1_Nov79.pdf CH24 - New Users' Introduction to Multics - Part I
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CH25-0_multicsIntrPt2_Nov79.pdf CH25 - New Users' Introduction to Multics - Part II
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CH26-00_errorMsgPrimer_Sep80.pdf CH26 - Error Messages: Primer and Reference Manual
+
+### Software
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CG40-01_qedx_Feb83.pdf CG40 - Multics qedx Text Editor User's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CH23-01_extendedMailSysUG_Feb82.pdf CH23 - Extended Mail System User's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CY74-02_forumMtgSysUG_Feb85.pdf CY74 - Multics Forum User's Guide
+
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CH27-00F_emacs_Nov86.pdf CH27 - Emacs Text Editor User's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CJ52-01_emacsExtns_Jul82.pdf CJ52 - Emacs Extension Writer's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CP50-00B_ted_Oct85.pdf CP50 - Multics Text Editor (Ted) Reference Manual
+
+### Word Processing and Reporting
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/swenson/dj18-01.820900.mr10-0.wordpro-new-users.pdf DJ18 - Guide To Multics WORDPRO for New Users
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AZ98-02_wordproRefMan_Jul83.pdf AZ98 - Multics WORDPRO Reference Manual
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CC69-00A_mrpgRef_Nov82.pdf CC69 - Multics Report Program Generator (MRPG) Reference Manual
+
+### Programming Basics
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AG90-03_PgmgIntro_Dec81.pdf AG90 - Introduction To Programming On Multics
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AM82-01A_basicUpdA_Dec84.pdf AM82 - Multics Basic
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/swenson/gb62-00.840300.mr10-2.pascal-users-guide.72.pdf GB62 - Multics Pascal User's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CC70-01C_fortranUG_Dec83.pdf CC70 - Multics FORTRAN Users' Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AM83A_PL1refMan_Sep78.pdf AM83 - Multics PL/I Reference Manual (Introductory)
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/HH07-01_C_UsersGuide_Nov87.pdf HH07 - Multics C Compiler User's Guide
+=> https://ban.ai/multics/doc/Moon-MACLISP_Reference_Manual-Jul_27_1978.pdf MACLISP Reference Manual
+=> https://ban.ai/multics/doc/Greenberg_Notes_on_the_Programming_Language_LISP_1978.pdf Greenberg Notes on the Programming Language LISP
+
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AS43-01E_cobolUG_Jul81.pdf AS43 - Multics COBOL Users' Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AK95-02_APL_Dec85.pdf AK95 - Multics APL User's Guide
+
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CP51-02_menuCreationFacility_Feb85.pdf CP51 - Multics Menu Creation Facilities
+
+### Admins
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AK51-02_projAdmin_Feb85.pdf AK51 - Multics Project Administrator's Manual
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AK50A-03B_sysAdmin_Dec87.pdf AK50 - Multics System Administration Procedues (aka. System Administrator's Manual)
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/GB61-01B_OperatorsGde_Dec87.pdf GB61 - Multics Operator's Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AM81-04_maintPrcds_Nov86.pdf AM81 - Multics System Maintenance Procedures
+
+## References
+These are manuals used primarily for reference rather than introducing material. Much of the material introduced in the guides and manuals above are subsets of the information provided in these reference manuals.
+
+### General
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AW17_multicsPocketRef_Apr76.pdf AW17 - Multics Pocket Guide - Commands and Active Functions
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AG91-04A_mpmVol2_Jan87.pdf AG91-04A - Multics Programmer's Reference Manual (MPM Reference Guide)
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AG92-06B_multicsCmds_Nov87.pdf AG92 - MPM Commands and Active Functions
+
+### Advanced
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AG93-05A_subrtns_Nov86.pdf AG93 - Multics MPM Subroutines and I/O Modules
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AK92-2_MPM_SubsysWrtGud_Mar79.pdf AK92 - MPM Subsystem Writers' Guide
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AX49-01C_MPM_periphIO_Jul82.pdf AX49 - MPM Peripheral Input/Output
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/CC92-01A_MPM_commIO_Jul82.pdf CC92 - MPM Communications Input/Output
+
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/GB64-00A_adminCmds_Nov86.pdf GB64 - Administration, Maintenance, and Operations Commands
+
+### Programmers
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AT58-03B_fortran_Dec83.pdf AT58 - Multics FORTRAN Reference Manual
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AG94-02_PLI_langSpec_Mar81.pdf AG94 - Multics PL/I Language Specification
+=> http://bitsavers.trailing-edge.com/pdf/honeywell/multics/AS44-1F_cobolRef_Jul81.pdf AS44 - Multics COBOL Reference Manual
+
+## Related
+=> http://www.ccapitalia.net/descarga/docs/1978-ritchie-the-c-programming-language.pdf The C Programming Language 1st Edition (1978)
+=> https://ia600807.us.archive.org/6/items/svr2-programming-guide/Image071117222718.duplex.pdf UNIX System V Release 2.0 Programming Guide (1984)
+

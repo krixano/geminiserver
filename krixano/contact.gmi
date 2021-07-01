@@ -1,0 +1,5 @@
+# Contact info
+XMPP:  krixano@trashserver.net
+=> mailto:krixano@mailbox.org Email: krixano@mailbox.org
+=> gemini://station.martinrue.com/krixano Station Id: krixano
+=> gemini://astrobotany.mozz.us/public/83adb266de444b76a26703b06be896da Astrobotany Plant

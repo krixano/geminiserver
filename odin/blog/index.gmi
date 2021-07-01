@@ -1,0 +1,15 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+# The Odin Blog
+
+--------------------------------------------------------------------------------
+
+title: The Odin Blog images:
+
+* https://www.gingerbill.org/images/logo-slim.png[1]
+
+--------------------------------------------------------------------------------

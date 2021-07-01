@@ -1,0 +1,4 @@
+# April 28, 2021 - Github Proxy WIP
+I have started work on a Github Proxy for Gemini. Currently, you can only search repos and see very basic information about a repo. More things will definitely be coming in the future.
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210428.gmi Backlinks

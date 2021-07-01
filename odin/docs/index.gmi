@@ -1,0 +1,72 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+# Documentation
+
+## Installing Odin
+
+### Getting Started[1]
+
+Instructions for downloading and installing the Odin compiler and libraries.
+
+=> gemini://pon.ix.tc/odin/docs/install.gmi 1: /docs/install.gmi
+
+## Learning Odin
+
+### Overview of Odin[2]
+
+An overview of the Odin programming language.
+
+=> gemini://pon.ix.tc/odin/docs/overview.gmi 2: /docs/overview.gmi
+
+### Frequently Asked Questions (FAQ)[3]
+
+Answers to common questions about Odin.
+
+=> gemini://pon.ix.tc/odin/docs/faq.gmi 3: /docs/faq.gmi
+
+### Demonstration Code Example[4]
+
+A demonstration of the language in Odin code.
+
+=> gemini://pon.ix.tc/odin/docs/code-example.gmi 4: /docs/code-example.gmi
+
+### The Odin Wiki[5]
+
+A wiki maintained by the Odin community.
+
+=> https://github.com/odin-lang/Odin/wiki 5: https://github.com/odin-lang/Odin/wiki
+
+## References
+
+### Language Specification[6]
+
+The official Odin Language specification.
+
+=> gemini://pon.ix.tc/odin/ref/spec.gmi 6: /ref/spec.gmi
+
+## Articles
+
+### The Odin Blog[7]
+
+The official blog of the Odin programming language, featuring announcements, news, and in-depth articles by the Odin team and guests.
+
+=> gemini://pon.ix.tc/odin/blog 7: /blog
+
+## Talks
+
+The original video demonstrations of the process of creation of Odin.
+
+* First Talk & Demo * Talk[8] * Demo[9] * Q&A[10]
+* Composition & Refactorability[11]
+* Introspection, Modules, and Record Layout[12]
+* push_allocator & Minimal Dependency Building[13]
+* when, for & procedure overloading[14]
+* Context Types, Unexported Entities, Labelled Branches[15]
+* Bit Fields, i128 & u128, Syntax Changes[16]
+* Default and Named Arguments; Explicit Parametric Polymorphism[17]
+* Loadsachanges[18]
+* Packages, Bit Sets, cstring[19] * Q&A[20]

@@ -1,0 +1,14 @@
+# 2021-06-06 New Star Wars Database: Progress
+
+About a week or so ago I created a new Star Wars subsection that uses a Database to store all of the Star Wars information. It replaces the old lists/tables that were static files written by hand. Even though not all of the information is in the new Database, I have replaced the link to the old section to this one.
+
+Aside from using a Database, I am now dynamically generating tables, including wrapping cell contents when needed.
+
+As far as content goes, I have added all movies, TV show series', and comic series'. I have also just added all TPBs for the main series', and all of the issues for the following series': Star Wars (2015), Darth Vader (2015), Kanan (2015), and The High Republic (2021). I've also added all of the one-shots. I will be continually adding more and more issues to the database until it is all complete.
+
+Books and book series' have not been added yet, along with TV Show episodes (and seasons). Additionally, no Legends content has been added yet, but this will be coming in the future.
+
+=> /starwars2/ (New) Star Wars Database
+
+=> /starwars/ The Old Star Wars Lists
+

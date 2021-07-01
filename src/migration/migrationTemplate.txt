@@ -1,0 +1,39 @@
+package migrations
+
+import (
+	"time"
+	"database/sql"
+
+	"github.com/krixano/ponixserver/src/db"
+	"github.com/krixano/ponixserver/src/migration/types"
+)
+
+func init() {
+	registerMigration(%NAME%{})
+}
+
+type %NAME% struct{}
+
+func (m %NAME%) Version() types.MigrationVersion {
+	return types.MigrationVersion(%DATE%)
+}
+
+func (m %NAME%) Name() string {
+	return "%NAME%"
+}
+
+func (m %NAME%) DB() db.DBType {
+	return db.MusicDB
+}
+
+func (m %NAME%) Description() string {
+	return %DESCRIPTION%
+}
+
+func (m %NAME%) Up(tx *sql.Tx) error {
+	panic("Implement me")
+}
+
+func (m %NAME%) Down(tx *sql.Tx) error {
+	panic("Implement me")
+}

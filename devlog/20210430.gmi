@@ -1,0 +1,9 @@
+# April 30, 2021 - GitHub Proxy Improvements
+I have worked a bit more on the GitHub Proxy:
+* Finished off the file browser for the default branch, including detecting mime types by extension so the correct mimetype is sent, and adding custom support for .gpub and .gmi/.gemini files
+* New page to list branches
+* Reorganized the repo pages
+
+=> /github GitHub Proxy
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210430.gmi Backlinks

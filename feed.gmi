@@ -1,0 +1,2057 @@
+# comitium subscriptions
+
+
+=> subscriptions.gmi Currently aggregating 43 capsules, gopherholes, and websites.
+
+Generated on 2021-07-01 at 20:41 UTC
+
+
+## 2021-07-01
+
+=> gopher://i-logout.cz:70/1/bongusta Bongusta!
+=> gopher://gopher.black:70/1/phlog Tomasino's Phlog
+=> gopher://gopher.black:70/1/moku-pona/ Phlogroll (tomasino)
+=> gopher://circumlunar.space:70/1/~sloum/phlog Sloum's Phlog
+=> gemini://warmedal.se/~bjorn/posts/antenna-improvements-already.gmi ew0k is a Teddybear — Antenna Improvements (Already)
+
+
+## 2021-06-30
+
+=> gemini://warmedal.se/~bjorn/posts/announcing-antenna.gmi ew0k is a Teddybear — Announcing Antenna
+
+
+## 2021-06-29
+
+=> https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i Standard Ebooks - New Releases — Henry IV, Part I, by William Shakespeare
+=> https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall Standard Ebooks - New Releases — Ticket No. 9672, by Jules Verne
+=> gemini://warmedal.se/~bjorn/posts/working-on-antenna.gmi ew0k is a Teddybear — Working on Antenna
+
+
+## 2021-06-28
+
+=> gemini://gemlog.blue/users/sloum/1624898839.gmi gemini://gemlog.blue/users/sloum/ — GEMLOG.BLUE DNS OUTAGE
+=> gemini://gemlog.blue/users/sloum/1624914178.gmi gemini://gemlog.blue/users/sloum/ — Firefox new "floating tabs" UI
+=> gemini://gemlog.blue/users/sloum/1624898548.gmi gemini://gemlog.blue/users/sloum/ — Music
+
+
+## 2021-06-26
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-26.gmi Trying To Be Constructive — Adventures with Realtek wifi on Linux
+=> gemini://hexdsl.co.uk/log/HuntersGardenPart6-20210626.gmi HexDSL's Gemlog — A Hunter's Garden part 6. The Final part.
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-06-26-farewell.gmi Joneworlds — Farewell.
+=> gemini://kwiecien.us/gemlog/202106260631.gmi Ben's Gemlog ☪ — It's Been a While
+
+
+## 2021-06-25
+
+=> gemini://rwv.io/2021-06-25-guixing.gmi RWV.io — | Guixing
+=> gemini://rwv.io/2021-06-25-wd-book-live.gmi RWV.io — | Not my WD Book Live
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-25.gmi Trying To Be Constructive — Re: Reformatting gemini text
+
+
+## 2021-06-24
+
+=> gemini://drewdevault.com/2021/06/24/finger-client.gmi Drew DeVault's geminispace — A finger client
+=> gemini://miso.town/1624558505 m15o — Smol updates
+
+
+## 2021-06-22
+
+=> https://standardebooks.org/ebooks/william-shakespeare/richard-ii Standard Ebooks - New Releases — Richard II, by William Shakespeare
+=> gemini://warmedal.se/~bjorn/posts/help-me-make-eddie-less-dumb.gmi ew0k is a Teddybear — Help Me Make Eddie Less Dumb
+
+
+## 2021-06-21
+
+=> gemini://calcuode.com/gemlog/2021-06-21_gmni-kobo.gmi Callum's Gemlog — Running gmni on a Kobo e-reader
+=> gemini://carcosa.net/journal/20210621-lisp-hacking.gmi An Inhabitant of Carcosa — A tiny bit of Lisp hacking
+
+
+## 2021-06-18
+
+=> gemini://tilde.team/~benk/re-instant-gratification.gmi Generic Benlog — Re: Instant gratification
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-06-18-no-food.gmi Joneworlds — Tried to order some food.
+
+
+## 2021-06-17
+
+=> gemini://warmedal.se/~bjorn/posts/re-small-request-to-geminauts.gmi ew0k is a Teddybear — Re: Small request to Geminauts
+=> gemini://nytpu.com/gemlog/2021-06-17.gmi Yet Another Tech Gemlog — Re: The Smartphone Camera
+
+
+## 2021-06-16
+
+=> https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy Standard Ebooks - New Releases — An American Tragedy, by Theodore Dreiser
+=> gemini://warmedal.se/~bjorn/posts/charging-cat.gmi ew0k is a Teddybear — Charging Cat
+
+
+## 2021-06-15
+
+=> gopher://zaibatsu.circumlunar.space:70/1/~tfurrows/phlog/ Tfurrows' Phlog
+=> https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio Standard Ebooks - New Releases — Winesburg, Ohio, by Sherwood Anderson
+=> https://standardebooks.org/ebooks/william-shakespeare/king-john Standard Ebooks - New Releases — King John, by William Shakespeare
+=> gemini://skyjake.fi/gemlog/2021-06_testflight.gmi skyjake's Gemlog — TestFlight Build 1.4 (21.6.15)
+=> gemini://rawtext.club/~mieum/prose/2021-06-15-estuary.gmi mieum's rawtext gemlog — [散] Estuary
+=> gemini://astrobotany.mozz.us/static/changes/2021-06-15.gmi Astrobotany - News
+
+
+## 2021-06-14
+
+=> gemini://warmedal.se/~bjorn/posts/i-m-probably-at-90-up-time.gmi ew0k is a Teddybear — I'm Probably at 90% Up Time 😆️
+=> gemini://gem.acdw.net:1965/page/2021-06-14.%20lunch%20lines acdw's Blog — . lunch lines
+=> gemini://kwiecien.us/gemlog/202106142157.gmi Ben's Gemlog ☪ — Static Page Philosophy
+=> gemini://hexdsl.co.uk/log/biomutantnew-20210614.gmi HexDSL's Gemlog — BIOMUTANT
+=> gemini://kwiecien.us/gemlog/202106142109.gmi Ben's Gemlog ☪ — Oops
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-14.gmi Trying To Be Constructive — MasterChef, men, and mental health
+=> gemini://kwiecien.us/gemcast/20210614.gmi Gemini Radio — Episode 31
+
+
+## 2021-06-13
+
+=> gemini://miso.town/1623592522 m15o — Commute log: New Project
+=> gemini://mieum.smol.pub/for-the-love-of-gemini pass with care — For the Love of Gemini
+=> https://random-projects.net/blog/2021-06-13-gemini-rant.gemini xq'stuff — Rant: Gemini is not Gemini
+
+
+## 2021-06-11
+
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-06-11-car-accident.gmi Joneworlds — The goblins took everything.
+
+
+## 2021-06-10
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-10.gmi Trying To Be Constructive — Re: RE: The bemoaning of people's smartphone usage
+=> gemini://hexdsl.co.uk/log/talesofberseria-20210610.gmi HexDSL's Gemlog — Tales of Berseria.
+
+
+## 2021-06-09
+
+=> https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class Standard Ebooks - New Releases — The Theory of the Leisure Class, by Thorstein Veblen
+=> gemini://miso.town/1623215905 m15o — From 9pm to 11pm
+=> gemini://skyjake.fi/gemlog/2021-06_10-day-poster.gmi skyjake's Gemlog — 10-day Poster — Miscellany
+
+
+## 2021-06-08
+
+=> https://standardebooks.org/ebooks/william-shakespeare/twelfth-night Standard Ebooks - New Releases — Twelfth Night, by William Shakespeare
+=> gemini://warmedal.se/~bjorn/posts/operation-trojan-shield.gmi ew0k is a Teddybear — Operation Trojan Shield
+=> https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it Standard Ebooks - New Releases — As You Like It, by William Shakespeare
+=> https://standardebooks.org/ebooks/emile-zola/germinal/havelock-ellis Standard Ebooks - New Releases — Germinal, by Émile Zola
+=> gemini://miso.town/decisions m15o — Decisions
+
+
+## 2021-06-07
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-06-07.gmi Trying To Be Constructive — The bemoaning of people's smartphone usage
+=> gemini://miso.town/javascript-bookmarklets m15o — Web, JavaScript and Bookmarklets
+=> gemini://carcosa.net/journal/20210607-warp-drive-roundup.gmi An Inhabitant of Carcosa — Warp Drive Roundup
+=> gemini://drewdevault.com/2021/06/07/The-Netherlands.gmi Drew DeVault's geminispace — I will be moving to the Netherlands
+=> gemini://mieum.smol.pub/new-bike-day pass with care — New (to me) Bike Day
+
+
+## 2021-06-06
+
+=> gemini://warmedal.se/~bjorn/posts/grottr-j-34-was-yesterday.gmi ew0k is a Teddybear — Grottröj #34 Was Yesterday
+=> gemini://pon.ix.tc/devlog/20210606.gmi Ponix Devlog — New Star Wars Database: Progress
+=> gemini://hexdsl.co.uk/log/huntersgarden5-20210606.gmi HexDSL's Gemlog — A Hunter's Garden part 5.
+=> gemini://miso.town/feeds-feeds-feeds m15o — Feeds feeds feeds
+
+
+## 2021-06-05
+
+=> https://standardebooks.org/ebooks/james-branch-cabell/domnei Standard Ebooks - New Releases — Domnei, by James Branch Cabell
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-06-05-swung-by-pub.gmi Joneworlds — Swung by the pub.
+=> gemini://calcuode.com/gemlog/2021-06-05_ereader.gmi Callum's Gemlog — The E-Reader
+=> gemini://kwiecien.us/gemcast/20210605.gmi Gemini Radio — Episode 30
+
+
+## 2021-06-04
+
+=> https://standardebooks.org/ebooks/p-t-barnum/the-humbugs-of-the-world Standard Ebooks - New Releases — The Humbugs of the World, by P. T. Barnum
+=> gemini://miso.town/1622804460 m15o — Commute log
+=> gemini://miso.town/rain-coffee-games m15o — Rain, coffee, welcome, games.
+
+
+## 2021-06-03
+
+=> gemini://warmedal.se/~bjorn/posts/i-didn-t-know-i-m-doing-this-much.gmi ew0k is a Teddybear — I Didn’t Know I’m Doing This Much
+=> gemini://miso.town/1622697260 m15o — Video games
+
+
+## 2021-06-02
+
+=> gemini://tilde.team/~benk/scripting-tasks-with-diohsc.gmi Generic Benlog — Scripting Tasks With Diohsc
+
+
+## 2021-06-01
+
+=> gemini://pon.ix.tc/devlog/20210601.gmi Ponix Devlog — Weather
+=> gemini://nytpu.com/gemlog/2021-06-01.gmi Yet Another Tech Gemlog — a tutorial on slightly advanced amoled wallpaper editing
+
+
+## 2021-05-31
+
+=> https://standardebooks.org/ebooks/dante-alighieri/the-divine-comedy/henry-wadsworth-longfellow Standard Ebooks - New Releases — The Divine Comedy, by Dante Alighieri
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-31.gmi Trying To Be Constructive — Approaching winter solstice
+=> gemini://pon.ix.tc/devlog/20210531.gmi Ponix Devlog — Star Wars Canon Lists
+=> gemini://pon.ix.tc/~krixano/20210531.gmi Krixano's Gemlog — The Gemini CSV Document Format
+=> gemini://hexdsl.co.uk/log/iMadeAbot-20210531.gmi HexDSL's Gemlog — I made a Discord bot in Python.
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-05-31-toys-at-school.gmi Joneworlds — Toys at school.
+
+
+## 2021-05-30
+
+=> gemini://gem.chriswere.uk/nano.gmi Chris Were's nano log
+=> gopher://colorfield.space:70/1/~sloum/phlog/ Sloum's Phlog (colorfield)
+=> gemini://station.martinrue.com/updates Station Recent Updates
+=> gemini://drewdevault.com/2021/05/30/Come-build-your-project.gmi Drew DeVault's geminispace — Build your project in our new language
+=> gemini://hexdsl.co.uk/log/Hunters_Garden_update1-20210530.gmi HexDSL's Gemlog — A Hunters Garden. Progress report.
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-05-30.ogg Welcome to the Trendy Talk podcast — Freenode, Python is easy, too much gaming talk, Chris is missing
+=> gemini://skyjake.fi/gemlog/2021-05_lagrange-1.5.gmi skyjake's Gemlog — Lagrange v1.5: UI Polish
+
+
+## 2021-05-29
+
+=> gemini://miso.town/1622294531 m15o — It starts with a title
+
+
+## 2021-05-28
+
+=> gemini://miso.town/1622223787 m15o — Commute log
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-28.gmi Trying To Be Constructive — Being competitive vs. being a douche
+
+
+## 2021-05-27
+
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-05-27-shots.gmi Joneworlds — Can't afford these shots.
+=> gemini://mozz.us/journal/2021-05-27.gmi Mozz.us Gemlog — The History of Gopher's "i" Type
+=> gemini://gemini.marmaladefoo.com/blog/26-May-2021_Romulus_Gemini_client.gmi Luke's Gemlog — Some building blocks for a Gemini client and a new Gemini console app, Romulus
+
+
+## 2021-05-26
+
+=> https://standardebooks.org/ebooks/samuel-butler-1612-1680/hudibras Standard Ebooks - New Releases — Hudibras, by Samuel Butler
+=> gemini://mieum.smol.pub/re_handles-hangul pass with care — RE: of course it handles hangul
+=> gemini://miso.town/1622010232 m15o — Commute log
+=> gemini://miso.town/1622002880 m15o — Web Dogma Certified
+=> gemini://mieum.smol.pub/1622004352 pass with care — RE: stamping the slug
+=> gemini://miso.town/1622003208 m15o — Stamping the slug
+
+
+## 2021-05-25
+
+=> gemini://pon.ix.tc/devlog/20210525.gmi Ponix Devlog — Youtube and Github Proxy Updates
+=> gemini://miso.town/zines m15o — Zines
+=> gemini://mieum.smol.pub/hello-world pass with care — 안녕하세요
+=> gemini://gem.acdw.net:1965/page/2021-05-25.%20re%3A%20html%20%26%20gemini%20status acdw's Blog — . re: html & gemini status
+
+
+## 2021-05-24
+
+=> https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow Standard Ebooks - New Releases — The Rainbow, by D. H. Lawrence
+=> gemini://drewdevault.com/2021/05/24/io_uring-finger-server.gmi Drew DeVault's geminispace — Using io_uring to make a high-performance... finger server
+=> gemini://astrobotany.mozz.us/static/changes/2021-05-24.gmi Astrobotany - News
+=> gemini://gem.acdw.net:1965/page/2021-05-24.%20going-away%20party acdw's Blog — . going-away party
+=> gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-05-24-smolzine.gmi Joneworlds — Check out smolZINE for more wordsearches.
+=> gemini://hexdsl.co.uk/log/huntersgarden4-20210524.gmi HexDSL's Gemlog — A Hunter's Garden Part 4
+=> gemini://miso.town/inline-images m15o — Inline images on the web
+
+
+## 2021-05-23
+
+=> gemini://miso.town/midnight-pub-on-libera-chat m15o — Midnight Pub on libera chat
+=> gemini://miso.town/feeding-the-smol-pub m15o — Feeding the (smol) pub
+
+
+## 2021-05-22
+
+=> gemini://gemlog.blue/users/sloum/1621695492.gmi gemini://gemlog.blue/users/sloum/ — Second dose
+=> gemini://astrobotany.mozz.us/static/changes/2021-05-22.gmi Astrobotany - News
+=> gemini://miso.town/url-as-a-place m15o — URL as a place
+=> gemini://gem.acdw.net:1965/page/2021-05-22.%20Base%20N%20Ball acdw's Blog — . Base N Ball
+
+
+## 2021-05-21
+
+=> gemini://gem.acdw.net:1965/page/2021-05-21.%20a%20new%20start acdw's Blog — . a new start
+
+
+## 2021-05-20
+
+=> gemini://miso.town/irc m15o — IRC
+=> gemini://gem.acdw.net:1965/page/2021-05-20 acdw's Blog
+=> gemini://drewdevault.com/2021/05/20/How-I-choose-a-license.gmi Drew DeVault's geminispace — How I choose a license
+=> gemini://carcosa.net/journal/20210520-notes-on-headphones.gmi An Inhabitant of Carcosa — A couple notes on headphones
+
+
+## 2021-05-19
+
+=> gemini://drewdevault.com/2021/05/19/How-to-write-release-notes.gmi Drew DeVault's geminispace — How to write release notes
+=> gemini://carcosa.net/journal/20210519-sysadmin-recovery.gmi An Inhabitant of Carcosa — alt.sysadmin.recovery
+=> gemini://miso.town/defined-by-software m15o — Are we defined by the software we use?
+=> gemini://nytpu.com/gemlog/2021-05-19.gmi Yet Another Tech Gemlog — recipe: biscotti
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-05-19-laundromat.gmi Joneworlds — At the laundromat.
+=> gemini://skyjake.fi/gemlog/2021-05_entropy-and-technical-debt.gmi skyjake's Gemlog — Entropy and Technical Debt
+
+
+## 2021-05-18
+
+=> https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin Standard Ebooks - New Releases — The Eleventh Virgin, by Dorothy Day
+=> gemini://miso.town/online-constellation m15o — Online constellation
+=> gemini://hexdsl.co.uk/log/bluetoothcar-20210518.gmi HexDSL's Gemlog — My Car Stereos Bluetooth Defaults.
+=> gemini://miso.town/smol-pub-open-source m15o — Smol Pub is now free and open source
+=> gemini://rawtext.club/~mieum/prose/2021-05-18-living_and_lurking.gmi mieum's rawtext gemlog — [散] Living and Lurking
+
+
+## 2021-05-17
+
+=> gemini://hexdsl.co.uk/log/NotPlayedEnough-20210517.gmi HexDSL's Gemlog — I have not played enough PC games recently.
+=> gemini://miso.town/the-healthy-web m15o — The healthy web
+=> gemini://miso.town/going-out-past-7pm m15o — Going out past 7pm
+
+
+## 2021-05-16
+
+=> gemini://miso.town/mercury m15o — The Mercury protocol
+=> gemini://calcuode.com/gemlog/2021-05-16_gmnisrv-bug-fixed.gmi Callum's Gemlog — A gmnisrv bug has been fixed
+=> gemini://drewdevault.com/2021/05/16/Status-update-May-2021.gmi Drew DeVault's geminispace — Status update, May 2021
+
+
+## 2021-05-15
+
+=> gemini://miso.town/return-of-fancy-tools m15o — Reading "The return of fancy tools"
+=> gemini://miso.town/building-vocabulary m15o — Building up vocabulary
+=> gemini://hexdsl.co.uk/log/sorry-20210515.gmi HexDSL's Gemlog — I'm Finished tinkering with RSS.
+=> gemini://hexdsl.co.uk/log/last_test-20210515.gmi HexDSL's Gemlog — Last test, I promise.
+
+
+## 2021-05-14
+
+=> gemini://pon.ix.tc/devlog/20210514.gmi Ponix Devlog — Multics Pubnix Launch
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-05-14.ogg Welcome to the Trendy Talk podcast — Self hosting: Gitea, Owncast, FreshRSS, Pleroma and more
+=> gemini://drewdevault.com/2021/05/14/Pinebook-Pro-review.gmi Drew DeVault's geminispace — Pinebook Pro review
+=> gemini://miso.town/journal-of-a-day-without-phone-or-computer m15o — Journal of a day without phone or computer
+
+
+## 2021-05-13
+
+=> gemini://rwv.io/2021-05-13-dezhemini-security-announcement.gmi RWV.io — | Dʒɛmɪni security announcement
+
+
+## 2021-05-12
+
+=> https://standardebooks.org/ebooks/helen-keller/the-story-of-my-life Standard Ebooks - New Releases — The Story of My Life, by Helen Keller
+=> gemini://miso.town/a-day-without-phone-or-computer m15o — A day without phone or computer
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-05-12-garbage-goblin.gmi Joneworlds — Garbage goblin.
+=> gemini://hexdsl.co.uk/log/20210512-gitea.gmi HexDSL's Gemlog — Self Hosting: Gitea.
+
+
+## 2021-05-11
+
+=> https://standardebooks.org/ebooks/henry-david-thoreau/essays Standard Ebooks - New Releases — Essays, by Henry David Thoreau
+=> gemini://hexdsl.co.uk/log/20210511-unicomp_days.gmi HexDSL's Gemlog — Unicomp - A few days later.
+
+
+## 2021-05-10
+
+=> gemini://hexdsl.co.uk/log/20210510-SelfHost1.gmi HexDSL's Gemlog — Self Hosting Adventures
+
+
+## 2021-05-09
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-09.gmi Trying To Be Constructive — When comments are accidentally left in academic articles
+=> gemini://hexdsl.co.uk/log/20210509-a_test.gmi HexDSL's Gemlog — A test post to test a bot
+=> gemini://miso.town/just-show-me-the-text m15o — Just show me the text
+=> gemini://miso.town/first-workout-in-4-month m15o — First workout in 4 month
+=> gemini://hexdsl.co.uk/log/20210509-Pleroma.gmi HexDSL's Gemlog — social.hexdsl.co.uk exists!
+
+
+## 2021-05-08
+
+=> gemini://tilde.team/~benk/diohsc-tips-4--.gmi Generic Benlog — Diohsc Tips #4 - @
+=> gemini://miso.town/a-productive-saturday m15o — A productive saturday
+=> gemini://kwiecien.us/gemcast/20210508.gmi Gemini Radio — Episode 28
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-05-08.ogg Welcome to the Trendy Talk podcast — Self-hosting, keyboards, Linux distros and parasocial relationships
+=> gemini://skyjake.fi/gemlog/2021-05_browsing-zips.gmi skyjake's Gemlog — Browsing ZIPs
+
+
+## 2021-05-07
+
+=> https://standardebooks.org/ebooks/william-shakespeare/macbeth Standard Ebooks - New Releases — Macbeth, by William Shakespeare
+=> gemini://nytpu.com/gemlog/2021-05-07.gmi Yet Another Tech Gemlog — the smolzine
+=> gemini://drewdevault.com/2021/05/07/godocs.io-six-months-later.gmi Drew DeVault's geminispace — godocs.io six months later
+=> gemini://calcuode.com/gemlog/2021-05-07_cheese-sandwich.gmi Callum's Gemlog — The Cheese Sandwich
+=> gemini://miso.town/circumlunar-transmissions m15o — Circumlunar Transmissions
+=> gemini://skyjake.fi/gemlog/2021-05_lagrange-1.4.gmi skyjake's Gemlog — Lagrange v1.4: Split View and Gempub
+=> gemini://hexdsl.co.uk/log/20210507-owncast.gmi HexDSL's Gemlog — OwnCast
+
+
+## 2021-05-06
+
+=> gemini://tilde.team/~benk/re-praise-for-alpine-linux.gmi Generic Benlog — Re: Praise for Alpine Linux
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-06.gmi Trying To Be Constructive — Some of the music i'm listening to - 3
+=> gemini://drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi Drew DeVault's geminispace — Praise for Alpine Linux
+=> gemini://tilde.team/~benk/pgp-encryption.gmi Generic Benlog — PGP Encryption
+=> gemini://hexdsl.co.uk/log/20210506-endevos.gmi HexDSL's Gemlog — Distro thought's: Endeavour.
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-05-06.ogg Aprilcast — Why I'm still on Linux Mint Debian Edition and the future of Aprilcast
+=> gemini://miso.town/web-browser m15o — The only app I run is a web browser
+=> gemini://miso.town/re-burn-out m15o — Re: Will I burn out?
+=> gemini://miso.town/crazy-ideas m15o — Crazy Ideas
+=> gemini://tilde.team/~benk/omemo-fingerprints.gmi Generic Benlog — OMEMO Fingerprints
+
+
+## 2021-05-05
+
+=> gemini://hexdsl.co.uk/log/20210505-10l.gmi HexDSL's Gemlog — 10,000 is a big number.
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-05-05-ct-1.gmi Joneworlds — Circumlunar transmissions.
+
+
+## 2021-05-04
+
+=> https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse_william-archer Standard Ebooks - New Releases — Hedda Gabler, by Henrik Ibsen
+=> gemini://miso.town/random-morning-thoughts m15o — Random morning thoughts
+=> gemini://tilde.team/~benk/re-awk-is-the-coolest-tool-you-don-t-know.gmi Generic Benlog — Re: awk is the coolest tool you don't know
+=> gemini://hexdsl.co.uk/log/20210504-time_to_leave_arch.gmi HexDSL's Gemlog — Time to Leave Arch?
+=> gemini://tilde.team/~benk/spacing-in-gemdocs.gmi Generic Benlog — Spacing in Gemdocs
+
+
+## 2021-05-03
+
+=> gemini://miso.town/typing m15o — Typing in, typing away
+=> gemini://drewdevault.com/2021/05/03/awk-is-the-coolest-tool-you-dont-know.gmi Drew DeVault's geminispace — awk is the coolest tool you don't know
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-05-03.gmi Trying To Be Constructive — Wikipedia's definition of ‘category theory’
+=> gemini://skyjake.fi/gemlog/2021-05_serendipity.gmi skyjake's Gemlog — Serendipity
+=> gemini://hexdsl.co.uk/log/20210503-primtmilkyway.gmi HexDSL's Gemlog — Motor Cycle in the Milkyway and other such hits
+
+
+## 2021-05-02
+
+=> gemini://miso.town/things-i-wish-i-could-be-doing m15o — Things I wish I could be doing right now but I can't because it's 2021
+=> gemini://tilde.team/~benk/extending-diohsc-with-bash.gmi Generic Benlog — Extending Diohsc With Bash
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/been-a-long-time.gmi Solderpunk versus the windmills: a Gemlog — Been a long time
+
+
+## 2021-05-01
+
+=> gemini://tilde.team/~benk/diohsc-tips-3--advanced-relative-navigation.gmi Generic Benlog — Diohsc Tips #3 - Advanced Relative Navigation
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-05-01.ogg Welcome to the Trendy Talk podcast — Microsoft Edge: the best browser for Linux? C is great, Parc Alto was awesome and more
+
+
+## 2021-04-30
+
+=> gemini://kwiecien.us/gemcast/20210430.gmi Gemini Radio — Episode 27
+=> gemini://pon.ix.tc/devlog/20210430.gmi Ponix Devlog — GitHub Proxy Improvements
+=> gemini://carcosa.net/journal/20210430-justiceleague.gmi An Inhabitant of Carcosa — Zack Snyder’s Justice League
+=> gemini://gemlog.blue/users/sloum/1619762260.gmi gemini://gemlog.blue/users/sloum/ — It has been awhile
+
+
+## 2021-04-29
+
+=> https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason Standard Ebooks - New Releases — The Age of Reason, by Thomas Paine
+=> https://standardebooks.org/ebooks/olaudah-equiano/the-interesting-narrative-of-the-life-of-olaudah-equiano Standard Ebooks - New Releases — The Interesting Narrative of the Life of Olaudah Equiano, by Olaudah Equiano
+=> gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-29-stained-eli.gmi Joneworlds — Wordsearch - A Stained Story by eli
+
+
+## 2021-04-28
+
+=> https://standardebooks.org/ebooks/aldous-huxley/crome-yellow Standard Ebooks - New Releases — Crome Yellow, by Aldous Huxley
+=> https://standardebooks.org/ebooks/mark-twain/the-autobiography-of-mark-twain Standard Ebooks - New Releases — The Autobiography of Mark Twain, by Mark Twain
+=> gemini://kwiecien.us/gemcast/20210428.gmi Gemini Radio — Episode 26
+=> gemini://pon.ix.tc/devlog/20210428.gmi Ponix Devlog — GitHub Proxy WIP
+
+
+## 2021-04-27
+
+=> https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo Standard Ebooks - New Releases — Short Fiction, by Leo Tolstoy
+=> gemini://pon.ix.tc/devlog/20210427.gmi Ponix Devlog — Odin Mirror Launch
+=> gemini://miso.town/online-places m15o — Online places
+
+
+## 2021-04-26
+
+=> https://standardebooks.org/ebooks/thomas-paine/the-american-crisis Standard Ebooks - New Releases — The American Crisis, by Thomas Paine
+=> https://standardebooks.org/ebooks/thomas-paine/the-rights-of-man Standard Ebooks - New Releases — The Rights of Man, by Thomas Paine
+=> https://standardebooks.org/ebooks/g-k-chesterton/orthodoxy Standard Ebooks - New Releases — Orthodoxy, by G. K. Chesterton
+=> https://standardebooks.org/ebooks/jules-verne/five-weeks-in-a-balloon/william-lackland Standard Ebooks - New Releases — Five Weeks in a Balloon, by Jules Verne
+=> gemini://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.gmi Drew DeVault's geminispace — Cryptocurrency is an abject disaster
+=> gemini://miso.town/aeropress m15o — Visual Aeropress Technique
+
+
+## 2021-04-25
+
+=> gemini://hexdsl.co.uk/log/20210425-siteupdates.gmi HexDSL's Gemlog — gemini and website updates
+=> gemini://rwv.io/2021-04-25-scheme-surprises-for-a-clojurist.gmi RWV.io — | Scheme surprises for a clojurist
+=> gemini://kwiecien.us/gemcast/20210425.gmi Gemini Radio — Episode 25
+=> gemini://carcosa.net/journal/20210425-weekend-nerdery.gmi An Inhabitant of Carcosa — Weekend Nerdery
+=> gemini://kwiecien.us/gemlog/self-signed-cert.gmi Ben's Gemlog ☪ — Self-Signed Cert
+=> gemini://nytpu.com/gemlog/2021-04-25.gmi Yet Another Tech Gemlog — why gemini?
+=> gemini://friendo.monster/log/added_rss_to_script.gmi Friendo dot monster — ‒ Added RSS to my .gmi to .html script
+
+
+## 2021-04-24
+
+=> gemini://miso.town/hello-world m15o — Hello world!
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-04-24-mushroom-shaped.gmi Joneworlds — Mushroom shaped.
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-24.gmi Trying To Be Constructive — Kink aesthetics
+=> gemini://pon.ix.tc/devlog/20210424.gmi Ponix Devlog — YouTube Proxy Launch
+
+
+## 2021-04-23
+
+=> gemini://drewdevault.com/2021/04/23/Lichess.gmi Drew DeVault's geminispace — Recommended read: Why Lichess will always be free
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-04-23.ogg Welcome to the Trendy Talk podcast — What's wrong with Ubuntu, free software licences and accidental Morrowind
+
+
+## 2021-04-22
+
+=> https://standardebooks.org/ebooks/thomas-paine/essays Standard Ebooks - New Releases — Essays, by Thomas Paine
+=> gemini://lapacz-kornel.dev/log/2021-04-22-emmet-cli.gmi Kornel's gemlog — emmet-cli
+=> gemini://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.gmi Drew DeVault's geminispace — Parsers all the way down: writing a self-hosting parser
+=> gemini://calcuode.com/gemlog/2021-04-22_the-old-drift.gmi Callum's Gemlog — The Old Drift by Namwali Serpell
+
+
+## 2021-04-21
+
+=> gemini://carcosa.net/journal/20210421-comments-and-pingbacks.gmi An Inhabitant of Carcosa — Re: comments and pingbacks (reply to ~ew and iveqy)
+
+
+## 2021-04-20
+
+=> gemini://kwiecien.us/gemcast/20210420.gmi Gemini Radio — Episode 24
+=> https://random-projects.net/blog/2021-04-20-beating-gnu-yes.gemini xq'stuff — Beating gnu yes in throughput
+
+
+## 2021-04-19
+
+=> gemini://carcosa.net/journal/20210419-gemini-quickstart.gmi An Inhabitant of Carcosa — Gemini Quickstart
+=> gemini://kwiecien.us/gemlog/the-classicist.gmi Ben's Gemlog ☪ — The Classicist
+=> gemini://kwiecien.us/gemlog/gemcast-restructuring.gmi Ben's Gemlog ☪ — Gemcast Restructuring
+
+
+## 2021-04-18
+
+=> gemini://kwiecien.us/gemcast/20210418.gmi Gemini Radio — Episode 23
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-18.ogg Aprilcast — Is technology making life too easy?
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-18.gmi Trying To Be Constructive — Identifying as ‘a dominant’
+=> gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-18-home-mieum.gmi Joneworlds — Wordsearch - Home Sick by mieum
+
+
+## 2021-04-17
+
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-04-17-teacher-now.gmi Joneworlds — Now I'm a teacher too.
+=> gemini://kwiecien.us/gemlog/geminauts-xmpp-chat.gmi Ben's Gemlog ☪ — Geminauts XMPP Chat
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-17.ogg Aprilcast — RSS and feeds on gemini and the web
+
+
+## 2021-04-16
+
+=> gemini://kwiecien.us/gemcast/20210416.gmi Gemini Radio — Episode 22
+=> gemini://hexdsl.co.uk/log/20210416-HuntersGarden3.gmi HexDSL's Gemlog — The Hunters Garden, Part 3.
+=> gemini://skyjake.fi/gemlog/2021-04_rendering-text.gmi skyjake's Gemlog — Rendering Text
+=> gemini://carcosa.net/journal/20210416-usability-obstacles.gmi An Inhabitant of Carcosa — Re: Deliberate Usability Obstacles
+
+
+## 2021-04-15
+
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-15.ogg Aprilcast — More thoughts on gemini and self hosting
+=> gemini://hexdsl.co.uk/log/20210415-New_Site.gmi HexDSL's Gemlog — New website joy!
+=> gemini://drewdevault.com/2021/04/15/Status-update-April-2021.gmi Drew DeVault's geminispace — Status update, April 2021
+=> gemini://friendo.monster/log/gemini_first.gmi Friendo dot monster — ‒ Generating my website from my Gemmini pod
+=> gemini://nytpu.com/gemlog/2021-04-15.gmi Yet Another Tech Gemlog — a comprehensive guide to setting up a pocketchip
+
+
+## 2021-04-14
+
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-14.ogg Aprilcast — Free software and social networks
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-04-14.ogg Welcome to the Trendy Talk podcast — Radio, e-mail, self hosting, leaving Steam behind and reaching out
+
+
+## 2021-04-13
+
+=> gemini://lapacz-kornel.dev/log/2021-04-13-irssi-notifications.gmi Kornel's gemlog — irssi notifications
+=> gemini://nytpu.com/gemlog/2021-04-13.gmi Yet Another Tech Gemlog — rust sucks, edition 42069
+
+
+## 2021-04-12
+
+=> gemini://lapacz-kornel.dev/log/2021-04-12-cow-of-wisdom.gmi Kornel's gemlog — Cow
+=> gemini://drewdevault.com/2021/04/12/DCO.gmi Drew DeVault's geminispace — The Developer Certificate of Origin is a great alternative to a CLA
+=> gemini://skyjake.fi/gemlog/2021-04_neglect-and-guilt.gmi skyjake's Gemlog — Neglect and Guilt
+
+
+## 2021-04-11
+
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-04-11-no-more-fish.gmi Joneworlds — No more fish.
+=> gemini://hexdsl.co.uk/log/20210411-Tweaking_is_Joy.gmi HexDSL's Gemlog — Tweaking is joy
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-04-11.gmi Trying To Be Constructive — Some of the music i'm listening to - 2
+
+
+## 2021-04-09
+
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-09.ogg Aprilcast — The importance of decentralised communications
+=> gemini://rwv.io/2021-04-09-gemini-links-in-emacs.gmi RWV.io — | Gemini links in emacs
+
+
+## 2021-04-08
+
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-08.ogg Aprilcast — The problem with Signal
+=> gemini://carcosa.net/journal/20210408-the-next-chat-app.gmi An Inhabitant of Carcosa — The Next Chat App
+=> gemini://carcosa.net/journal/20210409-interlingua.gmi An Inhabitant of Carcosa — Re: Interlingua
+=> gemini://lapacz-kornel.dev/log/2021-04-08-git-send-mail.gmi Kornel's gemlog — Git send-mail
+
+
+## 2021-04-07
+
+=> gemini://republic.circumlunar.space/users/joneworlds/wordsearch-2021-04-07-unreality-ewok.gmi Joneworlds — Wordsearch - Unreality by ew0k
+=> gemini://drewdevault.com/2021/04/07/The-next-chat-app.gmi Drew DeVault's geminispace — What should the next chat app look like?
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-07.ogg Aprilcast — The question of technological convenience
+=> gemini://lapacz-kornel.dev/log/2021-04-07-static-git.gmi Kornel's gemlog — Static git over gemini
+
+
+## 2021-04-06
+
+=> gemini://hexdsl.co.uk/log/20210406-I_setup_MPD_Streaming.gmi HexDSL's Gemlog — I Setup MPD Streaming (With inernet access)
+
+
+## 2021-04-05
+
+=> gemini://gemini.marmaladefoo.com/blog/5-Apr-2021_GemiNaut_v0_8_11_release.gmi Luke's Gemlog — GemiNaut ♥ screen readers and client certificates - a new release 0.8.11
+=> gemini://rawtext.club/~mieum/poems/2021-04-05-before_the_bloom.gmi mieum's rawtext gemlog — [詩] Before the bloom
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-04-05.ogg Welcome to the Trendy Talk podcast — Is surveillance a problem? Is YouTube on the way out?
+
+
+## 2021-04-04
+
+=> gemini://hexdsl.co.uk/log/20210404-Streaming_games_thoughts.gmi HexDSL's Gemlog — Streaming Games Thoughts.
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-04.ogg Aprilcast — Thoughts on free software gaming
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-04-04-running-from-something.gmi Joneworlds — They were running from something.
+=> gemini://rawtext.club/~mieum/poems/2021-04-04-postcuspward.gmi mieum's rawtext gemlog — [詩] Postcuspward
+=> gemini://carcosa.net/journal/20210404-mysteryfleshpit.gmi An Inhabitant of Carcosa — Remembering my visit to Mystery Flesh Pit National Park
+
+
+## 2021-04-03
+
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-03.ogg Aprilcast — What would we do if YouTube disappeared tomorrow?
+=> gemini://lapacz-kornel.dev/log/2021-04-03-bollux-setup.gmi Kornel's gemlog — Bollux setup
+
+
+## 2021-04-02
+
+=> gemini://drewdevault.com/2021/04/02/Go-is-a-great-language.gmi Drew DeVault's geminispace — Go is a great programming language
+=> gemini://skyjake.fi/gemlog/2021-04_lagrange-1.3.gmi skyjake's Gemlog — Lagrange v1.3
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-02.ogg Aprilcast — MP3 vs OGG vorbis, thoughts on freedom respecting audio formats
+
+
+## 2021-04-01
+
+=> gemini://gemlog.medusae.space/posts/2021-04-01_statistics.gmi gemini://gemlog.medusae.space/posts/ — Statistics
+=> gemini://gem.chriswere.uk/aprilcast/ac-2021-04-01.ogg Aprilcast — Introducing Aprilcast and a ramble about the current state of free software
+
+
+## 2021-03-31
+
+=> gemini://tilde.team/~tomasino/journal/20210331-sshfp-and-the-tofu-issue.gmi gemini://tilde.team/~tomasino/journal/ — SSHFP and the TOFU issue
+
+
+## 2021-03-30
+
+=> gemini://kwiecien.us/gemlog/shattered-pixel-dungeon.gmi Ben's Gemlog ☪ — Shattered Pixel Dungeon
+=> gemini://calcuode.com/gemlog/2021-03-30_gmisub-updates.gmi Callum's Gemlog — gmisub updates
+
+
+## 2021-03-29
+
+=> gemini://lapacz-kornel.dev/log/2021-03-29-init.gmi Kornel's gemlog — Initial log
+=> gemini://hexdsl.co.uk/log/20210329-Revenue.gmi HexDSL's Gemlog — Revenue, Influence, advertisers and other terrible things.
+=> gemini://drewdevault.com/2021/03/29/The-worlds-dumbest-IRC-bot.gmi Drew DeVault's geminispace — The world's stupidest IRC bot
+=> gemini://kwiecien.us/gemlog/tangledeep.gmi Ben's Gemlog ☪ — Tangledeep
+
+
+## 2021-03-28
+
+=> gemini://carcosa.net/journal/20210328-re-throne-culture.gmi An Inhabitant of Carcosa — Re: Throne culture and cancel culture
+=> gemini://kwiecien.us/gemlog/diohsc-improved.gmi Ben's Gemlog ☪ — diohsc improved
+
+
+## 2021-03-27
+
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-03-27.ogg Welcome to the Trendy Talk podcast — Best desktop environments, #Linux works great on new hardware
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-03-27-mushrooms.gmi Joneworlds — Saw some moving mushrooms.
+
+
+## 2021-03-26
+
+=> gemini://astrobotany.mozz.us/static/changes/2021-03-26.gmi Astrobotany - News
+
+
+## 2021-03-25
+
+=> gemini://mozz.us/journal/2021-03-25.gmi Mozz.us Gemlog — 💪 The Spartan Protocol
+
+
+## 2021-03-24
+
+=> gemini://nytpu.com/gemlog/2021-03-24.gmi Yet Another Tech Gemlog — the “better c's”
+=> gemini://hexdsl.co.uk/log/20210324-Phine1.gmi HexDSL's Gemlog — Pine Thoughts (1)
+
+
+## 2021-03-23
+
+=> gemini://hexdsl.co.uk/log/20210323-Discord_Microsoft.gmi HexDSL's Gemlog — Discord by Microsoft.
+
+
+## 2021-03-22
+
+=> gemini://rwv.io/2021-03-22-ann-dezhemini-bugfix.gmi RWV.io — | Weird dʒɛmɪni bug fixed
+=> gemini://kwiecien.us/gemlog/my-favorite-clients-revisited.gmi Ben's Gemlog ☪ — My Favorite Clients Revisited
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-03-22-new-job.gmi Joneworlds — Got a new job.
+=> gemini://kwiecien.us/gemlog/spring-cleaning.gmi Ben's Gemlog ☪ — Spring Cleaning
+
+
+## 2021-03-21
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-21.gmi Trying To Be Constructive — Monocausism
+=> gemini://carcosa.net/journal/20210330-raggedy-ann.gmi An Inhabitant of Carcosa — Rags and Candy; a drabble
+
+
+## 2021-03-20
+
+=> gemini://nytpu.com/gemlog/2021-03-20.gmi Yet Another Tech Gemlog — announcing comitium: a feed aggregator for gemini and more
+=> gemini://hexdsl.co.uk/log/20210320-Software_I_life.gmi HexDSL's Gemlog — Applications I Like
+
+
+## 2021-03-19
+
+=> gemini://makeworld.space/gemlog/2021-03-19-nfts.gmi makeworld's gemlog — NFTs
+
+
+## 2021-03-18
+
+=> gemini://hexdsl.co.uk/log/20210318-MSWORD.gmi HexDSL's Gemlog — Microsoft Word
+
+
+## 2021-03-17
+
+=> gemini://hexdsl.co.uk/log/20210317-Punkiest_audience.gmi HexDSL's Gemlog — Punkiest Audience ever. A Trendy Talk update.
+=> gemini://mozz.us/journal/2021-03-17.gmi Mozz.us Gemlog — Favicons In The Wild
+=> gemini://drewdevault.com/2021/03/17/Anime-recommendation-gatari.gmi Drew DeVault's geminispace — Anime recommendation: *Monogatari
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-03-17.ogg Welcome to the Trendy Talk podcast — The merits of BBC and is email still relevant?
+
+
+## 2021-03-16
+
+=> gemini://carcosa.net/journal/20210316-azathoth.gmi An Inhabitant of Carcosa — Azathoth and False Vacuum Decay 
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-16.gmi Trying To Be Constructive — The Kobo Libra H₂O e-ink reader
+=> gemini://carcosa.net/journal/20210321-nerd-sniped.gmi An Inhabitant of Carcosa — Nerd-sniped myself
+
+
+## 2021-03-15
+
+=> gemini://republic.circumlunar.space/users/joneworlds/2021-03-15-waffle-motel.gmi Joneworlds — Waffle motel.
+=> gemini://hexdsl.co.uk/log/20210315-wholesome_camping_anime.gmi HexDSL's Gemlog — Wholesome Camping Anime.
+=> gemini://drewdevault.com/2021/03/15/Status-update-March-2021.gmi Drew DeVault's geminispace — Status update, March 2021
+
+
+## 2021-03-12
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-12.gmi Trying To Be Constructive — Folklore and triviality in category theory
+=> gemini://carcosa.net/journal/20210312-germinal-release.gmi An Inhabitant of Carcosa — Germinal 1.0.0 Release
+=> gemini://hexdsl.co.uk/log/20210312-The_Invisible_Audience.gmi HexDSL's Gemlog — The Invisible Audience
+
+
+## 2021-03-11
+
+=> gemini://hexdsl.co.uk/log/20210311-burn_the_web.gmi HexDSL's Gemlog — Burn The Web
+=> gemini://kwiecien.us/gemlog/valheim.gmi Ben's Gemlog ☪ — Valheim
+
+
+## 2021-03-10
+
+=> gemini://hexdsl.co.uk/log/20210310-Loop_hero.gmi HexDSL's Gemlog — Loop Hero. So Damned Good.
+
+
+## 2021-03-09
+
+=> gemini://hexdsl.co.uk/log/20210309-Keeping_A_Beat.gmi HexDSL's Gemlog — Keeping a Beat
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-09.gmi Trying To Be Constructive — Some of the music i'm listening to - 1
+
+
+## 2021-03-08
+
+=> gemini://kwiecien.us/gemlog/logarion-updates.gmi Ben's Gemlog ☪ — Logarion Updates
+
+
+## 2021-03-07
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/micro-album-reviews-02.gmi Solderpunk versus the windmills: a Gemlog — Micro album reviews 02
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-03-07.ogg Welcome to the Trendy Talk podcast — All your culture are belong to us
+=> gemini://nytpu.com/gemlog/2021-03-07.gmi Yet Another Tech Gemlog — self-hosting git; or, how git servers actually work, and how to keep yours secure
+
+
+## 2021-03-06
+
+=> gemini://drewdevault.com/2021/03/06/Corporate-surveillance-murder.gmi Drew DeVault's geminispace — The corporate surveillance machine is killing people
+
+
+## 2021-03-05
+
+=> gemini://drewdevault.com/2021/03/05/Gemreader.gmi Drew DeVault's geminispace — Gemreader, a feed reader for Geminispace
+=> https://random-projects.net/blog/2021-03-05-gemtext-parser.gemini xq'stuff — zig-gemtext - A new gemini text parser
+
+
+## 2021-03-04
+
+=> gemini://nytpu.com/gemlog/2021-03-04.gmi Yet Another Tech Gemlog — regarding: pet name system
+=> https://random-projects.net/blog/2021-03-04-ftz.gemini xq'stuff — ftz - A small file transfer tool
+
+
+## 2021-03-03
+
+=> https://random-projects.net/blog/2021-03-03-distributed-trust.gemini xq'stuff — A distributed trust system for gemini
+=> gemini://drewdevault.com/2021/03/03/To-make-money-in-FOSS-build-a-business.gmi Drew DeVault's geminispace — To make money in FOSS, build a business first
+
+
+## 2021-03-02
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-03-02.gmi Trying To Be Constructive — s6/66 for init, service supervision and service management
+
+
+## 2021-03-01
+
+=> gemini://drewdevault.com/2021/03/01/Celeste.gmi Drew DeVault's geminispace — Celeste
+
+
+## 2021-02-28
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-02-28.gmi Trying To Be Constructive — Some common ungrammatical/unidiomatic uses of English
+=> gemini://hexdsl.co.uk/log/20210228-Time_Value_Waste.gmi HexDSL's Gemlog — Time, value and the legend of waste.
+=> gemini://nytpu.com/gemlog/2021-02-28.gmi Yet Another Tech Gemlog — learning shorthand “in 15 minutes”
+
+
+## 2021-02-27
+
+=> gemini://tilde.team/~tomasino/journal/20210227-alt-text.gmi gemini://tilde.team/~tomasino/journal/ — Alt Text
+
+
+## 2021-02-26
+
+=> gemini://hexdsl.co.uk/log/20210226-Test_for_a_Video.gmi HexDSL's Gemlog — A Test Post for a Video
+
+
+## 2021-02-25
+
+=> gemini://drewdevault.com/2021/02/25/Gmail-is-a-huge-source-of-spam.gmi Drew DeVault's geminispace — Gmail is a huge source of spam
+=> gemini://hexdsl.co.uk/log/20210225-Audio_controllers_and_cohnfusion.gmi HexDSL's Gemlog — Audio, Controllers and Confusion. Linux things.
+=> gemini://hexdsl.co.uk/log/20210225-A_Hexshard.gmi HexDSL's Gemlog — A HexShard
+
+
+## 2021-02-24
+
+=> gemini://gemlog.medusae.space/posts/2021-02-24_search.gmi gemini://gemlog.medusae.space/posts/ — Search feature
+
+
+## 2021-02-23
+
+=> gemini://calcuode.com/gemlog/2021-02-23_simone-sings-blues.gmi Callum's Gemlog — Nina Simone Sings the Blues
+=> gemini://rawtext.club/~mieum/prose/2021-02-23-so_long_azaleas.gmi mieum's rawtext gemlog — [散] So Long Azaleas
+
+
+## 2021-02-20
+
+=> gemini://drewdevault.com/2021/02/20/Free-gemini-hosting.gmi Drew DeVault's geminispace — Free gemini hosting on sourcehut
+
+
+## 2021-02-19
+
+=> gemini://hexdsl.co.uk/log/20210219-pointless_test.gmi HexDSL's Gemlog — A test, you dont need to read this.
+=> gemini://hexdsl.co.uk/log/20210219-script2gem.gmi HexDSL's Gemlog — A Script to Post to Gemini
+
+
+## 2021-02-18
+
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-02-18.ogg Welcome to the Trendy Talk podcast — No server Twitter and creating a standard because we said so
+=> gemini://hexdsl.co.uk/log/Trendy_talk.gmi HexDSL's Gemlog — The accidental pod-cast and the greatest intro known to man.
+=> gemini://nytpu.com/gemlog/2021-02-18.gmi Yet Another Tech Gemlog — comparing language documentation
+=> gemini://friendo.monster/log/lace.gmi Friendo dot monster — ‒ A script to interleave tiny Gemini logs
+
+
+## 2021-02-17
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-02-17.gmi Trying To Be Constructive — The purpose of Gemini, and ease-of-access to geminispace
+=> https://random-projects.net/blog/2021-02-17-zig-android.gemini xq'stuff — Programming Android with Zig
+
+
+## 2021-02-15
+
+=> gemini://carcosa.net/journal/20210215-catchup-tech.gmi An Inhabitant of Carcosa — Catching up; mostly technical
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-02-15.ogg Welcome to the Trendy Talk podcast — Gemini, the broken web and Nertz
+=> gemini://gemlog.medusae.space/posts/2021-02-15_statistics.gmi gemini://gemlog.medusae.space/posts/ — Statistics
+=> gemini://drewdevault.com/2021/02/15/Status-update-February-2021.gmi Drew DeVault's geminispace — Status update, February 2021
+
+
+## 2021-02-14
+
+=> gemini://nytpu.com/gemlog/2021-02-14.gmi Yet Another Tech Gemlog — gemini isn’t meant to do everything
+
+
+## 2021-02-12
+
+=> gemini://hexdsl.co.uk/log/Andromeda_is_not_Good.gmi HexDSL's Gemlog — Andromeda is not Good
+=> gemini://makeworld.space/gemlog/2021-02-12-dithering.gmi makeworld's gemlog — Ditherpunk 2 — beyond 1-bit
+=> gemini://gem.acdw.net:1965/page/2021-02-12.%20today%20has%20been%20weird. acdw's Blog — . today has been weird.
+
+
+## 2021-02-09
+
+=> gemini://calcuode.com/gemlog/2021-02-09_celeste-game.gmi Callum's Gemlog — Celeste (the video game)
+
+
+## 2021-02-08
+
+=> gemini://gem.acdw.net:1965/page/2021-02-08%20still%20here acdw's Blog — still here
+
+
+## 2021-02-05
+
+=> gemini://rawtext.club/~mieum/prose/2021-02-05-grandmas_century.gmi mieum's rawtext gemlog — [散] Grandma's Century of Gratitude
+
+
+## 2021-02-03
+
+=> gemini://friendo.monster/log/there_is_no_right_linux_distro.gmi Friendo dot monster — ‒ There is no right Linux distro
+=> gemini://gem.chriswere.uk/trendytalk/tt-2021-02-03.ogg Welcome to the Trendy Talk podcast — Trendy Talk: The Prequel
+
+
+## 2021-02-02
+
+=> gemini://hexdsl.co.uk/log/Found_A_Cool_Cyberpunk_List.gmi HexDSL's Gemlog — Spelk knows shit!
+
+
+## 2021-02-01
+
+=> gemini://calcuode.com/gemlog/2021-02-01_pipewire.gmi Callum's Gemlog — PipeWire
+
+
+## 2021-01-31
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-31.gmi Trying To Be Constructive — "Only the best bottoms make it to the top": wut
+=> gemini://hexdsl.co.uk/log/gemini_only_log_.gmi HexDSL's Gemlog — The web needs to fuck off already.
+
+
+## 2021-01-29
+
+=> gemini://makeworld.space/gemlog/2021-01-29-lgpl_go.gmi makeworld's gemlog — Don't use the LGPL for Go code
+
+
+## 2021-01-28
+
+=> gemini://mozz.us/journal/2021-01-28.gmi Mozz.us Gemlog — RE ew0k: Your Gemini Browser and Server are Probably Doing Certificates Wrong
+=> gemini://drewdevault.com/2021/01/28/Use-open-platforms-or-else.gmi Drew DeVault's geminispace — Use open platforms — or else
+
+
+## 2021-01-26
+
+=> gemini://friendo.monster/log/pop.gmi Friendo dot monster — ‒ Potentially usefuil script: pop
+
+
+## 2021-01-25
+
+=> gemini://carcosa.net/journal/20210126-user-friendly-interface.gmi An Inhabitant of Carcosa — Proposal: a user-friendly interface for the Gemiverse
+=> gemini://rwv.io/2021-01-25.gmi RWV.io — | Procrastination yield
+=> gemini://rawtext.club/~mieum/music/2021-01-25-musical_mythos.gmi mieum's rawtext gemlog — [樂] Mythos and Music
+=> gemini://gemlog.blue/users/sloum/1611554214.gmi gemini://gemlog.blue/users/sloum/ — Music
+=> gemini://kwiecien.us/gemcast/20210125.gmi Gemini Radio — Episode 21
+
+
+## 2021-01-24
+
+=> gemini://carcosa.net/journal/20210124-gemini-el-update.gmi An Inhabitant of Carcosa — Update to gemini-mode.el
+=> gemini://nytpu.com/gemlog/2021-01-24.gmi Yet Another Tech Gemlog — recipe: chicken soup with vickleglazers
+
+
+## 2021-01-23
+
+=> gemini://gemlog.blue/users/sloum/1611373582.gmi gemini://gemlog.blue/users/sloum/ — Snow / Reading
+
+
+## 2021-01-22
+
+=> gemini://carcosa.net/journal/20210122-maybe-an-aggregator.gmi An Inhabitant of Carcosa — Maybe I'll write an aggregator.
+
+
+## 2021-01-21
+
+=> gemini://friendo.monster/log/ssh_config.gmi Friendo dot monster — ‒ Easier ssh with ~/.ssh/config
+
+
+## 2021-01-20
+
+=> gemini://drewdevault.com/2021/01/20/FOSS-is-to-surrender-your-monopoly.gmi Drew DeVault's geminispace — Open source means surrendering your monopoly over commercial exploitation
+
+
+## 2021-01-19
+
+=> gemini://drewdevault.com/2021/01/19/Spooky-code-at-a-distance.gmi Drew DeVault's geminispace — Spooky action at a distance
+=> gemini://rawtext.club/~mieum/prose/2021-01-19-preschool_woes.gmi mieum's rawtext gemlog — [散] Preschool Woes
+=> gemini://calcuode.com/gemlog/2021-01-19_rocannons-world.gmi Callum's Gemlog — Rocannon's World by Ursula K. Le Guin
+=> gemini://hexdsl.co.uk/log/Neuromancer_and_the_dubious_perentage_of_Cyberpunk.gmi HexDSL's Gemlog — Compilation's of definition.
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-19.gmi Trying To Be Constructive — Why i like mdoc(7) for man pages
+
+
+## 2021-01-15
+
+=> gemini://carcosa.net/journal/20210115-hacker-class-consciousness.gmi An Inhabitant of Carcosa — Hacker Class Consciousness
+=> gemini://drewdevault.com/2021/01/15/Status-update-January-2021.gmi Drew DeVault's geminispace — Status update, January 2021
+
+
+## 2021-01-13
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-13.gmi Trying To Be Constructive — "Calm down!"; or, unhelpful approaches to distress
+
+
+## 2021-01-10
+
+=> gemini://nytpu.com/gemlog/2021-01-10.gmi Yet Another Tech Gemlog — software i use daily
+
+
+## 2021-01-08
+
+=> gemini://nytpu.com/gemlog/2021-01-08.gmi Yet Another Tech Gemlog — (trying to) finally get off social media + announcing my flight log
+=> gemini://carcosa.net/journal/20210108-behind-on-reading.gmi An Inhabitant of Carcosa — I'm behind on my reading
+
+
+## 2021-01-07
+
+=> gemini://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.gmi Drew DeVault's geminispace — History will not remember us fondly
+
+
+## 2021-01-06
+
+=> gemini://gem.acdw.net:1965/page/2021-01-06.%20Hyperion%20-%20Dan%20Simmons acdw's Blog — . Hyperion - Dan Simmons
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2021-01-06.gmi Trying To Be Constructive — Re: Geminispace vs. Beeblebroxians
+=> gemini://mozz.us/journal/2021-01-06_astrobotany_client_certificates.gmi Mozz.us Gemlog — Astrobotany - Client Certificate Stats
+
+
+## 2021-01-05
+
+=> gemini://nytpu.com/gemlog/2021-01-05.gmi Yet Another Tech Gemlog — discovering and browsing on geminispace
+
+
+## 2021-01-04
+
+=> gemini://carcosa.net/journal/20210104-mundane-trek.gmi An Inhabitant of Carcosa — A "Mundane SF" Star Trek?
+=> gemini://drewdevault.com/2021/01/04/A-culture-of-stability-and-reliability.gmi Drew DeVault's geminispace — Fostering a culture that values stability and reliability
+
+
+## 2021-01-02
+
+=> gemini://nytpu.com/gemlog/2021-01-02.gmi Yet Another Tech Gemlog — how large is too large? regarding: megacorporations
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/2021-resolutions.gmi Solderpunk versus the windmills: a Gemlog — 2021 resolutions
+=> gemini://drewdevault.com/2021/01/02/2021-01-02-Every-commit-should-be-perfect.gmi Drew DeVault's geminispace — Every commit should be a perfect, atomic unit of change
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gemini-client-navigation.gmi Solderpunk versus the windmills: a Gemlog — Gemini client navigation (resp. to mozz.us)
+
+
+## 2021-01-01
+
+=> gemini://mozz.us/journal/2021-01-01.gmi Mozz.us Gemlog — Gemini Client Design - Navigation
+=> gemini://drewdevault.com/2021/01/01/Megacorps-are-not-your-dream-job.gmi Drew DeVault's geminispace — A megacorp is not your dream job
+
+
+## 2020-12-31
+
+=> gemini://gemlog.blue/users/sloum/1609397245.gmi gemini://gemlog.blue/users/sloum/ — OJ
+
+
+## 2020-12-30
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-30.gmi Trying To Be Constructive — Geminispace vs. Beeblebroxians
+=> gemini://calcuode.com/gemlog/2020-12-30_record-player.gmi Callum's Gemlog — The Record Player
+
+
+## 2020-12-29
+
+=> gemini://rwv.io/2020-12-29.gmi RWV.io — | Thunk
+
+
+## 2020-12-27
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-27.gmi Trying To Be Constructive — ZFC is _a_ foundation for maths, not _the_ foundation
+
+
+## 2020-12-26
+
+=> gemini://gemlog.blue/users/left_adjoint/1608960006.gmi left_adjoint's gemlog — A New Year
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/ssh-apps-and-accessible-gemini-publishing.gmi Solderpunk versus the windmills: a Gemlog — SSH apps and accessible Gemini publishing
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/capcom-changes.gmi Solderpunk versus the windmills: a Gemlog — CAPCOM changes
+
+
+## 2020-12-25
+
+=> gemini://drewdevault.com/2020/12/25/How-to-design-a-new-programming-language.gmi Drew DeVault's geminispace — How to design a new programming language from scratch
+=> gemini://drewdevault.com/2020/12/25/H0-H0-H0.gmi Drew DeVault's geminispace — H0 H0 H0
+
+
+## 2020-12-24
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-24.gmi Trying To Be Constructive — Genderqueer demographics
+=> gemini://calcuode.com/gemlog/2020-12-24_his-dark-materials.gmi Callum's Gemlog — His Dark Materials on the BBC
+
+
+## 2020-12-23
+
+=> gemini://carcosa.net/journal/20201228-nntp-successor.gmi An Inhabitant of Carcosa — A successor protocol to NNTP?
+
+
+## 2020-12-20
+
+=> gemini://makeworld.space/gemlog/2020-12-20-amfora_v1-7-0.gmi makeworld's gemlog — Amfora v1.7.0 released, with subscriptions!
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/a-new-circumlunar-colony.gmi Solderpunk versus the windmills: a Gemlog — A new circumlunar colony
+
+
+## 2020-12-18
+
+=> gemini://carcosa.net/journal/20201218-a-joke.gmi An Inhabitant of Carcosa — A joke in my fortune
+=> gemini://gemini.marmaladefoo.com/blog/18-Dec-2020_GemiNaut_v0_8_9_release.gmi Luke's Gemlog — GemiNaut 0.8.9 is available
+
+
+## 2020-12-17
+
+=> gemini://calcuode.com/gemlog/2020-12-17_ancillary-justice.gmi Callum's Gemlog — Ancillary Justice by Ann Leckie
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-17.gmi Trying To Be Constructive — Having cancer compared to having chronic fatigue
+
+
+## 2020-12-16
+
+=> gemini://kwiecien.us/gemcast/20201216.gmi Gemini Radio — Episode 20
+
+
+## 2020-12-15
+
+=> gemini://nytpu.com/gemlog/2020-12-15.gmi Yet Another Tech Gemlog — the ti-99/4a
+=> gemini://kwiecien.us/gemcast/20201215.gmi Gemini Radio — Episode 19
+=> gemini://drewdevault.com/2020/12/15/Status-update-December-2020.gmi Drew DeVault's geminispace — Status update, December 2020
+
+
+## 2020-12-14
+
+=> gemini://gemini.marmaladefoo.com/blog/14-Dec-2020_SmolNetSharp_client_library.gmi Luke's Gemlog — SmolNetSharp - a C# client library for Gemini and Gopher
+
+
+## 2020-12-12
+
+=> gemini://drewdevault.com/2020/12/12/Shell-literacy.gmi Drew DeVault's geminispace — Become shell literate
+
+
+## 2020-12-11
+
+=> gemini://gemlog.blue/users/sloum/1607657698.gmi gemini://gemlog.blue/users/sloum/ — Recent fun projects for geminispace
+=> gemini://kwiecien.us/gemcast/20201211.gmi Gemini Radio — Episode 18
+=> gemini://mozz.us/journal/2020-12-11.gmi Mozz.us Gemlog — portal.mozz.us source code
+=> gemini://hexdsl.co.uk/log/Why_I_Dont_talk_about_things_I_dont_like.gmi HexDSL's Gemlog — Critique
+
+
+## 2020-12-10
+
+=> gemini://kwiecien.us/gemcast/20201210.gmi Gemini Radio — Episode 17
+
+
+## 2020-12-08
+
+=> gemini://calcuode.com/gemlog/2020-12-08_reading-not-working.gmi Callum's Gemlog — Reading not working
+
+
+## 2020-12-05
+
+=> gemini://calcuode.com/gemlog/2020-12-05_gmisub.gmi Callum's Gemlog — gmisub - Subscribe to Gemini pages
+=> gemini://gemlog.blue/users/left_adjoint/1607210852.gmi left_adjoint's gemlog — Living with darkness: chronic suicidality
+
+
+## 2020-12-04
+
+=> gemini://drewdevault.com/2020/12/04/Analytics-and-informed-consent.gmi Drew DeVault's geminispace — Web analytics should at least meet the standards of informed consent
+
+
+## 2020-12-03
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-12-03.gmi Trying To Be Constructive — The 'feminine'/'masculine' division
+
+
+## 2020-12-02
+
+=> gemini://gem.acdw.net:1965/page/2020-12-02.%20Cans%20for%20Fines%20drive acdw's Blog — . Cans for Fines drive
+
+
+## 2020-12-01
+
+=> gemini://mozz.us/journal/2020-12-01.gmi Mozz.us Gemlog — Pygopherd and template languages
+
+
+## 2020-11-29
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-29.gmi Trying To Be Constructive — Some annoyances in maths papers
+=> gemini://drewdevault.com/2020/11/29/skytree.gmi Drew DeVault's geminispace — 俺のスカイツリー旅行
+
+
+## 2020-11-28
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/mac-mouse-madness.gmi Solderpunk versus the windmills: a Gemlog — Mac mouse madness
+
+
+## 2020-11-27
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-27.gmi Trying To Be Constructive — Re: Narcissism
+=> gemini://gem.acdw.net:1965/page/2020-11-27.%20leftover acdw's Blog — . leftover
+
+
+## 2020-11-26
+
+=> gemini://gemlog.blue/users/left_adjoint/1606355367.gmi left_adjoint's gemlog — More musings on the poetry of delusion
+=> gemini://rawtext.club/~mieum/poems/2020-11-26-once_you_asked_me.gmi mieum's rawtext gemlog — [詩] once you asked me
+=> gemini://gem.acdw.net:1965/page/2020-11-26.%20RE%3A%20Christina%2C%205Q%20November%202020 acdw's Blog — . RE: Christina, 5Q November 2020
+
+
+## 2020-11-25
+
+=> gemini://gem.acdw.net:1965/page/2020-11-25.%20been%20a%20while acdw's Blog — . been a while
+=> gemini://rwv.io/2020-11-25.gmi RWV.io — | Almost two weeks of racket
+
+
+## 2020-11-24
+
+=> gemini://gemlog.blue/users/left_adjoint/1606184751.gmi left_adjoint's gemlog — Crisis on Infinite Phenomenologists 
+
+
+## 2020-11-23
+
+=> gemini://gemlog.blue/users/left_adjoint/1606097007.gmi left_adjoint's gemlog — Phenomenology musings: what mindfulness, stoicism, and husserl have in common
+
+
+## 2020-11-22
+
+=> gemini://nytpu.com/gemlog/2020-11-22.gmi Yet Another Tech Gemlog — i hate dealing with proprietary software
+
+
+## 2020-11-21
+
+=> gemini://calcuode.com/gemlog/2020-11-21_how-i-found-out-about-foss.gmi Callum's Gemlog — How I found out about FOSS
+
+
+## 2020-11-20
+
+=> gemini://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.gmi Drew DeVault's geminispace — A few ways to make money in FOSS
+
+
+## 2020-11-19
+
+=> gemini://gemlog.blue/users/sloum/1605768203.gmi gemini://gemlog.blue/users/sloum/ — Weather over gemini
+=> gemini://gemlog.blue/users/left_adjoint/1605747518.gmi left_adjoint's gemlog — Endings and Beginnings 
+
+
+## 2020-11-17
+
+=> gemini://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.gmi Drew DeVault's geminispace — We can do better than DuckDuckGo
+=> gemini://rwv.io/2020-11-17-ann-dezhemini.gmi RWV.io — | [ANN] Dʒɛmɪni, a gemini server
+=> gemini://carcosa.net/journal/20201117-no-writing.gmi An Inhabitant of Carcosa — No writing: capitalism is a fsck
+
+
+## 2020-11-16
+
+=> gemini://makeworld.space/gemlog/2020-11-16-re_aggregator_idea.gmi makeworld's gemlog — RE: Is This Aggregator Idea Good?
+=> gemini://nytpu.com/gemlog/2020-11-16.gmi Yet Another Tech Gemlog — miscellaneous mini posts
+
+
+## 2020-11-15
+
+=> gemini://drewdevault.com/2020/11/15/Status-update-November-2020.gmi Drew DeVault's geminispace — Status update, November 2020
+=> gemini://rwv.io/2020-11-15.gmi RWV.io — | Dʒɛmɪni, my own gemini server
+=> gemini://drewdevault.com/2020/11/15/RE-Is-this-aggregator-idea-good.gmi Drew DeVault's geminispace — RE: Is This Aggregator Idea Good?
+
+
+## 2020-11-14
+
+=> gemini://kwiecien.us/gemcast/20201114.gmi Gemini Radio — Episode 16
+
+
+## 2020-11-13
+
+=> gemini://gemlog.blue/users/left_adjoint/1605292179.gmi left_adjoint's gemlog — More random phenomenology thoughts
+=> gemini://rwv.io/2020-11-13.gmi RWV.io — | Racket and gemini are awesome together
+=> gemini://makeworld.space/gemlog/2020-11-13-go_modules.gmi makeworld's gemlog — Introduction to Go Modules
+=> gemini://gemlog.blue/users/sloum/1605235018.gmi gemini://gemlog.blue/users/sloum/ — terminal fun
+=> gemini://gem.acdw.net:1965/page/2020-11-13.%20RE%20perplexing.space%2C%20%221000%20Numerals%22 acdw's Blog — . RE perplexing.space, "1000 Numerals"
+
+
+## 2020-11-12
+
+=> gemini://gem.acdw.net:1965/page/2020-11-12.%20one%20thousand%20words acdw's Blog — . one thousand words
+=> gemini://gemlog.blue/users/left_adjoint/1605214099.gmi left_adjoint's gemlog — Random thoughts on the intuition of essences
+=> gemini://drewdevault.com/2020/11/12/Copying-aint-stealing.gmi Drew DeVault's geminispace — Copying ain't stealing
+
+
+## 2020-11-11
+
+=> gemini://gem.acdw.net:1965/page/2020-11-11.%20RE%3A%20solderpunk%2C%20browsers acdw's Blog — . RE: solderpunk, browsers
+=> gemini://rwv.io/2020-11-11.gmi RWV.io — | Autumn, work, and projects
+=> gemini://nytpu.com/gemlog/2020-11-11.gmi Yet Another Tech Gemlog — zoom has officially graduated to breaking my devices
+
+
+## 2020-11-10
+
+=> gemini://drewdevault.com/2020/11/10/2020-Election-worker.gmi Drew DeVault's geminispace — My experience as a poll worker in Pennsylvania
+
+
+## 2020-11-09
+
+=> gemini://gemlog.blue/users/left_adjoint/1604957283.gmi left_adjoint's gemlog — Making art when you're not sure why
+=> gemini://carcosa.net/journal/20201109-too-much-too-little.gmi An Inhabitant of Carcosa — Too much for a commonplace book entry, too little for a journal entry
+
+
+## 2020-11-08
+
+=> gemini://drewdevault.com/2020/11/08/HN-over-Gemini.gmi Drew DeVault's geminispace — Hacker News over Gemini
+=> gemini://nytpu.com/gemlog/2020-11-08.gmi Yet Another Tech Gemlog — [ANN] Project Gemini Gemini Archive
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-08.gmi Trying To Be Constructive — Beyond bivalence
+=> gemini://gem.acdw.net:1965/page/2020-11-08.%20ren%20faire%3B%20synchronicity acdw's Blog — . ren faire; synchronicity
+=> gemini://gemlog.blue/users/left_adjoint/1604805289.gmi left_adjoint's gemlog — I didn't even know
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/the-short-lived-browser.gmi Solderpunk versus the windmills: a Gemlog — The short-lived browser
+
+
+## 2020-11-07
+
+=> gemini://gem.acdw.net:1965/page/2020-11-07.%20work%20and%20worry%20on%20the%20weekend acdw's Blog — . work and worry on the weekend
+
+
+## 2020-11-06
+
+=> gemini://drewdevault.com/2020/11/06/Utility-vs-usability.gmi Drew DeVault's geminispace — Utility vs usability
+=> gemini://gem.acdw.net:1965/page/2020-11-06.%20Edwin%2C%20a%20Gemini%20server acdw's Blog — . Edwin, a Gemini server
+
+
+## 2020-11-05
+
+=> gemini://gem.acdw.net:1965/page/2020-11-05.%20On%20Unix%20and%20literature acdw's Blog — . On Unix and literature
+
+
+## 2020-11-04
+
+=> gemini://gem.acdw.net:1965/page/2020-11-04.%20holding acdw's Blog — . holding
+=> gemini://rwv.io/2020-11-04.gmi RWV.io — | Sharing CGI source
+
+
+## 2020-11-03
+
+=> gemini://gem.acdw.net:1965/page/2020-11-03.%20birds%20outside%20a%20stairwell acdw's Blog — . birds outside a stairwell
+
+
+## 2020-11-02
+
+=> gemini://gem.acdw.net:1965/page/2020-11-02.%20Vocational%20Awe acdw's Blog — . Vocational Awe
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-11-02.gmi Trying To Be Constructive — Tops are human, too
+
+
+## 2020-11-01
+
+=> gemini://drewdevault.com/2020/11/01/What-is-Gemini-anyway.gmi Drew DeVault's geminispace — What is this Gemini thing anyway, and why am I excited about it?
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/permacomputing.gmi Solderpunk versus the windmills: a Gemlog — Permacomputing
+=> gemini://gem.acdw.net:1965/page/2020-11-01-commence-1kaday acdw's Blog — commence-1kaday
+
+
+## 2020-10-31
+
+=> gemini://nytpu.com/gemlog/2020-10-31.gmi Yet Another Tech Gemlog — spooky times movie recommendations
+
+
+## 2020-10-30
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-30.gmi Trying To Be Constructive — The limits of modifying language
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/micro-album-reviews-01.gmi Solderpunk versus the windmills: a Gemlog — Micro album reviews 01
+=> gemini://gemlog.blue/users/left_adjoint/1604082484.gmi left_adjoint's gemlog — More catchup
+
+
+## 2020-10-29
+
+=> gemini://gem.acdw.net:1965/page/2020-10-29-100.gmi acdw's Blog — 100.gmi
+=> gemini://nytpu.com/gemlog/2020-10-29.gmi Yet Another Tech Gemlog — hello minidisc :)
+
+
+## 2020-10-28
+
+=> gemini://kwiecien.us/gemcast/20201028.gmi Gemini Radio — Episode 15
+
+
+## 2020-10-27
+
+=> gemini://gemlog.blue/users/sloum/1603775020.gmi gemini://gemlog.blue/users/sloum/ — Evacuation
+
+
+## 2020-10-26
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-26_2.gmi Trying To Be Constructive — Oversimplified notions of 'fluidity'
+=> gemini://rawtext.club/~mieum/relog/2020-10-26-jfm-draft_strategy.gmi mieum's rawtext gemlog — [答] jfm::Strategy for writing drafts in a Gemlog
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-26_1.gmi Trying To Be Constructive — On the word 'gender' and the phrase "gender is a social construct"
+
+
+## 2020-10-25
+
+=> gemini://rawtext.club/~mieum/relog/2020-10-25-flexibeast-witchcraft.gmi mieum's rawtext gemlog — [答] flexibeast::Witchcraft!
+=> gemini://carcosa.net/journal/20201025-drafts-branching.gmi An Inhabitant of Carcosa — Strategy for writing drafts in a gemlog?
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-25.gmi Trying To Be Constructive — Witchcraft!
+
+
+## 2020-10-24
+
+=> gemini://rwv.io/2020-10-24.gmi RWV.io — | Doing some CGI
+
+
+## 2020-10-23
+
+=> gemini://rawtext.club/~mieum/relog/2020-10-23-drewdevault-firefox.gmi mieum's rawtext gemlog — [答] sircmpwn::Firefox: The Jewel^WEmbarassment of Open Source
+=> gemini://rwv.io/2020-10-23.gmi RWV.io — | My own gemini server!
+=> gemini://drewdevault.com/2020/10/23/Im-handing-wlroots-and-sway-to-Simon.gmi Drew DeVault's geminispace — I'm handing over maintenance of wlroots and sway to Simon Ser
+
+
+## 2020-10-22
+
+=> gemini://gem.acdw.net:1965/page/2020-10-22-Paint-tober-2020-22-two-for-today acdw's Blog — Paint-tober-2020-22-two-for-today
+=> gemini://drewdevault.com/2020/10/22/Firefox-the-embarassment-of-FOSS.gmi Drew DeVault's geminispace — Firefox: The Jewel^WEmbarassment of Open Source
+
+
+## 2020-10-21
+
+=> gemini://gem.acdw.net:1965/page/2020-10-21-Paint-tober-20-21-beach acdw's Blog — Paint-tober-20-21-beach
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/digital-audio-on-tape.gmi Solderpunk versus the windmills: a Gemlog — Digital audio on tape
+
+
+## 2020-10-20
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-20.gmi Trying To Be Constructive — Dualism, polarities and cishetnormativity
+=> gemini://rawtext.club/~mieum/prose/2020-10-20-wholes_in_time.gmi mieum's rawtext gemlog — [散] Wholes in Time
+
+
+## 2020-10-19
+
+=> gemini://nytpu.com/gemlog/2020-10-19.gmi Yet Another Tech Gemlog — WebP Revisited (a little more in-depth this time)
+
+
+## 2020-10-18
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-18.gmi Trying To Be Constructive — tilde.town
+=> gemini://drewdevault.com/2020/10/18/New-workstation.gmi Drew DeVault's geminispace — New workstation
+
+
+## 2020-10-16
+
+=> gemini://rawtext.club/~mieum/prose/2020-10-16-sharing_the_road.gmi mieum's rawtext gemlog — [散] Sharing the Road
+
+
+## 2020-10-15
+
+=> gemini://drewdevault.com/2020/10/15/Status-update-October-2020.gmi Drew DeVault's geminispace — Status update, October 2020
+=> gemini://gem.acdw.net:1965/page/2020-10-15-Paint-tober-2020-15-buffallo acdw's Blog — Paint-tober-2020-15-buffallo
+
+
+## 2020-10-14
+
+=> gemini://gem.acdw.net:1965/page/2020-10-14-Paint-tober-2020-14 acdw's Blog — Paint-tober-2020-14
+
+
+## 2020-10-13
+
+=> gemini://gem.acdw.net:1965/page/2020-10-13-Paint-tober-2020-13-knot acdw's Blog — Paint-tober-2020-13-knot
+=> gemini://gem.acdw.net:1965/page/2020-10-13-Themable-months acdw's Blog — Themable-months
+=> gemini://nytpu.com/gemlog/2020-10-13.gmi Yet Another Tech Gemlog — Re: I am the preëminent server of WebP in Geminispace
+
+
+## 2020-10-12
+
+=> gemini://kwiecien.us/gemcast/20201012.gmi Gemini Radio — Episode 14
+=> gemini://rawtext.club/~mieum/prose/2020-10-12-failure_to_launch.gmi mieum's rawtext gemlog — [散] Failure to Launch
+=> gemini://gem.acdw.net:1965/page/2020-10-12-Paint-tober-weekend acdw's Blog — Paint-tober-weekend
+
+
+## 2020-10-11
+
+=> https://random-projects.net/blog/2020-10-11-resource-pooling-for-games.gemini xq'stuff — Resource Pooling for Games
+=> gemini://drewdevault.com/2020/10/11/Kineto-a-gemini-proxy.gmi Drew DeVault's geminispace — Kineto: An HTTP to Gemini proxy
+
+
+## 2020-10-10
+
+=> gemini://gemini.marmaladefoo.com/blog/10-Oct-2020_I_name_this_ship.gmi Luke's Gemlog — I name this ship...
+=> gemini://gem.acdw.net:1965/page/2020-10-10-Paint-tober-2020-09 acdw's Blog — Paint-tober-2020-09
+
+
+## 2020-10-09
+
+=> gemini://drewdevault.com/2020/10/09/Four-principles-of-software-engineering.gmi Drew DeVault's geminispace — Four principles of software engineering
+
+
+## 2020-10-08
+
+=> gemini://nytpu.com/gemlog/2020-10-08.gmi Yet Another Tech Gemlog — a history and description of tapes and a reply to “Video tapes and helical scan”
+=> gemini://gem.acdw.net:1965/page/2020-10-08-Paint-tober-2020-08-guy-on-a-board acdw's Blog — Paint-tober-2020-08-guy-on-a-board
+
+
+## 2020-10-07
+
+=> gemini://gem.acdw.net:1965/page/2020-10-07-Paint-tober-2020-07-EXIT acdw's Blog — Paint-tober-2020-07-EXIT
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/video-tapes-and-helical-scan.gmi Solderpunk versus the windmills: a Gemlog — Video tapes and helical scan
+
+
+## 2020-10-06
+
+=> gemini://gem.acdw.net:1965/page/2020-10-06-Are-you-sure-you-re-not-dreaming-paint-tober-2020-06 acdw's Blog — Are-you-sure-you-re-not-dreaming-paint-tober-2020-06
+=> gemini://gem.acdw.net:1965/page/2020-10-06-What-I-deal-with-at-work acdw's Blog — What-I-deal-with-at-work
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-06.gmi Trying To Be Constructive — Re: Does being queer and/or TGD contraindicate STEM? pt 2
+
+
+## 2020-10-05
+
+=> gemini://gem.acdw.net:1965/page/2020-10-05-Paint-tober-2020-05-twofer acdw's Blog — Paint-tober-2020-05-twofer
+=> gemini://gem.acdw.net:1965/page/2020-10-05-RE_October-2020-5Q-Bronzie-edition acdw's Blog — RE_October-2020-5Q-Bronzie-edition
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-05.gmi Trying To Be Constructive — Re: Does being queer and/or TGD contraindicate STEM?
+=> gemini://gem.acdw.net:1965/page/2020-10-05-Paint-tober-2020-04 acdw's Blog — Paint-tober-2020-04
+
+
+## 2020-10-04
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/2020-gardening-wrap-up.gmi Solderpunk versus the windmills: a Gemlog — 2020 gardening wrap-up
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-04.gmi Trying To Be Constructive — Re: Does being queer and/or TGD contraindicate STEM?
+=> gemini://gem.acdw.net:1965/page/2020-10-04-Paint-tober-2020-03-The-funeral acdw's Blog — Paint-tober-2020-03-The-funeral
+
+
+## 2020-10-03
+
+=> gemini://rawtext.club/~mieum/prose/2020-10-03-hangul_on_gemini.gmi mieum's rawtext gemlog — [散] Hangul in Geminispace
+=> gemini://gemlog.blue/users/left_adjoint/1601707409.gmi left_adjoint's gemlog — On the other side
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-10-03.gmi Trying To Be Constructive — Does being queer and/or TGD contraindicate STEM?
+=> gemini://gem.acdw.net:1965/page/2020-10-03-Paint-tober-san-antonio acdw's Blog — Paint-tober-san-antonio
+
+
+## 2020-10-02
+
+=> gemini://gem.acdw.net:1965/page/2020-10-02.%20Vocational%20Awe acdw's Blog — . Vocational Awe
+
+
+## 2020-10-01
+
+=> gemini://gem.acdw.net:1965/page/2020-10-01-5-answers-Spooktober-edition acdw's Blog — 5-answers-Spooktober-edition
+=> gemini://drewdevault.com/2020/10/01/Spamtoberfest.gmi Drew DeVault's geminispace — Spamtoberfest
+=> gemini://gem.acdw.net:1965/page/2020-10-01-PAINT-TOBER-2020 acdw's Blog — PAINT-TOBER-2020
+=> gemini://gem.acdw.net:1965/page/2020-10-01-A-poem acdw's Blog — A-poem
+
+
+## 2020-09-30
+
+=> gemini://gem.acdw.net:1965/page/2020-09-30-Userstyle-for-Practical-Common-Lisp acdw's Blog — Userstyle-for-Practical-Common-Lisp
+=> gemini://gem.acdw.net:1965/page/2020-09-30-RE_to-a-couple-gemini-related-articles acdw's Blog — RE_to-a-couple-gemini-related-articles
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-30.gmi Trying To Be Constructive — A convention for gemtext footnotes
+
+
+## 2020-09-29
+
+=> gemini://carcosa.net/journal/20200929-some-computering.gmi An Inhabitant of Carcosa — Finally some recreational computering
+=> gemini://gem.acdw.net:1965/page/2020-09-29-Recreational-computering-dreams acdw's Blog — Recreational-computering-dreams
+=> gemini://gem.acdw.net:1965/page/2020-09-29-RE_So-Dark acdw's Blog — RE_So-Dark
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-29.gmi Trying To Be Constructive — "[T]he irreducibility of rejection to negation"
+
+
+## 2020-09-28
+
+=> gemini://gem.acdw.net:1965/page/2020-09-28-No-such-thing-as-bad-weather acdw's Blog — No-such-thing-as-bad-weather
+
+
+## 2020-09-27
+
+=> gemini://drewdevault.com/2020/09/27/Gemini-and-Hugo.gmi Drew DeVault's geminispace — Gemini and Hugo
+=> gemini://kwiecien.us/gemcast/20200927.gmi Gemini Radio — Episode 13
+
+
+## 2020-09-26
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-26.gmi Trying To Be Constructive — Re: Attack Vector for FOSS
+=> gemini://gemlog.blue/users/sloum/1601150903.gmi gemini://gemlog.blue/users/sloum/ — Cooking cooking cooking
+
+
+## 2020-09-25
+
+=> gemini://drewdevault.com/2020/09/25/A-story-of-two-libcs.gmi Drew DeVault's geminispace — A tale of two libcs
+=> gemini://gem.acdw.net:1965/page/2020-09-25-British-road-markings-in-gemini acdw's Blog — British-road-markings-in-gemini
+
+
+## 2020-09-24
+
+=> gemini://kwiecien.us/gemcast/20200924.gmi Gemini Radio — Episode 12
+=> gemini://gemlog.blue/users/sloum/1600914924.gmi gemini://gemlog.blue/users/sloum/ — RE: The Art of Writing Textfiles (acdw)
+
+
+## 2020-09-23
+
+=> gemini://gem.acdw.net:1965/page/2020-09-23-The-Art-of-Writing-Textfiles acdw's Blog — The-Art-of-Writing-Textfiles
+
+
+## 2020-09-21
+
+=> gemini://drewdevault.com/2020/09/21/Gemini-TOFU.gmi Drew DeVault's geminispace — TOFU recommendations for Gemini
+=> gemini://nytpu.com/gemlog/2020-09-21.gmi Yet Another Tech Gemlog — Re: Mass Produced Quality in the 21st Century
+
+
+## 2020-09-20
+
+=> gemini://gemini.marmaladefoo.com/blog/20-Sep-2020_An_improved_scheme_ironic_intent.gmi Luke's Gemlog — An improved scheme to convey ironic intent in Gemini
+
+
+## 2020-09-19
+
+=> gemini://gemlog.blue/users/sloum/1600529364.gmi gemini://gemlog.blue/users/sloum/ — Sad news
+=> gemini://gemlog.blue/users/sloum/1600480381.gmi gemini://gemlog.blue/users/sloum/ — Pancakes
+
+
+## 2020-09-18
+
+=> gemini://gem.acdw.net:1965/page/2020-09-18-Still-another-dream acdw's Blog — Still-another-dream
+=> gemini://nytpu.com/gemlog/2020-09-18.gmi Yet Another Tech Gemlog — what gemtext is and isn't
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-18.gmi Trying To Be Constructive — Recent Linux kernel issues
+
+
+## 2020-09-17
+
+=> gemini://gemlog.blue/users/sloum/1600310524.gmi gemini://gemlog.blue/users/sloum/ — Dune
+=> gemini://rawtext.club/~mieum/relog/2020-09-17-acdw-reply_to_passage.gmi mieum's rawtext gemlog — [答] acdw::reply to "Passage"
+=> gemini://gem.acdw.net:1965/page/2020-09-17-Keyboard-only acdw's Blog — Keyboard-only
+=> gemini://gem.acdw.net:1965/page/2020-09-17-The-last-fifteen-minutes-of-work acdw's Blog — The-last-fifteen-minutes-of-work
+
+
+## 2020-09-16
+
+=> gemini://gem.acdw.net:1965/page/2020-09-16-A-modest-gemini-proposal acdw's Blog — A-modest-gemini-proposal
+=> gemini://gemlog.blue/users/left_adjoint/1600225747.gmi left_adjoint's gemlog — What's been up
+=> gemini://carcosa.net/journal/20200916-roophloch.gmi An Inhabitant of Carcosa — ROOPHLOCH 2020
+=> gemini://gem.acdw.net:1965/page/2020-09-16-Another-dream acdw's Blog — Another-dream
+=> gemini://gemlog.blue/users/sloum/1600231791.gmi gemini://gemlog.blue/users/sloum/ — Bombadillo, Gemini, and Markup formats
+
+
+## 2020-09-15
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-15.gmi Trying To Be Constructive — You think _you_ have debugging problems?
+=> gemini://rawtext.club/~mieum/poems/2020-09-15-welcome.gmi mieum's rawtext gemlog — [詩] Welcome
+=> gemini://rawtext.club/~mieum/poems/2020-09-15-fall_sickness.gmi mieum's rawtext gemlog — [詩] Fall Sickness
+=> gemini://rawtext.club/~mieum/poems/2020-09-15-comuterhood.gmi mieum's rawtext gemlog — [詩] Commuterhood
+=> gemini://rawtext.club/~mieum/poems/2020-09-15-full_for_once.gmi mieum's rawtext gemlog — [詩] Full For Once
+
+
+## 2020-09-14
+
+=> gemini://gem.acdw.net:1965/page/2020-09-14-Postscript-missing-mountains acdw's Blog — Postscript-missing-mountains
+
+
+## 2020-09-12
+
+=> gemini://carcosa.net/journal/20200912-dcss.gmi An Inhabitant of Carcosa — Dungeon Crawl Stone Soup
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-12.gmi Trying To Be Constructive — Programming language evangelism
+
+
+## 2020-09-09
+
+=> gemini://gem.acdw.net:1965/page/2020-09-09-Missing-the-mountains acdw's Blog — Missing-the-mountains
+
+
+## 2020-09-08
+
+=> gemini://gemlog.blue/users/sloum/1599541487.gmi gemini://gemlog.blue/users/sloum/ — Vim terminal
+=> gemini://rawtext.club/~mieum/poems/2020-09-08-alternatives.gmi mieum's rawtext gemlog — [詩] Alternatives
+
+
+## 2020-09-07
+
+=> gemini://gem.acdw.net:1965/page/2020-09-07-Hand-holding-Linux-and-me acdw's Blog — Hand-holding-Linux-and-me
+=> gemini://gemini.marmaladefoo.com/blog/7-Sep-2020_Parsing_preformatted_alt_text.gmi Luke's Gemlog — A proposed scheme for parsing preformatted alt text
+
+
+## 2020-09-06
+
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-06.gmi Trying To Be Constructive — On 'bloat' and 'minimalism'
+
+
+## 2020-09-05
+
+=> gemini://kwiecien.us/gemcast/20200905.gmi Gemini Radio — Episode 11
+=> gemini://nytpu.com/gemlog/2020-09-05.gmi Yet Another Tech Gemlog — experimenting with ways to format documents on gemini
+=> gemini://gem.acdw.net:1965/page/2020-09-05-Working-for-the-weekend acdw's Blog — Working-for-the-weekend
+
+
+## 2020-09-04
+
+=> gemini://rawtext.club/~mieum/prose/2020-09-04-wonderers.gmi mieum's rawtext gemlog — [散] Wonderers
+=> gemini://rawtext.club/~mieum/prose/2020-09-04-passage.gmi mieum's rawtext gemlog — [散] Passage
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/2020-09-04.gmi Trying To Be Constructive — Arrival
+
+
+## 2020-09-03
+
+=> gemini://gem.acdw.net:1965/page/2020-09-03-Emacsposting-to-gemlog-blue acdw's Blog — Emacsposting-to-gemlog-blue
+=> gemini://rawtext.club/~mieum/poems/2020-09-03-lamb.gmi mieum's rawtext gemlog — [詩] Lamb
+
+
+## 2020-09-02
+
+=> gemini://gem.acdw.net:1965/page/2020-09-02-Quick-ascii-sketch acdw's Blog — Quick-ascii-sketch
+=> gemini://nytpu.com/gemlog/2020-09-02.gmi Yet Another Tech Gemlog — re: so who/what is swiftmandolin?
+=> gemini://gem.acdw.net:1965/page/2020-09-02-September-answers-to-2x5-questions acdw's Blog — September-answers-to-2x5-questions
+=> gemini://rawtext.club/~mieum/poems/2020-09-02-lens.gmi mieum's rawtext gemlog — [詩] lens
+=> gemini://rawtext.club/~mieum/poems/2020-09-02-rest_stop_spuds.gmi mieum's rawtext gemlog — [詩] rest stop spuds
+=> gemini://rawtext.club/~mieum/relog/2020-09-02-sloum-surveillance_childcare.gmi mieum's rawtext gemlog — [答] sloum::Surveillance Childcare
+=> gemini://gem.acdw.net:1965/page/2020-09-02-RE_Mastodons-inefficient-tooling acdw's Blog — RE_Mastodons-inefficient-tooling
+
+
+## 2020-09-01
+
+=> gemini://gem.acdw.net:1965/page/2020-09-01-Dreams acdw's Blog — Dreams
+=> gemini://rawtext.club/~mieum/poems/2020-09-01-september.gmi mieum's rawtext gemlog — [詩] September
+=> gemini://kwiecien.us/gemcast/20200901.gmi Gemini Radio — Episode 10
+=> gemini://gemlog.blue/users/sloum/1598938251.gmi gemini://gemlog.blue/users/sloum/ — more nimf-wasm, slices of breadpunk, etc
+=> gemini://gemini.marmaladefoo.com/blog/1-Sep-2020_The_Duckling_Proxy.gmi Luke's Gemlog — The Duckling Proxy
+
+
+## 2020-08-31
+
+=> gemini://kwiecien.us/gemcast/20200831.gmi Gemini Radio — Episode 9
+=> gemini://gem.acdw.net:1965/page/2020-08-31-Update-2020-08-31 acdw's Blog — Update-2020-08-31
+
+
+## 2020-08-29
+
+=> gemini://carcosa.net/journal/20200829-five-questions.gmi An Inhabitant of Carcosa — Answers to August's 5Q 
+=> gemini://rawtext.club/~mieum/relog/2020-08-29-bouncepaw-on_hardwrap.gmi mieum's rawtext gemlog — [答] bouncepaw::on hardwrap
+
+
+## 2020-08-28
+
+=> gemini://gemlog.blue/users/left_adjoint/1598594260.gmi left_adjoint's gemlog — The longest days
+=> gemini://kwiecien.us/gemcast/20200828.gmi Gemini Radio — Episode 8
+=> gemini://gemlog.blue/users/sloum/1598592551.gmi gemini://gemlog.blue/users/sloum/ — Golang + wasm ?
+
+
+## 2020-08-27
+
+=> gemini://hexdsl.co.uk/log/Motivation_and_an_Id.gmi HexDSL's Gemlog — Motivation and an Id
+=> gemini://gemini.marmaladefoo.com/blog/27-Aug-2020_Web_client_autonomy.gmi Luke's Gemlog — Web client autonomy - sailing the Small Web
+
+
+## 2020-08-26
+
+=> gemini://nytpu.com/gemlog/2020-08-26.gmi Yet Another Tech Gemlog — i despise zoom
+=> gemini://kwiecien.us/gemcast/20200826.gmi Gemini Radio — Episode 7
+
+
+## 2020-08-25
+
+=> gemini://kwiecien.us/gemcast/20200825.gmi Gemini Radio — Episode 6
+
+
+## 2020-08-24
+
+=> gemini://kwiecien.us/gemcast/20200824.gmi Gemini Radio — Episode 5
+
+
+## 2020-08-23
+
+=> gemini://gemlog.blue/users/left_adjoint/1598165335.gmi left_adjoint's gemlog — re: 5q for August 2020
+
+
+## 2020-08-21
+
+=> gemini://gemlog.blue/users/sloum/1598040261.gmi gemini://gemlog.blue/users/sloum/ — Five Questions For August
+=> gemini://gem.acdw.net:1965/page/2020-08-21-5Q-Answers-to-Bronzies-5-Questions acdw's Blog — 5Q-Answers-to-Bronzies-5-Questions
+
+
+## 2020-08-20
+
+=> gemini://gem.acdw.net:1965/page/2020-08-20-Chatting-with-email acdw's Blog — Chatting-with-email
+
+
+## 2020-08-18
+
+=> gemini://kwiecien.us/gemcast/20200818.gmi Gemini Radio — Episode 4
+=> gemini://gem.acdw.net:1965/page/2020-08-18-Making-the-web-usable-again acdw's Blog — Making-the-web-usable-again
+=> gemini://gemlog.blue/users/sloum/1597722284.gmi gemini://gemlog.blue/users/sloum/ — Finally tried 9Front
+
+
+## 2020-08-17
+
+=> gemini://kwiecien.us/gemcast/20200817.gmi Gemini Radio — Episode 3
+=> gemini://gem.acdw.net:1965/page/2020-08-17-Minesweeper acdw's Blog — Minesweeper
+
+
+## 2020-08-16
+
+=> gemini://tilde.team/~tomasino/journal/20200816-gnome-workspaces.gmi gemini://tilde.team/~tomasino/journal/ — Gnome Workspaces
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/progress-toward-offline-first.gmi Solderpunk versus the windmills: a Gemlog — Progress toward "offline first"
+
+
+## 2020-08-15
+
+=> gemini://gemlog.blue/users/sloum/1597525953.gmi gemini://gemlog.blue/users/sloum/ — The closing fist of the market - or, why the small internet can be a model for other things
+
+
+## 2020-08-14
+
+=> gemini://gemlog.blue/users/left_adjoint/1597374936.gmi left_adjoint's gemlog — Confluence
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/album-review-kikagaku-moyos-house-in-the-tall-grass.gmi Solderpunk versus the windmills: a Gemlog — Album review: Kikagaku Moyo's "House in the Tall Grass"
+=> gemini://gem.acdw.net:1965/page/2020-08-14-More-gemini-integration-into-Emacs acdw's Blog — More-gemini-integration-into-Emacs
+
+
+## 2020-08-13
+
+=> gemini://tilde.team/~tomasino/journal/20200813-keyboard-layouts.gmi gemini://tilde.team/~tomasino/journal/ — Keyboard Layouts (Re: Cadey)
+=> gemini://gemlog.blue/users/left_adjoint/1597357011.gmi left_adjoint's gemlog — Busy days, exhausting nights
+=> gemini://carcosa.net/journal/20200813-colemak.gmi An Inhabitant of Carcosa — Colemak (reply to Cadey)
+=> gemini://gem.acdw.net:1965/page/2020-08-13-Old-versions-of-acdw-net acdw's Blog — Old-versions-of-acdw-net
+=> gemini://gem.acdw.net:1965/page/2020-08-13-Teaching-Emacs-about-Gemini acdw's Blog — Teaching-Emacs-about-Gemini
+
+
+## 2020-08-12
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/books-and-pockets.gmi Solderpunk versus the windmills: a Gemlog — Books and pockets (resp. to bouncepaw and rmgr)
+=> gemini://carcosa.net/journal/20200812-haha-router-go-bzzt.gmi An Inhabitant of Carcosa — Haha, router go 'bzzt'!
+
+
+## 2020-08-11
+
+=> gemini://gem.acdw.net:1965/page/2020-08-11-One-more-thing-for-today acdw's Blog — One-more-thing-for-today
+=> gemini://gem.acdw.net:1965/page/2020-08-11-Holy-moly-my-neck-hurts acdw's Blog — Holy-moly-my-neck-hurts
+=> gemini://gem.acdw.net:1965/page/2020-08-11-Whats-in-my-pockets acdw's Blog — Whats-in-my-pockets
+
+
+## 2020-08-10
+
+=> gemini://gem.acdw.net:1965/page/2020-08-10-Long-weekend-and-many-replies acdw's Blog — Long-weekend-and-many-replies
+
+
+## 2020-08-09
+
+=> gemini://makeworld.space/gemlog/2020-08-09-favicons.gmi makeworld's gemlog — Emojis for favicons (response to Hannu)
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/computing-less-but-with-more-focus.gmi Solderpunk versus the windmills: a Gemlog — Computing less, but with more focus
+
+
+## 2020-08-08
+
+=> gemini://gemini.marmaladefoo.com/blog/8-Aug-2020_GemiNaut_v0_8_7_release.gmi Luke's Gemlog — GemiNaut 0.8.7 release announcement
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/keyboard-hegemony.gmi Solderpunk versus the windmills: a Gemlog — Keyboard hegemony
+
+
+## 2020-08-06
+
+=> gemini://gemlog.blue/users/left_adjoint/1596676712.gmi left_adjoint's gemlog — I live
+=> gemini://kwiecien.us/gemcast/20200806.gmi Gemini Radio — Episode 2
+=> gemini://gem.acdw.net:1965/page/2020-08-06-On-cooking-and-mistakes acdw's Blog — On-cooking-and-mistakes
+
+
+## 2020-08-05
+
+=> gemini://gem.acdw.net:1965/page/2020-08-05-Typesetting-verse acdw's Blog — Typesetting-verse
+
+
+## 2020-08-04
+
+=> gemini://gem.acdw.net:1965/page/2020-08-04-RE_sloum acdw's Blog — RE_sloum
+=> gemini://gemlog.blue/users/sloum/1596522415.gmi gemini://gemlog.blue/users/sloum/ — RE: Stayed home from work today   ( acdw )
+=> gemini://gem.acdw.net:1965/page/2020-08-04-10-years-an-online-pastor acdw's Blog — 10-years-an-online-pastor
+=> gemini://kwiecien.us/gemcast/20200804.gmi Gemini Radio — Episode 1
+
+
+## 2020-08-03
+
+=> gemini://gemlog.blue/users/sloum/1596434936.gmi gemini://gemlog.blue/users/sloum/ — Simpsons
+=> gemini://gem.acdw.net:1965/page/2020-08-03-Stayed-home-from-work-today acdw's Blog — Stayed-home-from-work-today
+
+
+## 2020-08-02
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/the-standard-salvaged-computing-platform.gmi Solderpunk versus the windmills: a Gemlog — The standard salvaged computing platform
+=> gemini://makeworld.space/gemlog/2020-08-02-personal-feeds.gmi makeworld's gemlog — Personal Feeds (response to Solderpunk)
+
+
+## 2020-08-01
+
+=> gemini://gem.acdw.net:1965/page/2020-08-01-Thoughts-on-social-media acdw's Blog — Thoughts-on-social-media
+=> gemini://carcosa.net/journal/20200801-what-am-i-doing.gmi An Inhabitant of Carcosa — What am I doing instead of writing?
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gemini-aggregation-curation-etc.gmi Solderpunk versus the windmills: a Gemlog — Gemini aggregation, curation, etc.
+
+
+## 2020-07-31
+
+=> gemini://gemini.marmaladefoo.com/blog/31-Jul-2020_Html2Gemini_converters.gmi Luke's Gemlog — Html2Gemini conversion library and app
+=> gemini://gem.acdw.net:1965/page/2020-07-31-Poover acdw's Blog — Poover
+
+
+## 2020-07-30
+
+=> gemini://gem.acdw.net:1965/page/2020-07-30-Synchronicity acdw's Blog — Synchronicity
+=> gemini://gem.acdw.net:1965/page/2020-07-30-Tall-venting-latte acdw's Blog — Tall-venting-latte
+
+
+## 2020-07-29
+
+=> gemini://gem.acdw.net:1965/page/2020-07-29-Content-vs-Presentation acdw's Blog — Content-vs-Presentation
+
+
+## 2020-07-28
+
+=> gemini://gemlog.blue/users/left_adjoint/1595908889.gmi left_adjoint's gemlog — Hard to keep posting: depression, heat, and exhaustion
+=> gemini://gem.acdw.net:1965/page/2020-07-28-Computer-display-weirdness acdw's Blog — Computer-display-weirdness
+
+
+## 2020-07-27
+
+=> gemini://gemlog.blue/users/sloum/1595814554.gmi gemini://gemlog.blue/users/sloum/ — Nimf
+=> gemini://gem.acdw.net:1965/page/2020-07-27-LaTeX-is-complicated-needlessly-so acdw's Blog — LaTeX-is-complicated-needlessly-so
+
+
+## 2020-07-26
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/discussions-toward-radically-sustainable-computing.gmi Solderpunk versus the windmills: a Gemlog — Discussions toward radically sustainable computing
+
+
+## 2020-07-25
+
+=> gemini://gem.acdw.net:1965/page/2020-07-25-My-dream-for-a-personal-website acdw's Blog — My-dream-for-a-personal-website
+=> gemini://hexdsl.co.uk/log/The_Hunters_Garden_PART_2.gmi HexDSL's Gemlog — The Hunters Garden. Part 2
+
+
+## 2020-07-24
+
+=> gemini://gem.acdw.net:1965/page/2020-07-24-The-last-day-of-my-twenties acdw's Blog — The-last-day-of-my-twenties
+=> gemini://gemlog.blue/users/left_adjoint/1595553417.gmi left_adjoint's gemlog — Overly strong feelings about typography & typsetting (re: Spaces after a period)
+=> gemini://gem.acdw.net:1965/page/2020-07-24-Trying-to-explain-Gemini-to-someone acdw's Blog — Trying-to-explain-Gemini-to-someone
+
+
+## 2020-07-23
+
+=> gemini://gem.acdw.net:1965/page/2020-07-23-Spaces-after-a-period acdw's Blog — Spaces-after-a-period
+
+
+## 2020-07-22
+
+=> gemini://gem.acdw.net:1965/page/2020-07-22-Meaning-community acdw's Blog — Meaning-community
+=> gemini://gem.acdw.net:1965/page/2020-07-22-Microblogging-HOO acdw's Blog — Microblogging-HOO
+=> gemini://gemlog.blue/users/left_adjoint/1595438342.gmi left_adjoint's gemlog — July 18--21 : theorem provers, portland police, and conviviality
+
+
+## 2020-07-21
+
+=> gemini://gem.acdw.net:1965/page/2020-07-21-Superiority-Burgers-Crispy-Fried-Tofu-Sandwich acdw's Blog — Superiority-Burgers-Crispy-Fried-Tofu-Sandwich
+=> gemini://gemini.marmaladefoo.com/geminaut/index.gmi Luke's Gemlog — New release of GemiNaut with bookmarks and a gorgeous new dark theme
+=> gemini://gem.acdw.net:1965/page/2020-07-21-Beans acdw's Blog — Beans
+
+
+## 2020-07-20
+
+=> gemini://gemlog.blue/users/sloum/1595221160.gmi gemini://gemlog.blue/users/sloum/ — Chalk Walkthrough / Forth-style interpreter
+
+
+## 2020-07-17
+
+=> gemini://gem.acdw.net:1965/page/2020-07-17-Parents-weekend acdw's Blog — Parents-weekend
+=> gemini://gemlog.blue/users/left_adjoint/1594949129.gmi left_adjoint's gemlog — Memetic viruses & self-destructive impulses
+=> gemini://gemlog.blue/users/left_adjoint/1595004095.gmi left_adjoint's gemlog — Witchcraft, Chaos, and being a Post-Pentacostal
+=> gemini://gemlog.blue/users/sloum/1594956690.gmi gemini://gemlog.blue/users/sloum/ — Othello (the board game) over Gemini
+
+
+## 2020-07-16
+
+=> gemini://gemini.marmaladefoo.com/blog/16-Jul-2020_Oblique_strategies.gmi Luke's Gemlog — Oblique strategies and other divinations
+=> gemini://carcosa.net/journal/20200716-fountain-pens.gmi An Inhabitant of Carcosa — Pens (reply to acdw)
+=> gemini://gemlog.blue/users/left_adjoint/1594926748.gmi left_adjoint's gemlog — Executive dysfunction, hyperfocus, and game jams
+=> gemini://tilde.team/~tomasino/journal/20200716-i-ching.gmi gemini://tilde.team/~tomasino/journal/ — I Ching
+
+
+## 2020-07-15
+
+=> gemini://gemlog.blue/users/left_adjoint/1594790490.gmi left_adjoint's gemlog — Summary of the last two days
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gardening-update.gmi Solderpunk versus the windmills: a Gemlog — Gardening update
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/resisting-and-not-resisting-photographic-purchases.gmi Solderpunk versus the windmills: a Gemlog — Resisting, and not resisting, photographic purchases
+
+
+## 2020-07-14
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/hostnaming-schemes.gmi Solderpunk versus the windmills: a Gemlog — Hostnaming schemes (resp. to dctrud)
+=> gemini://gemlog.blue/users/sloum/1594770108.gmi gemini://gemlog.blue/users/sloum/ — Dhalgren
+=> gemini://mozz.us/journal/2020-07-14.gmi Mozz.us Gemlog — Jetforce v0.5.0 release
+
+
+## 2020-07-13
+
+=> gemini://gemlog.blue/users/left_adjoint/1594611307.gmi left_adjoint's gemlog — Thoughts on today
+=> gemini://carcosa.net/journal/20200713-smolinternet.gmi An Inhabitant of Carcosa — The Smol Internet – Mostly Replies
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/reimagining-the-internet.gmi Solderpunk versus the windmills: a Gemlog — Reimagining the internet
+
+
+## 2020-07-12
+
+=> gemini://gemlog.blue/users/left_adjoint/1594533261.gmi left_adjoint's gemlog — Tired and contemplative
+=> gemini://gemlog.blue/users/left_adjoint/1594588958.gmi left_adjoint's gemlog — Self as object, self as subject
+
+
+## 2020-07-11
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/my-second-s24o.gmi Solderpunk versus the windmills: a Gemlog — My second S24O
+
+
+## 2020-07-10
+
+=> gemini://gemlog.blue/users/left_adjoint/1594425187.gmi left_adjoint's gemlog — Hope: a practiced skill, and other thoughts
+=> gemini://gemlog.blue/users/left_adjoint/1594349361.gmi left_adjoint's gemlog — How do you put your work down?
+
+
+## 2020-07-09
+
+=> gemini://gemlog.blue/users/left_adjoint/1594268356.gmi left_adjoint's gemlog — Thoughts on the day
+=> gemini://gemlog.blue/users/left_adjoint/1594261857.gmi left_adjoint's gemlog — Hey 
+=> gemini://gemlog.blue/users/sloum/1594267550.gmi gemini://gemlog.blue/users/sloum/ — Vegan Fried Chx (Seitan)
+
+
+## 2020-07-08
+
+=> gemini://gemlog.blue/users/sloum/1594184706.gmi gemini://gemlog.blue/users/sloum/ — Kristall
+=> gemini://tilde.team/~tomasino/journal/20200708-black-on-samizdat.gmi gemini://tilde.team/~tomasino/journal/ — Black on Samizdat
+=> gemini://gemlog.blue/users/sloum/1594186073.gmi gemini://gemlog.blue/users/sloum/ — RE: 5 Questions (christina)
+
+
+## 2020-07-07
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/unification-progress.gmi Solderpunk versus the windmills: a Gemlog — Unification progress
+=> gemini://gemini.marmaladefoo.com/blog/7-Jul-2020_GemiNaut_v0_8_6_release.gmi Luke's Gemlog — GemiNaut ♥ Gopher - a new release of GemiNaut
+=> gemini://mozz.us/journal/2020-07-07.gmi Mozz.us Gemlog — Re: Gemini on Tor (fox)
+
+
+## 2020-07-06
+
+=> gemini://makeworld.space/gemlog/2020-07-06-openssl.gmi makeworld's gemlog — OpenSSL commands for Gemini
+=> gemini://tilde.team/~tomasino/journal/20200706-gemini-on-tor.gmi gemini://tilde.team/~tomasino/journal/ — Gemini on Tor
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/sungods-sungod.gmi Solderpunk versus the windmills: a Gemlog — Album review: Sungod's "Sungod"
+=> gemini://gemlog.blue/users/sloum/1594013994.gmi gemini://gemlog.blue/users/sloum/ — Fyne GUI Toolkit
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/purchases-2020-07.gmi Solderpunk versus the windmills: a Gemlog — July 2020's music purchases
+
+
+## 2020-07-05
+
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/identity-crisis.gmi Solderpunk versus the windmills: a Gemlog — Identity crisis
+=> gemini://makeworld.space/gemlog/2020-07-05-tofu-2.gmi makeworld's gemlog — Another idea for TOFU
+
+
+## 2020-07-03
+
+=> gemini://makeworld.space/gemlog/2020-07-03-tofu-rec.gmi makeworld's gemlog — TOFU Recommendations
+=> gemini://gemlog.blue/users/sloum/1593747674.gmi gemini://gemlog.blue/users/sloum/ — Responses to acdw and maleza
+
+
+## 2020-07-02
+
+=> gemini://gemini.marmaladefoo.com/blog/2-Jul-2020_GMI_based_feed_generator.gmi Luke's Gemlog — Automatically generating Atom feeds from your GMI blog index  
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/scattered-purgatorys-lost-ethnography-of-the-miscanthus-ocean.gmi Solderpunk versus the windmills: a Gemlog — Album review: Scattered Purgatory's "Lost Ethnography of the Miscanthus Ocean"
+
+
+---
+
+=> https://git.nytpu.com/comitium/about/ aggregated using comitium v1.7.0-b5963fbe3a51ce3cf0caa87fbf26b29b4dcec812

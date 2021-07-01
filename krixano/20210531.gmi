@@ -1,0 +1,63 @@
+# 2021-05-31 The Gemini CSV Document Format
+So, I had an idea to start this project that would basically be a database that stores information that you can then search from, and get a table. The only problem is, gemtext doesn't support tables, so they would have to use something like preformatted blocks, which is doable, but I think we could perhaps do better.
+
+### CSVs
+The very first thing I thought of was CSV - Comma Separated Values. It's a very basic document format, and Astrobotany already uses it for its Leaderboards[1]. *And* clients can pretty easily render CSV documents as tables, and there are also tools that already support it. Some smart clients could even include a way to re-sort the tables. However, what about titles and hyperlinking?
+
+### Multi-language Documents
+One of the things that I thought about while trying to come up with an experimental alternative to HTML+CSS a while ago was how you can combine different languages together into one document so that you use the right language for the right job. For example, Markdown for text, SASS-style language for styling, and CSV for tables.
+
+So, what if we applied that here as well? We could combine parts of gemtext with CSV to get a document that supports a title and hyperlinks. And this could work well, since both are line-based. CSV uses separate lines for separate rows, while gemtext uses them for separate entities (bullets, headings, etc.)
+
+### The Idea
+What we could do is have a document where the first line is a title if prepended by `# `. Then, we can have blank lines or links, denoted like in gemtext (with `=>`). Then we can have a set of CSV lines. And then at the end, we could have more links. Link lines would break the table apart into two sections everytime they appear.
+
+And the extension could be either .gmicsv or .gcsv
+
+As an example:
+
+```Gemini CSV Example
+# Star Wars Comics
+
+=> /starwars/search Search
+
+Title,Issues,Years,Publisher
+Star Wars,75,2015-2019,Marvel
+Darth Vader,25,2015-2016,Marvel
+Kanan,12,2015-2016,Marvel
+Doctor Aphra,40,2016-2019,Marvel
+Poe Dameron,31,2016-2018,Marvel
+Darth Vader: Dark Lord of the Sith,25,2017-2018,Marvel
+Star Wars Adventures,32,2017-2020 IDW
+```
+
+And the client would render it like this:
+
+```Gemini CSV Rendering Example
+Star Wars Comics
+
+> Search
+
+╔═══════════════════════╤════════╤═══════════╤═══════════╗
+║ Title                 │ Issues │ Years     │ Publisher ║
+╠═══════════════════════╪════════╪═══════════╪═══════════╣
+║ Star Wars             │ 75     │ 2015-2019 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Darth Vader           │ 25     │ 2015-2016 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Kanan                 │ 12     │ 2015-2016 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Doctor Aphra          │ 40     │ 2016-2019 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Poe Dameron           │ 31     │ 2016-2018 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Dark Lord of the Sith │ 25     │ 2017-2018 │ Marvel    ║
+╟───────────────────────┼────────┼───────────┼───────────╢
+║ Star Wars Adventures  │ 32     │ 2017-2020 │ IDW       ║
+╚═══════════════════════╧════════╧═══════════╧═══════════╝
+```
+
+An additional benefit to having a specific format for this would be that clients can adapt the table to the window size. This is not doable with preformatted blocks in gemini. It would also allow for table-specific features, and would be better for screen-readers as well.
+
+
+=> gemini://astrobotany.mozz.us/leaderboards [1]Astrobotany Leaderboards

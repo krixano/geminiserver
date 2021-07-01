@@ -1,0 +1,29 @@
+# Ponics Forum
+* Type "forum" to start the forum program.
+* "list_meetings" ("lsm" for short) will list all of the meetings. Meetings are like boards. They can be private or public. They can be restricted to certain users or projects. And they have a manager, called the chairman. When the meetings are listed, they show a short name in the far-right column.
+* "goto [meeting_short_name]" will put you into a meeting.
+* "list" will list all of the transactions in the currently-selected meeting. A transaction is like a message. A transaction can start a new topic, or respond to another message. A group of messages that are all responses to each other leading to the same root message is called a "chain".
+* "print [transaction #]" will print the contents of a transaction. You can also use "next" or "previous" in place of the number to select the next transaction and print it.
+* "reply [transaction #]" will reply to a transaction, starting or continuing a chain. Replies always use the same subject with "RE" prepended.
+* "talk" will start a new transaction that's not part of a chain - it will start a new topic. It will prompt for a subject and a body.
+
+Once you've mastered these, there is a forum program that uses a menu, called "xforum".
+
+You can also enable notifications of any changes to meetings you are a participant in by typing "fant" on the multics command line. This works similarly to how mail and message notifications work.
+
+## Transaction Specifiers
+Some commands (like "print" and "reply") take a transaction specifier. Most commonly, this will be the number of the transaction. However, there are a few other ways of doing this:
+
+* range - A range of transactions from the first to the second number. Ex: print 1:5
+* next/previous - prints the next/previous transaction from the currently selected one.
+* relative - Using "+" or "-" before a number will print the current transaction number plus/minus that many transactions.
+* nextref/previousref - This will print the next/prevoius transaction in the same chain that the current transaction is in, if applicable.
+
+## Meetings Directory
+There is a "Meetings_Directory" meeting. This is a meeting where announcements to other meetings are posted so that people can find out about any meetings on the server.
+
+Not all meetings show up by default in forum. The meetings that do show up are meetings set in the main forum directory (>site>forum_dir), or meetings in the meetings directory of your home directory (>udd>[user project]>[user name]>meetings).
+
+You can add other meetings by using the "add_meeting" command, and providing it the path to the meeting, or the transaction number of it's announcement in the Meetings_Directory meeting.
+
+Whenever someone creates a meeting, they have the option of automatically creating an announcement for it in the Meetings_Directory so that other people can see the meeting. This is most useful for meetings that would not display already by default (meetings not in the root forum directory).

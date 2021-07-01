@@ -1,0 +1,7 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+

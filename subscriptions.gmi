@@ -1,0 +1,65 @@
+# subscribed feeds
+
+Generated on 2021-07-01 at 20:41 UTC
+
+
+## feeds
+
+Gemini, Atom, RSS, and JSON feeds from all over.
+
+
+=> gemini://astrobotany.mozz.us/news Astrobotany - News
+=> gemini://makeworld.space/gemlog/ makeworld's gemlog
+=> gemini://republic.circumlunar.space/users/joneworlds/ Joneworlds
+=> gemini://skyjake.fi/gemlog/ skyjake's Gemlog
+=> gemini://carcosa.net/journal An Inhabitant of Carcosa
+=> gemini://gem.acdw.net/do/more/100 acdw's Blog
+=> gemini://gemlog.blue/users/left_adjoint/ left_adjoint's gemlog
+=> gemini://hexdsl.co.uk/log_archive.gmi HexDSL's Gemlog
+=> gemini://drewdevault.com/ Drew DeVault's geminispace
+=> gemini://miso.town/ m15o
+=> gemini://pon.ix.tc/devlog Ponix Devlog
+=>  xq'stuff
+=> gemini://rawtext.club/~mieum/gemlog.gmi mieum's rawtext gemlog
+=> gemini://tilde.team/~tomasino/journal/ 
+=> gemini://gem.chriswere.uk/trendytalk/ Welcome to the Trendy Talk podcast
+=> gemini://rwv.io/ RWV.io
+=> gemini://pon.ix.tc/~krixano/ Krixano's Gemlog
+=> gemini://warmedal.se/~bjorn/atom.xml ew0k is a Teddybear
+=> gemini://calcuode.com/gemlog/ Callum's Gemlog
+=> gemini://gem.pwarren.id.au/gemlog/ A Lack Of Entropy
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/ Solderpunk versus the windmills: a Gemlog
+=> gemini://gemlog.blue/users/sloum/ 
+=> gemini://kwiecien.us/gemcast/index.gmi Gemini Radio
+=> gemini://kwiecien.us/gemlog/ Ben's Gemlog ☪
+=> gemini://friendo.monster/ Friendo dot monster
+=> gemini://gem.chriswere.uk/aprilcast/ Aprilcast
+=> gemini://gemlog.medusae.space/posts/ 
+=> gemini://nytpu.com/gemlog/ Yet Another Tech Gemlog
+=> gemini://republic.circumlunar.space/users/flexibeast/gemlog/index.gmi Trying To Be Constructive
+=> gemini://tilde.team/~benk/ Generic Benlog
+=> gemini://lapacz-kornel.dev/log/ Kornel's gemlog
+=> https://standardebooks.org/rss/new-releases Standard Ebooks - New Releases
+=> gemini://gemini.marmaladefoo.com/blog/ Luke's Gemlog
+=> gemini://mieum.smol.pub/ pass with care
+=> gemini://mozz.us/journal/ Mozz.us Gemlog
+
+
+## pages
+
+Watching these pages for any changes that occur.
+
+
+=> gemini://gem.chriswere.uk/nano.gmi Chris Were's nano log
+=> gemini://station.martinrue.com/updates Station Recent Updates
+=> gopher://circumlunar.space:70/1/~sloum/phlog Sloum's Phlog
+=> gopher://colorfield.space:70/1/~sloum/phlog/ Sloum's Phlog (colorfield)
+=> gopher://gopher.black:70/1/moku-pona/ Phlogroll (tomasino)
+=> gopher://gopher.black:70/1/phlog Tomasino's Phlog
+=> gopher://i-logout.cz:70/1/bongusta Bongusta!
+=> gopher://zaibatsu.circumlunar.space:70/1/~tfurrows/phlog/ Tfurrows' Phlog
+
+
+---
+
+=> https://git.nytpu.com/comitium/about/ aggregated using comitium v1.7.0-b5963fbe3a51ce3cf0caa87fbf26b29b4dcec812

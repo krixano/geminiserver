@@ -1,0 +1,56 @@
+=> gemini://pon.ix.tc/odin Home
+=> gemini://pon.ix.tc/odin/docs Documentation
+=> gemini://pon.ix.tc/odin/help.gmi Community
+=> gemini://pon.ix.tc/odin/downloads Download
+=> https://github.com/odin-lang/Odin Github
+
+# The Odin Programming Language
+
+The Odin programming language is designed with the intent of creating an alternative to C with the following goals:
+
+* simplicity
+* high performance
+* built for modern systems
+* joy of programming
+
+
+## Example Code
+
+```odin
+package main
+
+import "core:fmt"
+
+main :: proc() {
+    program := "+ + * 😃 - /";
+    accumulator := 0;
+
+    for token in program {
+    	switch token {
+    	case '+': accumulator += 1;
+    	case '-': accumulator -= 1;
+    	case '*': accumulator *= 2;
+    	case '/': accumulator /= 2;
+    	case '😃': accumulator *= accumulator;
+    	case: // Ignore everything else
+    	}
+    }
+
+    fmt.printf("The program \"%s\" calculates the value %d\n",
+               program, accumulator);
+}
+```
+
+## Language Features
+
+* Built-in types: strings, array, slices, dynamic arrays, maps, 128-bit integers, endian-specific integers
+* Multiple return arguments[1]
+* Consistent value declaration syntax
+* Parametric polymorphism[2]
+* Compile time conditions[3] (`when` statements) and stress where there is not full blown compile time execution
+* `defer` statement[4]
+* `using` statement[5]
+* The implicit `context` system[6] and memory allocator system[7]
+* Explicit procedure overloading[8]
+
+## Financial Support

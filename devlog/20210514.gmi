@@ -1,0 +1,10 @@
+# Multics Pubnix Launch
+I am launching a new pubnix of the Multics OS hosted on this server, called "Ponics"! If you want to join, send an email to:
+=> mailto:krixano@mailbox.org krixano@mailbox.org
+
+The system has local mail and a forum/BBS system. There is also various text editors, including emacs, qedx, TECO, and a few others. There are various programming languages, including Pascal, Lisp, C, PL/I, Fortran, and Basic. And there are powerful word processing and document creation tools.
+
+You can find a list of tutorials, manuals, and a guide to get connected for the first time here:
+=> /ponics/ Multics Docs
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210514.gmi Backlinks

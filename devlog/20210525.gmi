@@ -1,0 +1,9 @@
+# YouTube and Github Proxy Updates
+Some people were getting 404 errors while trying to download videos from the youtube proxy here on Ponix. This has now been fixed. The server has also been improved so that there are less crashes that happen. This was caused by not closing opened files or HTTP requests from the proxies.
+
+The Github proxy has also been updated so that files are sent correctly. There was a small bug where any files downloaded through the proxy would have all "%" signs replaced with "(MISSING)". This was due to passing the file contents to Sprintf or similar. This has also now been fixed.
+
+=> /youtube Youtube Proxy
+=> /github GitHub Proxy
+
+=> gemini://geminispace.info/backlinks?gemini%3A%2F%2Fpon.ix.tc%2Fdevlog%2F20210525.gmi Backlinks

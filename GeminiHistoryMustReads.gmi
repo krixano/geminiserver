@@ -1,0 +1,52 @@
+# Gemini History Must-Reads
+
+## The Beginning
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/pondering-whats-inbetween-gopher-and-the-web.txt 2019-03-03 Pondering what's inbetween gopher and the web
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/why-gopher-needs-crypto.txt 2019-03-31 Why gopher needs crypto
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/more-on-gopher-and-crypto.txt 2019-04-07 More on gopher and crypto
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/the-soul-of-gopher.txt 2019-06-12 The Soul of gopher
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/protocol-pondering-intensifies.txt 2019-06-16 Protocol pondering intensifies, Pt I
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/protocol-pondering-intensifies-ii.txt 2019-06-16 Protocol pondering intensifies, Pt II
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/phlog/protocol-pondering-intensifies-iii.txt 2019-06-16 Protocol pondering intensifies, Pt III
+
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/gemini/tls-overhead.txt 2019-06-21 TLS overhead
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/gemini/redirection.txt 2019-06-21 Redirection
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/gemini/gemini-in-the-wild-av-98.txt 2019-06-22 Gemini in the wild, AV-98
+
+For the rest of Solderpunk's posts on Project Gemini within Gopherspace, go here:
+=> gopher://zaibatsu.circumlunar.space:70/1/~solderpunk/gemini Project Gemini History Posts (Solderpunk)
+
+## Gemtext Reflow vs. Hardwrapping
+=> gemini://carcosa.net/journal/20190711-text-wrapping.gmi 2020-07-11 Text wrapping (Carcosa.net)
+=> gemini://mozz.us/markdown/ A Simple Markdown Proposal for Gemini (Mozz)
+=> https://lists.orbitalfox.eu/archives/gemini/2020/000304.html 2020-01-12 Text Reflow Woes Thread (Solderpunk et al.)
+
+## Certificates and Astrobotany
+=> gopher://zaibatsu.circumlunar.space:70/0/~solderpunk/gemini/inputs-and-client-certs.txt 2019-07-25 Inputs and client certificates (Solderpunk)
+=> gemini://mozz.us/journal/2019-08-21_transient_tls_certs.gmi 2019-08-21 Transient TLS certificates (Mozz)
+=> gemini://mozz.us/journal/2020-04-14.gmi 2020-04-14 Astrobotany Beta Release (Mozz)
+=> gemini://mozz.us/journal/2020-05-06.gmi 2020-05-06 Transient TLS client certificates - Part 2 (Mozz)
+=> gemini://mozz.us/journal/2020-05-21.gmi 2020-05-21 Transient TLS client certificates - Part 3 (Mozz)
+=> gemini://mozz.us/journal/2020-05-28.gmi 2020-05-28 Server updates (Mozz)
+
+## Certificate Doubt Before Embracement
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/the-mercury-protocol.gmi 2020-05-26 The Mercury Protocol (Solderpunk)
+
+## Certificate Embracement, Streaming, Gemini Apps, and Games
+=> gemini://rawtext.club/~sloum/geminilist/001696.gmi 2020-06-15 gemini streaming (tomasino)
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/a-vision-for-gemini-applications.gmi 2020-06-16 A vision for Gemini applications (Solderpunk)
+=> gemini://mozz.us/journal/2020-06-21.gmi 2020-06-21 Mozz's Response
+
+## "Smol Internet"
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/reimagining-the-internet.gmi 2020-07-13 Reimagining the internet (Solderpunk)
+
+## Client Design
+=> gemini://mozz.us/journal/2021-01-01.gmi 2021-01-01 Gemini Client Design - Navigation (Mozz)
+=> gemini://gemini.circumlunar.space/users/solderpunk/gemlog/gemini-client-navigation.gmi 2021-01-02 Gemini client navigation (resp. to mozz) (Solderpunk)
+
+## Clients
+=> gemini://skyjake.fi/gemlog/2020-11_an-origin-story.gmi Lagrange - An Origin Story (Skyjake)
+=> https://lists.orbitalfox.eu/archives/gemini/2020/001099.html GemiNaut Initial Release (Luke Emmet)
+=> https://lists.orbitalfox.eu/archives/gemini/2019/000292.html Castor Initial Release (Julien Blanchard)
+=> https://lists.orbitalfox.eu/archives/gemini/2020/001389.html Kristall Initial Release (Felix Queißner)
+=> https://lists.orbitalfox.eu/archives/gemini/2020/002570.html diohsc Initial Release (mbays)

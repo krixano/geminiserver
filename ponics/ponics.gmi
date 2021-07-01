@@ -1,0 +1,45 @@
+# First Time on Ponics Multics Server
+The very first things you need to know are these:
+* "cd" means create directory (not change directory), while "cwd" is how you change the (working) directory.
+* "pwd" prints your current working directory
+* Paths are delimited by ">", where an initial ">" is the root. An example path is ">udd>Multics>User"
+* Everywhere in the Docs or programs where it says "DEL" means "Backspace". Our normal Del key does not work. This also applies to arrow keys. Instead, use emacs key-bindings to move the cursor around (Ctrl+n and Ctrl+p to move down and up, Ctrl+f and Ctrl+b to move right and left)
+* Each user is attached to a project id. A project is a folder of users that work on that folder, and can have a project administrator. Users can be registered to multiple projects, but you can only sign into one project by specifying the project after your username in the login command. By not specifying the project (like below), the default project is selected. The only project on ponics right now is "Multics".
+
+## Logging In And Changing Password
+The first thing to do to login is ssh into the Ponix server on the "ponics" user. This will automatically start up a telnet session connecting to the local Multics server.
+
+```SSH Login
+ssh ponics@pon.ix.tc
+```
+
+Next, you will be prompted with a list of terminals in brackets. Just press enter to choose the first one. It will look something like this:
+
+```Multics Prompt
+HSLA Port (d.h000,d.h001,d.h002,d.h003,d.h004,d.h005,d.h006,d.h007,
+d.h008,d.h009,d.h010,d.h011,d.h012,d.h013,d.h014,d.h015,d.h016,d.h017,
+d.h018,d.h019,d.h020,d.h021,d.h022,d.h023,d.h024,d.h025,d.h026,d.h027,
+d.h028,d.h029,d.h030,d.h031)?
+```
+
+After pressing enter, you will be prompted with this:
+
+```Multics Prompt
+Multics MR12.6f: Ponics (Channel d.h000)
+Load = 5.0 out of 90.0 units: users = 5, 05/09/21  1225.4 pst Sun
+```
+
+Type "login Username -cpw" (without quotes). This will log you in and have you change your password. On all other times you are logging in, remove the "-cpw" (change password).
+Passwords can only be 8 characters maximum and cannot have special symbols.
+
+The command line will be ready as soon as this is printed:
+
+```Multics Prompt
+r 12:54 4.365 91
+```
+
+To begin the tutorial, type "tutorial" and press enter. You can see a list of all currently logged in users with "who".
+
+Finally, you can logout with the "logout" command.
+
+=> index.gmi Back

@@ -1,0 +1,7 @@
+# Star Wars Lists
+
+## Publication Order
+=> StarWarsComics.gmi Canon Comics List
+=> StarWarsBooks.gmi Canon Books List
+=> StarWarsShowsAndMovies.gmi Canon Shows and Movies
+=> StarWarsMultimediaProjects.gmi Canon Multimedia Projects

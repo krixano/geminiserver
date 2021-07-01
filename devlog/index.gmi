@@ -1,0 +1,13 @@
+# Ponix Devlog
+=> /devlog/20210606.gmi 2021-06-06 New Star Wars Database: Progress
+=> /devlog/20210601.gmi 2021-06-01 Weather
+=> /devlog/20210531.gmi 2021-05-31 Star Wars Canon Lists
+=> /devlog/20210525.gmi 2021-05-25 Youtube and Github Proxy Updates
+=> /devlog/20210514.gmi 2021-05-14 Multics Pubnix Launch
+=> /devlog/20210430.gmi 2021-04-30 GitHub Proxy Improvements
+=> /devlog/20210428.gmi 2021-04-28 GitHub Proxy WIP
+=> /devlog/20210427.gmi 2021-04-27 Odin Mirror Launch
+=> /devlog/20210424.gmi 2021-04-24 YouTube Proxy Launch
+
+=> /devlog/atom.xml Atom Feed
+=> / Home
