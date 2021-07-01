@@ -1,4 +1,5 @@
 # Ponix Devlog
+=> /devlog/20210701.gmi 2021-07-01 Search Engine & Ponix Capsule Now Open Source (MIT)
 => /devlog/20210606.gmi 2021-06-06 New Star Wars Database: Progress
 => /devlog/20210601.gmi 2021-06-01 Weather
 => /devlog/20210531.gmi 2021-05-31 Star Wars Canon Lists

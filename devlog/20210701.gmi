@@ -1,0 +1,9 @@
+# 2021-07-01 Search Engine & Ponix Capsule Now Open Source (MIT)
+
+I have created a new simple Search Engine for Gemini. It is still a work in progress, but I have many things planned, including better search results and better performance (as searching is still quite slow).
+
+=> /searchengine/ Search Engine Page
+
+I have also Open Sourced *all* of this capsule (aside from server passwords and API Keys) as MIT.
+
+=> https://github.com/krixano/geminiserver Github Repo
